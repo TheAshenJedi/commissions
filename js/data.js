@@ -1,16 +1,16 @@
 var data = {
 	images: [
 		{
-			src: [""],
-			thumbnail: "",
-			title: "Placeholder Entry",
-			artist: "Placeholder Entry",
-			artist_url: null,
-			art_url: null,
-			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
-			date_str: "Beginning of Time",
-			tags: ["nsfw"],
-			hidden: true
+			src: ["https://www.imgchest.com/p/9p4nwdzdz4n"],
+			thumbnail: "https://www.imgchest.com/p/md7owrbrd4p",
+			title: "Jedi Ingrid (Xander Wolk)",
+			artist: "Xander Wolk",
+			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
+			art_url: "https://bsky.app/profile/xander-wolk.bsky.social/post/3ll5speu2fc2x",
+			desc: "Jedi Knight Ingrid Brandl Galatea reporting for duty",
+			date_str: "March 24th 2025",
+			tags: ["Ingrid", "sfw"],
+			hidden: false
 		},
 		{
 			src: [""],

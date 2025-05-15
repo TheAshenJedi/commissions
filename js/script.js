@@ -69,9 +69,6 @@ $(document).ready(function() {
 		// Permalink disabled for this site
 		//$("#img"+hash_index).click();
 	}
-	else {
-		ageVerification();
-	}
 });
 
 // Create the gallery image modal description section
@@ -328,6 +325,17 @@ function createTagsDropdown(tags) {
 	$(".checkbox-menu").on("change", "input[type='checkbox']", function() {
 		var tag = $(this)[0].value;
 
+		// If the tag is "nsfw" and is checked, then ask for 18+ confirmation
+		if (tag == "nsfw" && $(this).closest("input").prop("checked")) {
+			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
+			var nsfw_confirmation = ageVerification();
+			// Set the checkbox to unchecked if Cancel was selected instead of OK
+			if (!nsfw_confirmation) {
+				$(this).closest("input").prop("checked", false);
+				return false;
+			}
+		}
+
 		// Mark the tag in the map to true if checked and false if unchecked
 		$(this).closest("li").toggleClass("active", this.checked);
 		if ($(this).closest("li").hasClass("active")) {
@@ -483,17 +491,17 @@ function intersect(a, b) {
 }
 
 function ageVerification() {
-	if (localStorage.getItem("ageVerified") && localStorage.getItem("ageVerified") == "verified") {
-		return;
+	if (localStorage.getItem("nsfwVerified") && localStorage.getItem("nsfwVerified") == "verified") {
+		return true;
 	}
-
 	var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
-	// Set the checkbox to unchecked if Cancel was selected instead of OK
 	if (!nsfw_confirmation) {
-		localStorage.setItem("ageVerified", "notVerified")
+		localStorage.setItem("nsfwVerified", "notVerified")
+		return false;
 	}
 	else {
-		localStorage.setItem("ageVerified", "verified")
+		localStorage.setItem("nsfwVerified", "verified")
+		return true;
 	}
 }
 

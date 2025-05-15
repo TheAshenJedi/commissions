@@ -1,8 +1,8 @@
 var data = {
 	images: [
 		{
-			src: ["https://www.imgchest.com/p/9p4nwdzdz4n"],
-			thumbnail: "https://www.imgchest.com/p/md7owrbrd4p",
+			src: ["https://cdn.imgchest.com/files/yvdcw8jdxjy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcn9bknq4.png",
 			title: "Jedi Ingrid (Xander Wolk)",
 			artist: "Xander Wolk",
 			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",

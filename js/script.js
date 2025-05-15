@@ -241,29 +241,6 @@ function updateImageCountLabel() {
 // Map a string to another string
 function translateWord(word) {
 	var translations = {
-		fire_emblem: "Fire Emblem",
-		porkymon: "Porkymon",
-		rune_factory: "Rune Factory",
-		other_series: "Other Series",
-		larcei: "Larcei",
-		seliph: "Seliph",
-		selia: "Selia",
-		patty: "Patty",
-		shannan: "Shannan",
-		lana: "Lana",
-		scathach: "Scathach",
-		julia: "Julia",
-		ayra: "Ayra",
-		fir: "Fir",
-		peri: "Peri",
-		hel: "Hel",
-		thrasir: "Thrasir",
-		ganglot: "Ganglot",
-		embla: "Embla",
-		hex_maniac: "Hex Maniac",
-		other_character: "Other Character",
-		doujin: "Doujin",
-		animation: "Animation",
 		sfw: "SFW",
 		nsfw: "NSFW"
 	};
@@ -471,7 +448,7 @@ function showDefaultImages() {
 		var tags_arr = images[i].tags;
 
 		var search_str = document.getElementById("search-bar").value.toLowerCase();
-		if ((tags_arr.includes("larcei") || tags_arr.includes("seliph")) && tags_arr.includes("sfw")) {
+		if (tags_arr.includes("ingrid")) {
 			searchCheck(search_str, i, images);
 		}
 		else {

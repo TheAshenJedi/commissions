@@ -3,6 +3,8 @@ var series_link_clicked = false;
 var series_link_clicked_index = null;
 // Keeps track of tags and which images to show - used in ready()'s shuffle function and createTagsDropdown()
 var tags_to_show = {};
+// Keeps track if Show All mode is on
+var show_all_mode = false;
 
 // When the document finished loading and is ready...
 $(document).ready(function() {
@@ -11,15 +13,51 @@ $(document).ready(function() {
 	// Set of tags collected from the images
 	const tags = new Set();
 	setUpGallery(images, tags, false);
+	createDatePickerDropdown();
 	createTagsDropdown(tags);
+	showDefaultImages();
 	updateImageCountLabel();
 
 	// Shuffle the image order when the shuffle button is clicked
 	$("#shuffle").click(function() {
 		setUpGallery(images, tags, true);
 
-		// Show only the images that need to be shown (filtering by tags)
-		showImagesThatMatch();
+		if (!show_all_mode) {
+			// Show only the images that need to be shown (filtering by tags)
+			showImagesThatMatch();
+		}
+	});
+
+	// Shows all images and resets the Filter
+	$("#show-all").click(function() {
+		if (show_all_mode) {
+			// Toggle of show all mode which will revert to default images
+			show_all_mode = false;
+			$(this).removeClass("show-all-button-active");
+			showDefaultImages();
+			return;
+		}
+		else {
+			show_all_mode = true;
+		}
+		// Handle when show all mode is turned on
+		// Reset filter and search bar and then show all images
+		$(this).addClass("show-all-button-active");
+		$("#tags-dropdown input[type=checkbox]").each(function() {
+			if($(this).closest("li").hasClass("active")) {
+				this.click();
+			}
+		});
+		document.getElementById("search-bar").value = "";
+		$("#year").val("None");
+		$("#month").val("None");
+		var images = data.images;
+		var search_str = document.getElementById("search-bar").value.toLowerCase();
+		for (var i = 0; i < images.length; i++) {
+			$("#img"+i).show();
+		}
+		$(".hidden-image").hide();
+		updateImageCountLabel();
 	});
 
 	// Handle closing the modal when the back button is clicked
@@ -28,7 +66,11 @@ $(document).ready(function() {
 	// If the URL has a hash, then open that image based on the hash index
 	if (window.location.hash) {
 		var hash_index = window.location.hash.substring(1);
-		$("#img"+hash_index).click();
+		// Permalink disabled for this site
+		//$("#img"+hash_index).click();
+	}
+	else {
+		ageVerification();
 	}
 });
 
@@ -202,7 +244,31 @@ function updateImageCountLabel() {
 // Map a string to another string
 function translateWord(word) {
 	var translations = {
-		nsfw: "NSFW 🔞"
+		fire_emblem: "Fire Emblem",
+		porkymon: "Porkymon",
+		rune_factory: "Rune Factory",
+		other_series: "Other Series",
+		larcei: "Larcei",
+		seliph: "Seliph",
+		selia: "Selia",
+		patty: "Patty",
+		shannan: "Shannan",
+		lana: "Lana",
+		scathach: "Scathach",
+		julia: "Julia",
+		ayra: "Ayra",
+		fir: "Fir",
+		peri: "Peri",
+		hel: "Hel",
+		thrasir: "Thrasir",
+		ganglot: "Ganglot",
+		embla: "Embla",
+		hex_maniac: "Hex Maniac",
+		other_character: "Other Character",
+		doujin: "Doujin",
+		animation: "Animation",
+		sfw: "SFW",
+		nsfw: "NSFW"
 	};
 	if (word in translations) {
 		return translations[word];
@@ -210,6 +276,37 @@ function translateWord(word) {
 	else {
 		return word;
 	}
+}
+
+// Create date picker dropdown
+function createDatePickerDropdown() {
+	// Start the counter at 2019
+	var year_dropdown_HTML = "<option selected value='None'>None</option>";
+	for (var i = 2019; i <= new Date().getFullYear(); i += 1) {
+		year_dropdown_HTML += "<option value='"+i+"'>"+i+"</option>";
+	}
+	$("#year").html(year_dropdown_HTML);
+
+	var month_dropdown_HTML = "<option selected value='None'>None</option>";
+	var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+	for (var i = 0; i < months.length; i += 1) {
+		month_dropdown_HTML += "<option value='"+months[i]+"'>"+months[i]+"</option>";
+	}
+	$("#month").html(month_dropdown_HTML);
+
+	$(".datepicker-option").on("change", function() {
+		var year = $("#year").val();
+		var month = $("#month").val();
+		show_all_mode = false;
+		$("#show-all").removeClass("show-all-button-active");
+		showImagesThatMatch();
+	});
+
+	$("#datepicker-reset").click(function() {
+		$("#year").val("None");
+		$("#month").val("None");
+		showImagesThatMatch();
+	});
 }
 
 // Create the tags dropdown menu
@@ -227,29 +324,17 @@ function createTagsDropdown(tags) {
 	});
 	$("#tags-dropdown").html(tags_dropdown_HTML);
 
-	// By default, hide images with tags
-	for (var tag in tags_to_show) {
-		$("."+tag).parent().hide();
-	}
-
 	// When a checkbox is checked/unchecked in the dropdown menu...
 	$(".checkbox-menu").on("change", "input[type='checkbox']", function() {
 		var tag = $(this)[0].value;
 
-		// If the tag is "nsfw" and is checked, then ask for 18+ confirmation
-		if (tag == "nsfw" && $(this).closest("input").prop("checked")) {
-			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
-			var nsfw_confirmation = nsfwVerification();
-			// Set the checkbox to unchecked if Cancel was selected instead of OK
-			if (!nsfw_confirmation) {
-				$(this).closest("input").prop("checked", false);
-				return false;
-			}
-		}
-
 		// Mark the tag in the map to true if checked and false if unchecked
 		$(this).closest("li").toggleClass("active", this.checked);
 		if ($(this).closest("li").hasClass("active")) {
+			// Disable show all mode when the user selects a tag from the dropdown
+			// Disabling only at this step allows the user to shuffle when in show all mode without resetting
+			show_all_mode = false;
+			$("#show-all").removeClass("show-all-button-active");
 			tags_to_show[tag] = true;
 		}
 		else {
@@ -316,8 +401,8 @@ function backButtonHideModal() {
 	});
 }
 
-// Filters images by tags and search using 'AND' logic.
-// The image must have exactly the tags that are specified by the filter
+// Filters images by tags and search using danbooru logic.
+// The image must include the tags indicated in the dropdown
 // AND
 // The image must also have the search term in one of the fields to be shown.
 function showImagesThatMatch() {
@@ -328,33 +413,41 @@ function showImagesThatMatch() {
 			visible_tags.push(tag_key)
 		}
 	}
-	var visible_tags_str = visible_tags.sort().toString();
+
+	var year = $("#year").val();
+	var month = $("#month").val();
+	var date_picked = year != "None" && month != "None";
+
+	// Show default images if tags have not been selected in the Filter
+	if (visible_tags.length == 0 && !show_all_mode && !date_picked) {
+		showDefaultImages();
+		return;
+	}
 
 	// Then compare it with the tags of each image. If they match, then show. Otherwise, hide.
 	var images = data.images;
 	var search_str = document.getElementById("search-bar").value.toLowerCase();
-	for (var i = 0; i < images.length; i++) {
-		var tags_str = images[i].tags.sort().toString();
-		if (visible_tags_str == tags_str) {
-			if (search_str == "") {
-				$("#img"+i).show();
-			}
-			else {
-				// The search bar is not empty, so check the data fields for matches
-				if (images[i].title.toLowerCase().includes(search_str)
-					|| images[i].desc.toLowerCase().includes(search_str)
-					|| images[i].artist.toLowerCase().includes(search_str)) {
-					$("#img"+i).show();
-				}
-				else {
-					$("#img"+i).hide();
-				}
-			}
-		}
-		else {
-			$("#img"+i).hide();
+
+	if (show_all_mode) {
+		for (var i = 0; i < images.length; i++) {
+			searchCheck(search_str, i, images);
 		}
 	}
+	else {
+		for (var i = 0; i < images.length; i++) {
+			var tags_arr = images[i].tags;
+
+			// The interesection of selected tags and image tags must be the same number of elements as the number of selected tags
+			// This will give danbooru style logic where an image must include the selected tags
+			if (intersect(visible_tags, tags_arr).length == visible_tags.length) {
+				searchCheck(search_str, i, images);
+			}
+			else {
+				$("#img"+i).hide();
+			}
+		}
+	}
+	
 
 	// Hide hidden images no matter what
 	$(".hidden-image").hide();
@@ -362,17 +455,85 @@ function showImagesThatMatch() {
 	updateImageCountLabel();
 }
 
-function nsfwVerification() {
-	if (localStorage.getItem("nsfwVerified") && localStorage.getItem("nsfwVerified") == "verified") {
-		return true;
+// These are the images that will show up on the page when all filters are empty
+function showDefaultImages() {
+	var images = data.images;
+
+	for (var i = 0; i < images.length; i++) {
+		var tags_arr = images[i].tags;
+
+		var search_str = document.getElementById("search-bar").value.toLowerCase();
+		if ((tags_arr.includes("larcei") || tags_arr.includes("seliph")) && tags_arr.includes("sfw")) {
+			searchCheck(search_str, i, images);
+		}
+		else {
+			$("#img"+i).hide();
+		}
 	}
+	$(".hidden-image").hide();
+	updateImageCountLabel();
+}
+
+// Returns the intersection of array "a" and "b"
+function intersect(a, b) {
+	var setA = new Set(a);
+	var setB = new Set(b);
+	var intersection = new Set([...setA].filter(x => setB.has(x)));
+	return Array.from(intersection);
+}
+
+function ageVerification() {
+	if (localStorage.getItem("ageVerified") && localStorage.getItem("ageVerified") == "verified") {
+		return;
+	}
+
 	var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
+	// Set the checkbox to unchecked if Cancel was selected instead of OK
 	if (!nsfw_confirmation) {
-		localStorage.setItem("nsfwVerified", "notVerified")
-		return false;
+		window.location.replace("https://www.youtube.com/watch?v=dVKxTywjVEw");
+		localStorage.setItem("ageVerified", "notVerified")
 	}
 	else {
-		localStorage.setItem("nsfwVerified", "verified")
-		return true;
+		localStorage.setItem("ageVerified", "verified")
+	}
+}
+
+function searchCheck(search_str, image_index, images) {
+	var year = $("#year").val();
+	var month = $("#month").val();
+	var date_picked = year != "None" && month != "None";
+	var date_matched = images[image_index].date_str && images[image_index].date_str.includes(year) && images[image_index].date_str.includes(month);
+
+	if (search_str == "") {
+		if (date_picked && date_matched) {
+			$("#img"+image_index).show();
+		}
+		else if (date_picked && !date_matched) {
+			$("#img"+image_index).hide();
+		}
+		else {
+			$("#img"+image_index).show();
+		}
+
+	}
+	else {
+		// The search bar is not empty, so check the data fields for matches
+		if (images[image_index].title.toLowerCase().includes(search_str)
+			|| images[image_index].desc.toLowerCase().includes(search_str)
+			|| images[image_index].artist.toLowerCase().includes(search_str)) {
+
+			if (date_picked && date_matched) {
+				$("#img"+image_index).show();
+			}
+			else if (date_picked && !date_matched) {
+				$("#img"+image_index).hide();
+			}
+			else {
+				$("#img"+image_index).show();
+			}
+		}
+		else {
+			$("#img"+image_index).hide();
+		}
 	}
 }

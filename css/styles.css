@@ -27,11 +27,13 @@ body {
 	padding-bottom: 10px;
 }
 .sidebar-item-button {
+	display: block;
 	border: none;
 	border-radius: 0.25rem;
 	padding: 10px;
 	background-color: #666a80;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+	font-size: 1rem;
 }
 .sidebar-item-button:hover {
 	background-color: #797E96;
@@ -76,7 +78,7 @@ body {
 	margin-bottom: 15px;
 }
 #title {
-	font-size: 24px;
+	font-size: 16px;
 }
 .modal {
 	text-align: center;
@@ -161,6 +163,8 @@ a:hover, a:active {
 	margin-bottom: 10px;
 	border-radius: 0.25rem;
 	font-weight: 900;
+	float: right;
+	width: 80%;
 }
 
 #dropdownMenuLink {
@@ -177,6 +181,35 @@ a:hover, a:active {
 }
 .tag-dropdown-button {
 	float: left;
+	margin-left: 10px;
+}
+#datepicker {
+	color: #fff;
+	background-color: #666a80;
+	border-color: #666a80;
+}
+#datepicker:hover {
+	background-color: #797E96;
+	cursor: pointer;
+	color: white;
+}
+#datepicker-dropdown {
+	background-color: #e1e4f2;
+	font-weight: bold;
+	padding: 3px 10px 3px 10px;
+	width: 190px;
+}
+#datepicker-reset {
+	background-color: #666a80;
+	font-weight: bold;
+	color: white;
+}
+#datepicker-dropdown > label {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+#year, #month, #year > option, #month > option {
+	font-weight: bold;
 }
 .shuffle-button {
 	float: left;
@@ -193,6 +226,28 @@ a:hover, a:active {
 	background-color: #797E96;
 	cursor: pointer;
 	color: white;
+}
+.show-all-button {
+	float: left;
+	margin-left: 10px;
+	width: 110px;
+	color: white;
+	border: none;
+	padding: 0.4375rem 0.75rem;
+	border-radius: 0.25rem;
+	background-color: #666a80;
+	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.show-all-button:hover {
+	background-color: #797E96;
+	cursor: pointer;
+	color: white;
+}
+.show-all-button-active {
+	background-color: #9c489c;
+}
+.show-all-button-active:hover {
+	background-color: #ad50ad;
 }
 .accordion-button {
 	background-color: #666a80;
@@ -224,6 +279,12 @@ a:hover, a:active {
 	border: 2px dashed #888ca2;
 }
 
+#tulipcei {
+	display: block;
+    width: 60%;
+    margin: -8% auto auto auto;
+}
+
 @media (max-width: 767px) {
 	/* Small devices (tablets, 768px and less) */
 	body {
@@ -241,6 +302,9 @@ a:hover, a:active {
 		border-bottom-left-radius: 0;
 		border-bottom-right-radius: 0;
 	}
+	#title {
+		font-size: 24px;
+	}
 	.title-underscore-container {
 		margin-top: 0;
 	}
@@ -251,7 +315,10 @@ a:hover, a:active {
 		float: left;
 	}
 	.sidebar-item:not(:last-child) {
-		margin-right: 4px;
+		margin-right: 1rem;
+	}
+	.sidebar-item-button {
+		font-size: 0.8rem;
 	}
 	.img-carousel-responsive {
 		width: 100%;
@@ -274,6 +341,15 @@ a:hover, a:active {
 	.gallery-buttons-container {
 		float: left;
 	}
+	#tulipcei {
+		width: 80%;
+	}
+	#search-bar {
+		width: 100%;
+	}
+	#datepicker-button {
+		margin-left: 0;
+	}
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	/* Medium devices (desktops, 768px and up) */
@@ -294,6 +370,9 @@ a:hover, a:active {
 	#sidebar {
 		border-bottom-left-radius: 0;
 		border-bottom-right-radius: 0;
+	}
+	#title {
+		font-size: 24px;
 	}
 	.img-carousel-responsive {
 		width: 97.5%;
@@ -316,14 +395,27 @@ a:hover, a:active {
 		justify-content: center; /* align horizontal */
 		align-items: center; /* align vertical */
 	}
+	.sidebar-item-button {
+		font-size: 1rem;
+		margin-left: 10px;
+	}
 	.gallery-buttons-container {
 		float: left;
+	}
+	#tulipcei {
+		width: 80%;
+	}
+	#search-bar {
+		width: 100%;
+	}
+	#datepicker-button {
+		margin-left: 0;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px) {
 	/* Medium devices (desktops, 992px and up) */
 	#title {
-		font-size: 18px;
+		font-size: 13px;
 	}
 	#gallery {
 		-webkit-column-count: 3; /* Chrome, Safari, Opera */
@@ -345,11 +437,21 @@ a:hover, a:active {
 	.sidebar-item-inner {
 		width: 100%;
 	}
+	.sidebar-item-button {
+		font-size: 0.8rem;
+		display: inline-block;
+	}
+	.shuffle-button {
+		width: 45px;
+	}
+	#search-bar {
+		width: 100%;
+	}
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
 	/* Large devices (desktops, 992px and up) */
 	#title {
-		font-size: 20px;
+		font-size: 15px;
 	}
 	#gallery {
 		/* Masonry Grid */
@@ -357,7 +459,14 @@ a:hover, a:active {
 		-moz-column-count: 4; /* Firefox */
 		column-count: 4;
 	}
+	.sidebar-item-button {
+		font-size: 0.85rem;
+		padding: 10px 6px 10px 6px;
+	}
 }
 @media (min-width: 1400px) {
 	/* Large devices (large desktops, 1200px and up) */
+	.sidebar-item-button {
+		padding: 10px 7px 10px 7px;
+	}
 }

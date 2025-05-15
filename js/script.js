@@ -490,7 +490,6 @@ function ageVerification() {
 	var nsfw_confirmation = confirm("By clicking OK, you are confirming that you are 18 years or older and are okay with NSFW images being displayed on your screen. Click Cancel if you are not.");
 	// Set the checkbox to unchecked if Cancel was selected instead of OK
 	if (!nsfw_confirmation) {
-		window.location.replace("https://www.youtube.com/watch?v=dVKxTywjVEw");
 		localStorage.setItem("ageVerified", "notVerified")
 	}
 	else {

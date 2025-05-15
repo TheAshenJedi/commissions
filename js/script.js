@@ -243,6 +243,7 @@ function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
 		nsfw: "NSFW"
+		ingrid: "ingrid"
 	};
 	if (word in translations) {
 		return translations[word];

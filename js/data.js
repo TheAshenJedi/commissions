@@ -9,7 +9,7 @@ var data = {
 			art_url: "https://bsky.app/profile/xander-wolk.bsky.social/post/3ll5speu2fc2x",
 			desc: "Jedi Knight Ingrid Brandl Galatea reporting for duty",
 			date_str: "March 24th 2025",
-			tags: ["Ingrid", "sfw"],
+			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
 		{

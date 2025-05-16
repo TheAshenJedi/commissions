@@ -10,7 +10,7 @@ var data = {
 			desc: "Jedi Knight Ingrid Brandl Galatea reporting for duty",
 			date_str: "March 24 2025",
 			tags: ["ingrid", "sfw"],
-			hidden: false
+			hidden: true
 		},
 		{
 			src: [""],

@@ -9,7 +9,7 @@ var data = {
 			art_url: null,
 			desc: "Do not delete this. You can use this to set the order the tags show up in the dropdown.",
 			date_str: "Beginning of Time",
-			tags: ["ingrid", "sfw"],
+			tags: [],
 			hidden: true
 		},
 		{

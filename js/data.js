@@ -20,7 +20,7 @@ var data = {
 			artist_url: "https://bsky.app/profile/xander-wolk.bsky.social",
 			art_url: "https://bsky.app/profile/xander-wolk.bsky.social/post/3ll5speu2fc2x",
 			desc: "Jedi Knight Ingrid Brandl Galatea reporting for duty",
-			date_str: "March 24, 2025",
+			date_str: "March 24 2025",
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},

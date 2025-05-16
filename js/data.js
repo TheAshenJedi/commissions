@@ -25,6 +25,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwck8ll6l7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5njj9b4.png",
+			title: "Jedi Ingrid by Eine",
+			artist: "eine_dx",
+			artist_url: "https://eine-dx.carrd.co/#",
+			art_url: null,
+			desc: "Jedi Ingrid is out of this world",
+			date_str: "December 21 2024",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

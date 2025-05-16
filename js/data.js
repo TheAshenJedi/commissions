@@ -37,6 +37,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvmoob34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2pjjr8y.png",
+			title: "Jedi Ingrid Chibi",
+			artist: "inkanii",
+			artist_url: "https://inkanii.carrd.co/",
+			art_url: null,
+			desc: "A smol Jedi Ingy",
+			date_str: "October 6 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

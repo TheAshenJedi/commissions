@@ -242,8 +242,8 @@ function updateImageCountLabel() {
 function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
-		nsfw: "NSFW"
-		ingrid: "ingrid"
+		nsfw: "NSFW",
+		ingrid: "Ingrid"
 	};
 	if (word in translations) {
 		return translations[word];
@@ -449,7 +449,7 @@ function showDefaultImages() {
 		var tags_arr = images[i].tags;
 
 		var search_str = document.getElementById("search-bar").value.toLowerCase();
-		if (tags_arr.includes("ingrid")) {
+		if (tags_arr.includes("sfw")) {
 			searchCheck(search_str, i, images);
 		}
 		else {

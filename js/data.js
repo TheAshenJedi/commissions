@@ -109,6 +109,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y8xcn9rver4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5nmq624.jpg",
+			title: "Retro Three Hopes Jedi Ingrid",
+			artist: "Kshatriya 666",
+			artist_url: "https://x.com/Kshatriya_666_",
+			art_url: "https://x.com/Kshatriya_666_/status/1530915995698593792",
+			desc: "Jedi Ingrid in a retro anime style. Tried to mix things up with a Three Hopes variant with a different Lightsaber.",
+			date_str: "May 29 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

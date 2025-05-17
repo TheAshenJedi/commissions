@@ -97,6 +97,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvmdwxw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvmdwvw4.png",
+			title: "Ready for Battle",
+			artist: "Adricarra",
+			artist_url: "https://adricarra.carrd.co/",
+			art_url: "https://x.com/adricarraart/status/1495403990200291331",
+			desc: "My second commission from Adricarra",
+			date_str: "February 20 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

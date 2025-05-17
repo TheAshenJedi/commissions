@@ -245,6 +245,7 @@ function translateWord(word) {
 		nsfw: "NSFW",
 		kris: "Kris",
 		navarre: "Navarre",
+		dorothea: "Dorothea",
 		cavil: "Cavil",
 		dee: "Dee",
 		oc: "OC",

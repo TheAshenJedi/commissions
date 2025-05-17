@@ -69,7 +69,7 @@ var data = {
 			art_url: null,
 			desc: "FE12 is easily my top 3 favorite Fire Emblem game and Kris is my new favorite Avatar. Upon going through the supports, my girlfriend and I found a new Rarepair",
 			date_str: "May 6 2025",
-			tags: ["kris", "navarre"],
+			tags: ["kris", "navarre", "sfw"],
 			hidden: false
 		},
 		{

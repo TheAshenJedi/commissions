@@ -49,6 +49,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcw8mxapy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbjoag6y.jpg",
+			title: "Founders of the Ashen Jedi",
+			artist: "sierra117renner",
+			artist_url: "https://bsky.app/profile/s117renner.bsky.social",
+			art_url: "https://bsky.app/profile/s117renner.bsky.social/post/3lbxevxeijs2z",
+			desc: "On this day, the Mandalorian Jedi Cavil would cross paths with Ingrid Brandl Galatea and a new Jedi Order was born...",
+			date_str: "November 27 2024",
+			tags: ["ingrid", "cavil", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

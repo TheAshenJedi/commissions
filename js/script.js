@@ -243,6 +243,11 @@ function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
 		nsfw: "NSFW",
+		kris: "Kris",
+		navarre: "Navarre",
+		cavil: "Cavil",
+		dee: "Dee",
+		oc: "OC",
 		ingrid: "Ingrid"
 	};
 	if (word in translations) {

@@ -73,6 +73,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/49zc26d2vky.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwck85k237.png",
+			title: "Lavai-Majin Walker",
+			artist: "DamoBelmont",
+			artist_url: "https://bsky.app/profile/damobelmont.bsky.social",
+			art_url: "https://bsky.app/profile/damobelmont.bsky.social/post/3liagjvckqc25",
+			desc: "This was a gift commission of an OC from my friend Iris. She is the daughter of his OC and Camilla from Fates. Part of a FE/DMC/Yakuza crossover.",
+			date_str: "February 12 2025",
+			tags: ["oc", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

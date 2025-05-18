@@ -157,6 +157,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y2pcknb9dx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpzbgrz7.png",
+			title: "Putting the Force in Galeforce",
+			artist: "Zet",
+			artist_url: "https://bsky.app/profile/zetsumi.bsky.social",
+			art_url: null,
+			desc: "Morgan from Awakening as a Jedi. Felt pretty self explanatory as a sword/magic user. Married Tiki in my playthrough as you can see from the green hair and pointy ears.",
+			date_str: "January 19 2024",
+			tags: ["morgan", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -169,6 +169,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/49zc26lew5y.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq9jbrn7.jpg",
+			title: "Jedi Eunie",
+			artist: "Chascoby",
+			artist_url: "https://bsky.app/profile/chascoby.bsky.social",
+			art_url: null,
+			desc: "The Bus as a Jedi! Quite fitting considering she learns a class with a double-bladed weapon and her High Entia origins. Her design is based off of Bastilla from Knights of the Old Republic.",
+			date_str: "date unknown",
+			tags: ["eunie", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -133,6 +133,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvmdbzo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c38r6aj4.png",
+			title: "Aayla the Ranger",
+			artist: "Nobuzeus",
+			artist_url: "https://bsky.app/profile/nobuzeus.bsky.social",
+			art_url: null,
+			desc: "Commission of my girlfriend's OC Aayla. A human Ranger with the ability to transform into a raven and transform objects into metal with her silver hair.",
+			date_str: "April 24 2025",
+			tags: ["oc", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

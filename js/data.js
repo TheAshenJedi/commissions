@@ -145,6 +145,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpzb3867.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvmpz5j4.png",
+			title: "Cavil Fadel: Mandalorian Jedi Wayseeker",
+			artist: "Arktoons",
+			artist_url: "https://bsky.app/profile/arktoons.bsky.social",
+			art_url: null,
+			desc: "I always wanted to make a Mandalorian Jedi since I was a child. Cavil is my sort of justification for why Jedi Ingrid and several other Star Wars crossovers exist. He explores various universe and recruits verious individuals into his personal Order: The Ashen Jedi.",
+			date_str: "November 10 2023",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -75,7 +75,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/49zc26d2vky.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwck85k237.png",
-			title: "Lavai-Majin Walker",
+			title: "Lavai: Majin Walker",
 			artist: "DamoBelmont",
 			artist_url: "https://bsky.app/profile/damobelmont.bsky.social",
 			art_url: "https://bsky.app/profile/damobelmont.bsky.social/post/3liagjvckqc25",

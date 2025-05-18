@@ -181,6 +181,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcnvdwbg4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx8robm7.jpg",
+			title: "Mythra and Ingrid fusion",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: null,
+			desc: "Two blonde waifus forged into one! Gzei did an amazing job combining both of their designs.",
+			date_str: "December 5 2022",
+			tags: ["ingrid", "mythra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

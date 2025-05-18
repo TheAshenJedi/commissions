@@ -243,6 +243,7 @@ function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
 		nsfw: "NSFW",
+		eunie: "Eunie",
 		morgan: "Morgan",
 		kris: "Kris",
 		navarre: "Navarre",

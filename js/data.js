@@ -151,7 +151,7 @@ var data = {
 			artist: "Arktoons",
 			artist_url: "https://bsky.app/profile/arktoons.bsky.social",
 			art_url: null,
-			desc: "I always wanted to make a Mandalorian Jedi since I was a child. Cavil is my sort of justification for why Jedi Ingrid and several other Star Wars crossovers exist. He explores various universe and recruits verious individuals into his personal Order: The Ashen Jedi.",
+			desc: "I always wanted to make a Mandalorian Jedi since I was a child. Cavil is my sort of justification for why Jedi Ingrid and several other Star Wars crossovers exist. He explores various universes and recruits folks into his personal Order: The Ashen Jedi.",
 			date_str: "November 10 2023",
 			tags: ["cavil", "sfw"],
 			hidden: false

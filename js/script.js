@@ -244,6 +244,7 @@ function translateWord(word) {
 		sfw: "SFW",
 		nsfw: "NSFW",
 		eunie: "Eunie",
+		merrin: "Merrin",
 		mythra: "Mythra",
 		morgan: "Morgan",
 		kris: "Kris",

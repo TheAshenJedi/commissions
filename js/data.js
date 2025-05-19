@@ -217,6 +217,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c2a29aw4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcx5x6584.png",
+			title: "Blue Sea Lion",
+			artist: "Kalycoris",
+			artist_url: "https://x.com/kalycoris",
+			art_url: "https://x.com/kalycoris/status/1613519543179137024",
+			desc: "Ingrid's underwater treasure hunt is going swimmingly",
+			date_str: "January 12 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

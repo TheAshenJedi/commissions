@@ -253,6 +253,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcpnpkek7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx9xapz7.png",
+			title: "Jedi Ingrid as a FEH Sprite",
+			artist: "Toto",
+			artist_url: "https://bsky.app/profile/godlytoto.bsky.social",
+			art_url: null,
+			desc: "Jedi Ingrid if she was a sprite in Fire Emblem Heroes. Changed it up from her usual design with her longer hair and crossguard Lightsaber.",
+			date_str: "September 2 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

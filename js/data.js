@@ -193,6 +193,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c2l5pm64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5n2daw4.png",
+			title: "Battle Damaged Cavil",
+			artist: "Griff",
+			artist_url: "https://bsky.app/profile/renaisblade.bsky.social",
+			art_url: "https://bsky.app/profile/renaisblade.bsky.social/post/3lg4j22gzv22i",
+			desc: "Tis but a scratch",
+			date_str: "January 19 2025",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

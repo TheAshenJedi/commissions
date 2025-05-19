@@ -229,6 +229,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9v9d6m7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2l2a35y.png",
+			title: "Jedi Merrin",
+			artist: "RedKite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1759584111470207301",
+			desc: "That's one cool Jedi. Merrin from Fire Emblem Engage wearing Merrin's outfit from Jedi Survivor in a custom color scheme with assets of FE!Merrin thrown in.",
+			date_str: "February 19 2024",
+			tags: ["merrin", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

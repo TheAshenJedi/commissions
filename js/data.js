@@ -205,6 +205,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acq9m8p27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx8dbj97.png",
+			title: "Suffering from Aura Farming",
+			artist: "Motoi",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "Aura Farming? A bad migrane? Missing Ingrid? Any are applicable tbh. A May the Fourth gift from Eeby",
+			date_str: "May 4 2025",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

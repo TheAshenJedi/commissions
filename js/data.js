@@ -241,6 +241,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcngnp264.png", "https://cdn.imgchest.com/files/7w6c2l2adzy.png", "https://cdn.imgchest.com/files/4z9cvov6567.png", "https://cdn.imgchest.com/files/y8xcn3njoz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2w2q52y.png",
+			title: "Jedi Ingrid FEH Edition",
+			artist: "SilverCandyGum",
+			artist_url: "https://bsky.app/profile/silvercandygum.bsky.social",
+			art_url: "https://www.pixiv.net/en/artworks/106198597",
+			desc: "Jedi Ingrid if she was a unit in Fire Emblem Heroes with attack, special and damage art",
+			date_str: "March 13 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

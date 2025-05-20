@@ -265,6 +265,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y8xcn3nb6n4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqkqjdv7.jpg",
+			title: "Biker Ingrid",
+			artist: "Patdarux",
+			artist_url: "https://x.com/patdarux",
+			art_url: "https://x.com/patdarux/status/1448346168782725128",
+			desc: "The Blue Shell is for Sylvain",
+			date_str: "October 13 2021",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

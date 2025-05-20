@@ -301,6 +301,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcx59nl64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcn3gpwb4.png",
+			title: "Hooters Ingrid",
+			artist: "Zet",
+			artist_url: "https://x.com/twt_zet",
+			art_url: "https://x.com/twt_zet/status/1579193724386807808",
+			desc: "Interesting trends come and go while some never truly go away.",
+			date_str: "October 9 2022",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

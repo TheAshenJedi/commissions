@@ -243,7 +243,7 @@ function translateWord(word) {
 	var translations = {
 		sfw: "SFW",
 		nsfw: "NSFW",
-		eechi: "Eechi",
+		eechi: "Eechi🔥",
 		eunie: "Eunie",
 		merrin: "Merrin",
 		mythra: "Mythra",

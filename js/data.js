@@ -277,6 +277,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc5g5rrl4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqkqrra7.png",
+			title: "Tusslin Tombois",
+			artist: "DamoBelmont",
+			artist_url: "https://x.com/DamoBelmont",
+			art_url: "https://x.com/damobelmont/status/1604248195634274310",
+			desc: "Nothing like a little wrestling to let out some frustration. A joint commission with InsaiyanVal.",
+			date_str: "December 17 2022",
+			tags: ["ingrid", "leonie", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

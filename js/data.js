@@ -289,6 +289,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec8koakx4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx95wwm7.png",
+			title: "Three Houses x Soulcalibur",
+			artist: "SirKnightBot",
+			artist_url: "https://bsky.app/profile/sirknightbot.bsky.social",
+			art_url: "https://x.com/SirKnightbot/status/1535083237214539776",
+			desc: "I noticed that Ingrid and Sophitia share a similar hair style, so here's the Blue Lion rocking Sophitia's Soulcalibur 4 outfit in a custom color scheme. Really love the retro style with this artist.",
+			date_str: "June 9 2022",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

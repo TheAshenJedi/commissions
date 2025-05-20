@@ -251,6 +251,7 @@ function translateWord(word) {
 		kris: "Kris",
 		navarre: "Navarre",
 		dorothea: "Dorothea",
+		leonie: "Leonie",
 		cavil: "Cavil",
 		dee: "Dee",
 		oc: "OC",

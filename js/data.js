@@ -313,6 +313,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9vrx5q7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2lvwrpy.png",
+			title: "Darek and Cavil sparring",
+			artist: "fusenryo2",
+			artist_url: "https://x.com/fusenryo2",
+			art_url: null,
+			desc: "A practice session featuring Cavil and Mr. Señor/ takumiiscool's OC Darek Serenne. Fusenryo's ability to pump out a commission in 3 hours is impressive. Most impressive.",
+			date_str: "February 5 2025",
+			tags: ["cavil", "oc"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

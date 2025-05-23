@@ -321,7 +321,7 @@ var data = {
 			art_url: null,
 			desc: "A practice session featuring Cavil and Mr. Señor/ takumiiscool's OC Darek Serenne. Fusenryo's ability to pump out a commission in 3 hours is impressive. Most impressive.",
 			date_str: "February 5 2025",
-			tags: ["cavil", "oc"],
+			tags: ["cavil", "oc", "sfw"],
 			hidden: false
 		},
 		{

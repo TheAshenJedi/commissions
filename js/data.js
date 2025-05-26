@@ -325,7 +325,7 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/46acqkdbmn7.png, https://cdn.imgchest.com/files/yvdcwvqd2ry.png"],
+			src: ["https://cdn.imgchest.com/files/46acqkdbmn7.png", "https://cdn.imgchest.com/files/yvdcwvqd2ry.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7bwckxqdnv7.png",
 			title: "Delicia 'Dee' Nahdar Fadel-Galatea",
 			artist: "Yusi Vishnu",

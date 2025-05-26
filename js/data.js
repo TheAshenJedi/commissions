@@ -337,6 +337,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec8krn5e4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq5jd6x7.png",
+			title: "Dee reference sheet",
+			artist: "Yancy",
+			artist_url: "https://bsky.app/profile/yancadoodles.bsky.social",
+			art_url: "https://bsky.app/profile/yancadoodles.bsky.social/post/3lpkkxuryyk2j",
+			desc: "A reference sheet for Cavil x Ingrid kid OC that captures all her nice angles.",
+			date_str: "May 19 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

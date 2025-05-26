@@ -325,6 +325,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqkdbmn7.png, https://cdn.imgchest.com/files/yvdcwvqd2ry.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckxqdnv7.png",
+			title: "Delicia 'Dee' Nahdar Fadel-Galatea",
+			artist: "Yusi Vishnu",
+			artist_url: "https://bsky.app/profile/yusivishnu.bsky.social",
+			art_url: null,
+			desc: "The epitome of my Star Wars x Fire Emblem crossovers. I was intrigued at the idea of a Cavil/Ingrid child and Yusi did an incredible job combining both of their designs.",
+			date_str: "March 22 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

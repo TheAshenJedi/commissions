@@ -349,6 +349,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc5x9peo4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqwlp2z7.png",
+			title: "Jedi Rosado",
+			artist: "SilverCandyGum",
+			artist_url: "https://www.pixiv.net/en/users/17986763",
+			art_url: "https://www.pixiv.net/en/artworks/115282496",
+			desc: "Rosado looking cute as always wearing an outfit based off of Padme.",
+			date_str: "January 18 2024",
+			tags: ["rosado", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

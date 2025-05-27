@@ -385,6 +385,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczap6dj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqwl29o7.png",
+			title: "Fighting or Flirting?",
+			artist: "Count Galatea",
+			artist_url: "https://www.instagram.com/countgalatea/?hl=en",
+			art_url: "https://www.instagram.com/p/DEvcXSfTBPR/?igsh=aHphYjF4M25idDhm",
+			desc: "A princess of light and darkness cross blades and tug heartstrings. The pose is a homage to Ralph McQuarrie's concept art which really captures Eirika and Camilla's good side.",
+			date_str: "January 12 2025",
+			tags: ["eirika", "camilla", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

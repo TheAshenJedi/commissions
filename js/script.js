@@ -246,6 +246,7 @@ function translateWord(word) {
 		eechi: "Eechi🔥",
 		eunie: "Eunie",
 		nephenee: "Nephenee",
+		camilla: "Camilla",
 		rosado: "Rosado",
 		eirika: "Eirika",
 		merrin: "Merrin",

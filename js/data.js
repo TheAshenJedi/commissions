@@ -373,6 +373,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcn3xpkp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxwz2nq7.png",
+			title: "Jedi Eirika",
+			artist: "Jax",
+			artist_url: "https://x.com/Jax_Drawz",
+			art_url: "https://x.com/Jax_Drawz/status/1737570610337776024",
+			desc: "The princess of Renais was always one to resolve conflict peacefully so she seemed like a natural fit for a Jedi Knight",
+			date_str: "December 20 2023",
+			tags: ["eirika", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

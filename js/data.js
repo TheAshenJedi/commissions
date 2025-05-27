@@ -361,6 +361,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c26vqew4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvrqzgn7.png",
+			title: "Mara Jade Camilla",
+			artist: "cero",
+			artist_url: "https://bsky.app/profile/ceroccb.bsky.social",
+			art_url: "https://bsky.app/profile/ceroccb.bsky.social/post/3lax566nji22s",
+			desc: "The elder sister of Nohr wearing an outfit based off of Mara Jade Skywalker from Star Wars Legends with some of Camilla's outfit thrown in.",
+			date_str: "November 14 2024",
+			tags: ["camilla", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

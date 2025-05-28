@@ -252,6 +252,7 @@ function translateWord(word) {
 		merrin: "Merrin",
 		mythra: "Mythra",
 		morgan: "Morgan",
+		byleth: "Byleth",
 		kris: "Kris",
 		navarre: "Navarre",
 		dorothea: "Dorothea",

@@ -403,7 +403,7 @@ var data = {
 			artist: "Redkite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1835173783067607495/photo/1",
-			desc: "A new AU that cropped up recently where Ingrid, Catria, Caeda and Kris form a band. Heavily inspired by my love for Fall Out Boy as well as a running gag that Ingrid has a thing for blue-haired Archaneas since I ship her with Catria.",
+			desc: "A new AU that cropped up recently where Ingrid, Catria, Caeda and Kris form a band. Heavily inspired by my love for Fall Out Boy as well as a running gag that Ingrid has a thing for blue-haired Archaneans since I ship her with Catria.",
 			date_str: "September 15 2024",
 			tags: ["ingrid", "caeda", "catria", "kris", "sfw"],
 			hidden: false

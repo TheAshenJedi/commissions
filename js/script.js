@@ -254,6 +254,7 @@ function translateWord(word) {
 		morgan: "Morgan",
 		byleth: "Byleth",
 		kris: "Kris",
+		caeda: "Caeda",
 		navarre: "Navarre",
 		dorothea: "Dorothea",
 		leonie: "Leonie",

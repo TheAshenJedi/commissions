@@ -481,6 +481,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwpb3a2y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2xgja2y.png",
+			title: "Pounced",
+			artist: "dash aka dashingicecream",
+			artist_url: "https://x.com/dashsdoodles",
+			art_url: "https://x.com/dashsdoodles/status/1754981725023670460",
+			desc: "I loved dash's RWBY artwork back in the day, so when she opened comms I had to request Dorogrid.",
+			date_str: "January 21 2024",
+			tags: ["ingrid", "dorothea", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

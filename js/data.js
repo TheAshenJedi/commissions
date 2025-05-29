@@ -469,6 +469,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcplgd9j7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2xgba8y.jpg",
+			title: "Buns in the Sun",
+			artist: "rein_creamsoda",
+			artist_url: "https://x.com/rein_creamsoda",
+			art_url: "https://x.com/rein_creamsoda/status/1833292149158514764",
+			desc: "The lady Avatars taking a much needed vacation.",
+			date_str: "September 9 2024",
+			tags: ["kris", "robin", "corrin", "byleth", "shez", "alear", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

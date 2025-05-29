@@ -540,6 +540,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "nsfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/7mmc9jq9937.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c25622ay.png",
+			title: "Two Blonde Lady Knights",
+			artist: "Seityr",
+			artist_url: "https://x.com/Seityr_Art",
+			art_url: "https://x.com/incognigoat/status/1826736384096555150",
+			desc: "Freaky Furry Lady Knight Ass Blasts Virgin Foodie Lady Knight (NOT CLICK BAIT! COPS CALLED!)",
+			date_str: "August 22 2024",
+			tags: ["ingrid", "merrin", "nsfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

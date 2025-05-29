@@ -547,7 +547,7 @@ var data = {
 			artist: "Seityr",
 			artist_url: "https://x.com/Seityr_Art",
 			art_url: "https://x.com/incognigoat/status/1826736384096555150",
-			desc: "Freaky Furry Lady Knight Ass Blasts Virgin Foodie Lady Knight (NOT CLICK BAIT! COPS CALLED!)",
+			desc: "Freaky Furry Lady Knight Ass Blasts Virgin Foodie Lady Knight (NOT CLICK BAIT! COPS CALLED!) A joint commission with Metalhead",
 			date_str: "August 22 2024",
 			tags: ["ingrid", "merrin", "nsfw"],
 			hidden: false

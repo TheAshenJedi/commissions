@@ -421,6 +421,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxe22p24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5xzz3q4.png",
+			title: "Jedi Toto",
+			artist: "Motoi",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "A gift commission for Toto of his Summoner as a Jedi since myself and several others have got him into Star Wars.",
+			date_str: "May 17 2025",
+			tags: ["oc", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

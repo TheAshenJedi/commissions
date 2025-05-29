@@ -457,6 +457,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c26xozb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv3zml27.png",
+			title: "A New Tale",
+			artist: "Veguinsky/Vewuinsky",
+			artist_url: "https://x.com/Vewuinsky",
+			art_url: "https://x.com/Vewuinsky/status/1823148993024807064/photo/1",
+			desc: "This commission is based off a scene from one of Eeby's fanfics where Ingrid gets acquainted with Archanea's unsung heroine. Kris' custom summer design was made by jojotheastand / kiminokioku",
+			date_str: "August 12 2024",
+			tags: ["ingrid", "kris", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

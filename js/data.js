@@ -433,6 +433,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqraapm7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pcklpp8x7.png",
+			title: "Putting the 'Breast' in Breaststroke",
+			artist: "Happy Ice Cream Team",
+			artist_url: "https://x.com/_IceCreamTeam_",
+			art_url: "https://x.com/_IceCreamTeam_/status/1702087257916858618",
+			desc: "An animation featuring Byleth going for a swim.",
+			date_str: "September 13 2023",
+			tags: ["byleth", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

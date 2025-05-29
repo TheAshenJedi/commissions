@@ -250,6 +250,7 @@ function translateWord(word) {
 		rosado: "Rosado",
 		eirika: "Eirika",
 		merrin: "Merrin",
+		chloe: "Chloe",
 		mythra: "Mythra",
 		morgan: "Morgan",
 		lucina: "Lucina",

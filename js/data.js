@@ -517,6 +517,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yd5cep95p84.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn3bx3m4.png",
+			title: "Sparring with Nephy",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1724174461375811588/photo/1",
+			desc: "Cavil trains with a humble farm gal much like Luke Skywalker",
+			date_str: "November 13 2023",
+			tags: ["cavil", "nephenee", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

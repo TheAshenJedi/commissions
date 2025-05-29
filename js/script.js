@@ -261,6 +261,7 @@ function translateWord(word) {
 		robin: "Robin",
 		kris: "Kris",
 		caeda: "Caeda",
+		catria: "Catria",
 		navarre: "Navarre",
 		dorothea: "Dorothea",
 		leonie: "Leonie",

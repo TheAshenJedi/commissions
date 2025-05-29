@@ -493,6 +493,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcn3bx8z4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c26wvx94.png",
+			title: "A Fairytale Come True",
+			artist: "ebinkuu",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: null,
+			desc: "Even in the most passionate of moments Merrin knows the coolest of pickup lines. Much to the pleasure of Chloe.",
+			date_str: "July 6 2023",
+			tags: ["merrin", "chloe", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

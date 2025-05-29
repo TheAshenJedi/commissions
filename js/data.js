@@ -445,6 +445,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwpr96ny.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8aeo5p4.png",
+			title: "Lucina in Eula's outfit aka EuLucina",
+			artist: "Motoi",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "A blue haired waifu in another blue haired waifu's outfit. Motoi did a good job capturing the key assets of the outfit. A gift commission for Mifi for his birthday.",
+			date_str: "May 10 2025",
+			tags: ["lucina", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

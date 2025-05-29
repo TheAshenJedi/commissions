@@ -505,6 +505,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/49zc2xenemy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8abzbe4.png",
+			title: "A Strike from the Shadows",
+			artist: "Lia Liar",
+			artist_url: "https://bsky.app/profile/lialiar.bsky.social",
+			art_url: null,
+			desc: "Those who hunt down Aayla receive a rude awakening",
+			date_str: "December 9 2023",
+			tags: ["oc", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -264,6 +264,7 @@ function translateWord(word) {
 		catria: "Catria",
 		navarre: "Navarre",
 		dorothea: "Dorothea",
+		ash: "Ash",
 		leonie: "Leonie",
 		cavil: "Cavil",
 		dee: "Dee",

@@ -553,6 +553,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9jlmqd7.png", "https://cdn.imgchest.com/files/ye3c26jlwm4.png", "https://cdn.imgchest.com/files/yvdcwpe8ery.png", "https://cdn.imgchest.com/files/4jdcv8rmrj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cepxoxg4.png",
+			title: "Summer Kris",
+			artist: "Zet",
+			artist_url: "https://bsky.app/profile/zetsumi.bsky.social",
+			art_url: "https://bsky.app/profile/zetsumi.bsky.social/post/3lqfrhx3rkc2j",
+			desc: "Perhaps one day she will get a proper alt along with the rest of the Avatars. Zet really nailed all the finer details like the tan lines, abs, pose and expression",
+			date_str: "May 30 2025",
+			tags: ["kris", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -565,6 +565,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec8ajkoj4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckwvxj87.jpg",
+			title: "Ash dressed as Ezra Bridger",
+			artist: "PanArts",
+			artist_url: "https://x.com/El_Pan_Frances",
+			art_url: "https://x.com/El_Pan_Frances/status/1841940727372165374/photo/1",
+			desc: "A gift commission for Ash's VA Lily Emil Lammers. Ezra is their favorite character so as a Star Wars and Fire Emblem fan, it felt obligatory to do this crossover",
+			date_str: "October 3 2024",
+			tags: ["ash", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

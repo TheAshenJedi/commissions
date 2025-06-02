@@ -637,6 +637,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/45xcv38w3n7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqwgeww7.png",
+			title: "Jedi Mythra",
+			artist: "Cyn",
+			artist_url: "https://x.com/Cynbiote",
+			art_url: "https://x.com/Cynbiote/status/1496569211514232839",
+			desc: "This'll put the Force in Foresight! My second Star Wars x Fandom crossover featuring the sassy half of the Aegis. Her design is based off the Jedi tunic from Kotor with parts of her outfit thrown in",
+			date_str: "February 23 2022",
+			tags: ["mythra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

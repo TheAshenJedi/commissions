@@ -589,6 +589,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yd5cepmjpa4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn39g3p4.png",
+			title: "This is the way",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Cavil chants an iconic line in an adorable fashion",
+			date_str: "September 13 2024",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

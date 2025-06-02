@@ -601,6 +601,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczaqamz7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2xvxpmy.png",
+			title: "Eirika Backshot",
+			artist: "Deli",
+			artist_url: "https://bsky.app/profile/deliciousbrain.bsky.social",
+			art_url: null,
+			desc: "Black panties just hit different",
+			date_str: "September 8 2023",
+			tags: ["eirika", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

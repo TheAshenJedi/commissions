@@ -625,6 +625,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcn39owq4.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9jn8lp7.png",
+			title: "Chloe x Merrin Smoochin",
+			artist: "Veguinsky/Vewuinsky",
+			artist_url: "https://x.com/Vewuinsky",
+			art_url: "https://x.com/Vewuinsky/status/1661492579857252352",
+			desc: "Two lovely knights having a moment with Merrin getting a handful",
+			date_str: "May 24 2023",
+			tags: ["merrin", "chloe", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

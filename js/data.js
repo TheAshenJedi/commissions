@@ -577,6 +577,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y2pckl5nwe7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv86mdo4.png",
+			title: "Female Tails Gijinka",
+			artist: "Motoi",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "If you told me several years ago that I would commission a genderswap of Tails, I'd slap you. Times have changed and I'm happy for her transition",
+			date_str: "June 2 2025",
+			tags: ["tails", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

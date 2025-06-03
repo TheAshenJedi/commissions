@@ -661,6 +661,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c268d3v4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv3q9wm7.jpg",
+			title: "Letting out frustration",
+			artist: "DeepSpace",
+			artist_url: "https://bsky.app/profile/deepspacensfw.bsky.social",
+			art_url: null,
+			desc: "Protecting Prince Dimitri and Marth is a lot of work. Our fellow lady knights let out some steam whenever they get the free time",
+			date_str: "May 7 2025",
+			tags: ["ingrid", "kris", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -265,6 +265,7 @@ function translateWord(word) {
 		navarre: "Navarre",
 		ophelia: "Ophelia",
 		dorothea: "Dorothea",
+		fortnite: "Fortnite",
 		tails: "Tails",
 		ash: "Ash",
 		leonie: "Leonie",

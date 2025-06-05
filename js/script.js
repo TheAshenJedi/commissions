@@ -263,6 +263,7 @@ function translateWord(word) {
 		caeda: "Caeda",
 		catria: "Catria",
 		navarre: "Navarre",
+		ophelia: "Ophelia",
 		dorothea: "Dorothea",
 		tails: "Tails",
 		ash: "Ash",

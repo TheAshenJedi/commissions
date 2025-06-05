@@ -672,6 +672,18 @@ var data = {
 			tags: ["ingrid", "kris", "nsfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/739cxwag3x7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn3maoe4.png",
+			title: "Smol Ingrid Gif",
+			artist: "Patdarux",
+			artist_url: "https://x.com/patdarux",
+			art_url: "https://x.com/patdarux/status/1904299578750333201",
+			desc: "A gif of Ingrid vibing",
+			date_str: "March 24 2025",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

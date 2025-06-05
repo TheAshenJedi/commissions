@@ -697,6 +697,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc9j23bw7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c26z8el4.png",
+			title: "Zoe Clash",
+			artist: "Pomelomelon",
+			artist_url: "https://bsky.app/profile/pomelomelon.bsky.social",
+			art_url: "https://bsky.app/profile/did:plc:ahe6osgeelxskvhdc5dxvd4l/post/3lateqg47422h",
+			desc: "My go to Fortnite skin when I'm not using a collab or Star Wars skin",
+			date_str: "July 22 2024",
+			tags: ["fortnite", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -685,6 +685,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4z9cvrbkzo7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv3lq2e7.png",
+			title: "A Frustrated Fairy",
+			artist: "Noras",
+			artist_url: "https://x.com/noras05",
+			art_url: "https://x.com/noras05/status/1863793040277798988/photo/1",
+			desc: "Resplendent Catria's lack of panties makes for easy access should she desire pleasure from Ingrid. The Blue Lion will have sweet dreams tonight",
+			date_str: "December 2 2024",
+			tags: ["ingrid", "catria", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

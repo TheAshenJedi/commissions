@@ -709,6 +709,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y2pckr9nea7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp2gz5g7.png",
+			title: "Armed and Ready",
+			artist: "NaijMizuho",
+			artist_url: "https://bsky.app/profile/naijmizuho.bsky.social",
+			art_url: "https://bsky.app/profile/naijmizuho.bsky.social/post/3lr2oi5soas2o",
+			desc: "With a blade of emerald and ebony, a knight-errant begins her journey in a galaxy far, far away",
+			date_str: "June 7 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -732,6 +732,18 @@ var data = {
 			tags: ["mythra", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7w6c2o56awy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxrewkx4.png",
+			title: "A nice view",
+			artist: "_shohei",
+			artist_url: "https://x.com/_shohei",
+			art_url: "https://x.com/_shohei/status/1586688039925207041",
+			desc: "Rex was blessed with the sight of two water nymphs",
+			date_str: "October 30 2022",
+			tags: ["pyra", "mythra", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

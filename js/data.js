@@ -721,6 +721,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc5oxdnb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckowg8l7.png",
+			title: "Swimming Simpleton",
+			artist: "DaymanDraws",
+			artist_url: "https://x.com/DaymanDraws",
+			art_url: "https://x.com/DaymanDraws/status/1560293917354086400",
+			desc: "Because even the powerful Aegis needs a vacation every now and then",
+			date_str: "August 18 2022",
+			tags: ["mythra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

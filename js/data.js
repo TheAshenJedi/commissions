@@ -768,6 +768,18 @@ var data = {
 			tags: ["kris", "navarre", "nsfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7lxcp22m9j7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3nnrz84.png",
+			title: "Take My Breath",
+			artist: "Hayato",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: "https://x.com/Hayato_Stuff/status/1531070384610496512?s=20&t=Y6OzzVfEwO77ByKP_Id-UA",
+			desc: "There's something magical about an underwater kiss",
+			date_str: "May 29 2022",
+			tags: ["ingrid", "dorothea", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

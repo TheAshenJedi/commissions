@@ -756,6 +756,18 @@ var data = {
 			tags: ["pyra", "mythra", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/y2pckrrvg57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv995le4.png",
+			title: "A much needed rest",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1932023669401993317",
+			desc: "More of the Archanean rarepair. The two deserve a much needed rest for all the hard work protecting Marth",
+			date_str: "June 9 2025",
+			tags: ["kris", "navarre", "nsfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

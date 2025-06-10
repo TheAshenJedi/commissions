@@ -745,6 +745,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczoaqww7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckrl5e87.jpg",
+			title: "Summertime Aegis",
+			artist: "noeomi18",
+			artist_url: "https://x.com/noeomi18",
+			art_url: null,
+			desc: "Pyra and Mythra enjoying a nice swim. Really like the wet details on this comm",
+			date_str: "date unknown",
+			tags: ["pyra", "mythra", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -789,7 +789,19 @@ var data = {
 			art_url: "https://x.com/Hayato_Stuff/status/1469814201405349897?s=20",
 			desc: "Ingrid wearing a custom version of Pyra's swimsuit",
 			date_str: "December 11 2021",
-			tags: ["ingrid", "eechi"],
+			tags: ["ingrid", "pyra", "eechi"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbnkdg9y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzca3b2dl7.png",
+			title: "Summer Ingrid: Elyos Edition",
+			artist: "Jax",
+			artist_url: "https://x.com/Jax_Drawz",
+			art_url: "https://x.com/Jax_Drawz/status/1909667391623012488",
+			desc: "Ingrid wearing a custom version of Alear's swimsuit and hairstyle",
+			date_str: "April 8 2025",
+			tags: ["ingrid", "alear", "eechi"],
 			hidden: false
 		},
 		{

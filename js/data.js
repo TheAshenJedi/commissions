@@ -415,7 +415,7 @@ var data = {
 			artist: "Happy Ice Cream Team",
 			artist_url: "https://x.com/_IceCreamTeam_",
 			art_url: null,
-			desc: "A gift commission for MrTalkingDino of his depiction of Selia. Daughter of Seliph and Larcei from FE4.",
+			desc: "A friend's depiction of the daughter of Seliph and Larcei from FE4.",
 			date_str: "October 18 2024",
 			tags: ["oc", "eechi"],
 			hidden: false

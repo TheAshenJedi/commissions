@@ -781,6 +781,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7lxcp2dlaa7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv9j8xv4.png",
+			title: "Summer Ingrid: Alrest Edition",
+			artist: "Hayato",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: "https://x.com/Hayato_Stuff/status/1469814201405349897?s=20",
+			desc: "Ingrid wearing a custom version of Pyra's swimsuit",
+			date_str: "December 11 2021",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

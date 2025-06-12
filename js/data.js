@@ -823,7 +823,7 @@ var data = {
 			artist: "Mnejing",
 			artist_url: "https://x.com/Mnejing30",
 			art_url: "https://x.com/Mnejing30/status/1932925887256932414",
-			desc: "Ingrid wearing Patrick Stump's outfit from Fall Out Boy's music video of the song Hold Me Like a Grudge",
+			desc: "Ingrid wearing Patrick Stump's outfit from Fall Out Boy's music video of the song Hold Me Like a Grudge. Gift commission from Yoostink.",
 			date_str: "June 11 2025",
 			tags: ["ingrid", "sfw"],
 			hidden: false

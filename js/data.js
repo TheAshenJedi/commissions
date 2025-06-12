@@ -817,6 +817,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzca3xb8e7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv96jzm4.jpg",
+			title: "Hold Me Like a Grudge",
+			artist: "Mnejing",
+			artist_url: "https://x.com/Mnejing30",
+			art_url: "https://x.com/Mnejing30/status/1932925887256932414",
+			desc: "Ingrid wearing Patrick Stump's outfit from Fall Out Boy's music video of the song Hold Me Like a Grudge",
+			date_str: "June 11 2025",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

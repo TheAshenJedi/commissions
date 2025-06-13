@@ -861,7 +861,7 @@ var data = {
 			art_url: "https://x.com/minaqueenu/status/1540504913456906240",
 			desc: "The Three Houses blonde waifu dons the outfit of my OG blonde waifu. Mina nailed the pose on this one.",
 			date_str: "May 16 2022",
-			tags: ["ingrid" "eechi"],
+			tags: ["ingrid", "eechi"],
 			hidden: false
 		},
 		{
@@ -873,7 +873,19 @@ var data = {
 			art_url: "https://x.com/1340Smile/status/1494703259562487818",
 			desc: "Ingrid always seemed to be the type to rock athletic style underwear",
 			date_str: "February 18 2022",
-			tags: ["ingrid" "eechi"],
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/4jdcv9ezw64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3nla524.png",
+			title: "Ingrid in custom bikini",
+			artist: "DamoBelmont",
+			artist_url: "https://x.com/DamoBelmont",
+			art_url: "https://x.com/DamoBelmont/status/1488214652144209923/photo/1",
+			desc: "Ingrid wearing a custom bikini based off of JackaryDraws design",
+			date_str: "January 31 2022",
+			tags: ["ingrid", "eechi"],
 			hidden: false
 		},
 		{

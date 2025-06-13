@@ -852,6 +852,18 @@ var data = {
 			tags: ["dee", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4nec8vqeqq4.jpeg", "https://cdn.imgchest.com/files/7kzca3kvkq7.jpeg", "https://cdn.imgchest.com/files/4jdcv9egeq4.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5celak8e4.jpg",
+			title: "Zero Suit Ingrid + bonus summer alt",
+			artist: "MinaCream",
+			artist_url: "https://x.com/minaqueenu",
+			art_url: "https://x.com/minaqueenu/status/1540504913456906240",
+			desc: "The Three Houses blonde waifu dons the outfit of my OG blonde waifu. Mina nailed the pose on this one.",
+			date_str: "May 16 2022",
+			tags: ["ingrid" "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

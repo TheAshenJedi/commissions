@@ -840,6 +840,18 @@ var data = {
 			tags: ["ingrid", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/49zc2o3a6gy.png", "https://cdn.imgchest.com/files/7ogcbn6lj5y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp259z67.png",
+			title: "Your Move",
+			artist: "96Sabi",
+			artist_url: "https://bsky.app/profile/kinakoyamamori.bsky.social",
+			art_url: "https://bsky.app/profile/kinakoyamamori.bsky.social/post/3lrjfvqv3q22a",
+			desc: "Whether by Lightsaber, blaster, the Force or magic; Dee is ready for whatever challenges await",
+			date_str: "June 13 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

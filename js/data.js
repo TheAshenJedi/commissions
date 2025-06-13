@@ -865,6 +865,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxrj2bk4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcn85xrz4.jpg",
+			title: "Ingrid pinup",
+			artist: "1340Smile",
+			artist_url: "https://x.com/1340Smile",
+			art_url: "https://x.com/1340Smile/status/1494703259562487818",
+			desc: "Ingrid always seemed to be the type to rock athletic style underwear",
+			date_str: "February 18 2022",
+			tags: ["ingrid" "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -913,6 +913,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7ogcbn68zvy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckre9b57.png",
+			title: "Smells like Blade spirit",
+			artist: "adricarra",
+			artist_url: "https://x.com/adricarraART",
+			art_url: "https://x.com/adricarraART/status/1457743708904992773",
+			desc: "Xenoblade 2 artwork based off of Nirvana's Nevermind album art",
+			date_str: "November 8 2021",
+			tags: ["pyra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

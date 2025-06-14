@@ -961,6 +961,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxrjlez4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqo28o97.png",
+			title: "Ingrid wearing Cordelia's outfit",
+			artist: "Sakuremi",
+			artist_url: "https://x.com/sakuuremi",
+			art_url: "https://x.com/sakuuremi/status/1443955889111646212?s=21",
+			desc: "Ingrid dons the armor of another Pegasus Knight",
+			date_str: "October 1 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

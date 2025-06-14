@@ -889,6 +889,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7mmc986gkn7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxmj5lg7.jpg",
+			title: "Ingrid takes the reigns",
+			artist: "Kalycoris",
+			artist_url: "https://x.com/kalycoris",
+			art_url: "https://x.com/kalycoris/status/1486630749629517825",
+			desc: "Dorothea is usually the Dom, but sometimes Ingrid likes to have fun too",
+			date_str: "January 27 2022",
+			tags: ["ingrid", "dorothea", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

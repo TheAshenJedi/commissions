@@ -949,6 +949,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcv9ervg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5celaxez4.png",
+			title: "The Battle of Eagle and Lion",
+			artist: "Jarckius",
+			artist_url: "https://bsky.app/profile/jarckius.bsky.social",
+			art_url: null,
+			desc: "Ingrid and Dorothea make history behind closed doors",
+			date_str: "October 2 2021",
+			tags: ["ingrid", "dorothea", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

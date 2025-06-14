@@ -925,6 +925,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczowvv67.PNG"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbn6rrzy.png",
+			title: "Ingrid wearing Brave Celica's outfit",
+			artist: "Wani",
+			artist_url: "https://x.com/Wanilmith",
+			art_url: "https://x.com/Wanilmith/status/1457695692084944897",
+			desc: "Ingrid wearing a modified version of Brave Celica's outfit with custom colors",
+			date_str: "November 8 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -1009,6 +1009,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c23zeqj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxrkgj54.png",
+			title: "Neilnail Backshot",
+			artist: "Griff",
+			artist_url: "https://bsky.app/profile/renaisblade.bsky.social",
+			art_url: "https://bsky.app/profile/renaisblade.bsky.social/post/3ln27rfelzk25",
+			desc: "Finally got around to playing Xenoblade X and Neilnail is one of my favorites",
+			date_str: "April 17 2025",
+			tags: ["neilnail", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

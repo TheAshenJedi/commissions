@@ -984,6 +984,18 @@ var data = {
 			tags: ["cavil", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/y8xcn8bbdq4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5ojj2p4.png",
+			title: "Jedi Ingrid as a Xenoblade 3 chibi",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "Another XenoChibi thanks to DeebyFeeby",
+			date_str: "June 20 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

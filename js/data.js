@@ -996,6 +996,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yq9c3nxjp24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2ojkgdy.png",
+			title: "Eunie swimming in Erythia Sea",
+			artist: "Doktor Malefic",
+			artist_url: "https://x.com/doktormalefic",
+			art_url: "https://x.com/doktormalefic/status/1667962465827659776?s=61&t=vPtiVB0qdQ5i3j5NVgqb5A",
+			desc: "The Bus from behind. Funny enough this comm wasn't suppose to be a Golden Boy reference.",
+			date_str: "June 11 2023",
+			tags: ["eunie", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

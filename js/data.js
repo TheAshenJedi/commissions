@@ -1021,6 +1021,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwckol5kj7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqovgqx7.png",
+			title: "Jedi Eirika Jumpscared",
+			artist: "Griff",
+			artist_url: "https://x.com/RenaisBlade",
+			art_url: "https://x.com/RenaisBlade/status/1805677146116948188",
+			desc: "Someone tried to sneak up on the princess. The trickster will get an appropriate thrashing",
+			date_str: "June 25 2024",
+			tags: ["eirika", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

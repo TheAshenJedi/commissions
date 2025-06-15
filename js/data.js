@@ -973,6 +973,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yd5celnn694.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9822pm7.png",
+			title: "Cavil as a Xenoblade 3 chibi",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: null,
+			desc: "I'd imagine Cavil would be a Tank Class in XC3",
+			date_str: "November 30 2023",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

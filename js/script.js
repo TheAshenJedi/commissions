@@ -254,6 +254,7 @@ function translateWord(word) {
 		mythra: "Mythra",
 		pyra: "Pyra",
 		morgan: "Morgan",
+		neilnail: "Neilnail",
 		lucina: "Lucina",
 		alear: "Alear",
 		shez: "Shez",

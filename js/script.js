@@ -245,6 +245,7 @@ function translateWord(word) {
 		nsfw: "NSFW🥜",
 		eechi: "Eechi🔥",
 		florina: "Florina",
+		lyn: "Lyn",
 		eunie: "Eunie",
 		nephenee: "Nephenee",
 		camilla: "Camilla",

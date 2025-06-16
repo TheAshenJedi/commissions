@@ -1081,6 +1081,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c3n9x2r4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cel6ng24.png",
+			title: "Jedi Ingrid Chibi Charm",
+			artist: "enmoire",
+			artist_url: "https://enmoire.com/",
+			art_url: null,
+			desc: "Artwork for a charm of Ingrid as a Jedi. En was kind enough to give me two. One for my wall and one for my car keys.",
+			date_str: "February 21 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -1069,6 +1069,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwcko5ld27.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqogvwd7.png",
+			title: "Take My Breath: Archanea Edition",
+			artist: "Vodka13",
+			artist_url: "https://x.com/VodkaDrawings",
+			art_url: "https://x.com/VodkaDrawings/status/1816969343277892039",
+			desc: "Ingrid feels the warm embrace of fellow knight in the deep blue sea",
+			date_str: "July 26 2024",
+			tags: ["ingrid", "kris", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

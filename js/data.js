@@ -1041,7 +1041,7 @@ var data = {
 			art_url: "https://bsky.app/profile/sethkiel.bsky.social/post/3lrosbvorrs2s",
 			desc: "Where is your boy tonight? I hope he is a gentleman. And maybe he won't find out what I know. You were the last good thing about this part of town",
 			date_str: "June 15 2025",
-			tags: ["ingrid", "catria", "caeda", "kris"],
+			tags: ["ingrid", "catria", "caeda", "kris", "sfw"],
 			hidden: false
 		},
 		{

@@ -1057,6 +1057,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqog3d57.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbnomwdy.jpg",
+			title: "A Bold Florina",
+			artist: "Ihsnet",
+			artist_url: "https://bsky.app/profile/ihsnet.bsky.social",
+			art_url: "https://bsky.app/profile/ihsnet.bsky.social/post/3lkwioe6p2226",
+			desc: "A gift commission for Froginata. I was intrigued at the idea of the shy Florina getting a bit more comfortable with Lyn while they're alone.",
+			date_str: "March 21 2025",
+			tags: ["lyn", "florina", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

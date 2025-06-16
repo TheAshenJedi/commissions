@@ -1045,6 +1045,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzca3qj597.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv95lnn4.png",
+			title: "Take It Off",
+			artist: "BadFrog",
+			artist_url: "https://bsky.app/profile/badfrog.bsky.social",
+			art_url: null,
+			desc: "Old man attempts to rizz with mixed results",
+			date_str: "February 15 2025",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

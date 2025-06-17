@@ -1116,6 +1116,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/y2pckrb98v7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cel29554.jpg",
+			title: "Ingrid's New Swimsuit",
+			artist: "inkanii",
+			artist_url: "https://x.com/inkanii",
+			art_url: null,
+			desc: "Our Knight rocking the attire of the Songstress. Much to her surprise.",
+			date_str: "August 10 2021",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

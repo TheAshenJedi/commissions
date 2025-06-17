@@ -1101,7 +1101,7 @@ var data = {
 			art_url: "https://x.com/LiaLiar1/status/1602779894878015488",
 			desc: "Ingrid's summer outfit is snug in the right places",
 			date_str: "December 13 2022",
-			tags: ["ingrid", "ecchi"],
+			tags: ["ingrid", "eechi"],
 			hidden: false
 		},
 		{

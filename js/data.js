@@ -1093,6 +1093,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c3nq5mz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp2bglj7.png",
+			title: "If you got it, flaunt it",
+			artist: "Lia Liar",
+			artist_url: "https://x.com/LiaLiar1",
+			art_url: "https://x.com/LiaLiar1/status/1602779894878015488",
+			desc: "Ingrid's summer outfit is snug in the right places",
+			date_str: "December 13 2022",
+			tags: ["Ingrid", "ecchi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

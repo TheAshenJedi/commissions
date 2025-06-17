@@ -666,7 +666,7 @@ var data = {
 			title: "Letting out frustration",
 			artist: "DeepSpace",
 			artist_url: "https://bsky.app/profile/deepspacensfw.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/deepspacensfw.bsky.social/post/3lrsjkg7dds2m",
 			desc: "Protecting Prince Dimitri and Marth is a lot of work. Our fellow lady knights let out some steam whenever they get the free time",
 			date_str: "May 7 2025",
 			tags: ["ingrid", "kris", "nsfw"],

@@ -1129,6 +1129,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/739cxmrbma7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2ow6oky.jpg",
+			title: "A King and Queen relax",
+			artist: "Tana",
+			artist_url: "https://vgen.co/Ttana",
+			art_url: null,
+			desc: "After the conflict of Valentia has ended, Alm and Celica take some much needed time for themselves",
+			date_str: "August 29 2021",
+			tags: ["alm", "celica", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

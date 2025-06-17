@@ -253,6 +253,8 @@ function translateWord(word) {
 		eirika: "Eirika",
 		merrin: "Merrin",
 		chloe: "Chloe",
+		celica: "Celica",
+		alm: "Alm",
 		mythra: "Mythra",
 		pyra: "Pyra",
 		morgan: "Morgan",

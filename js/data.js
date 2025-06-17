@@ -1101,7 +1101,19 @@ var data = {
 			art_url: "https://x.com/LiaLiar1/status/1602779894878015488",
 			desc: "Ingrid's summer outfit is snug in the right places",
 			date_str: "December 13 2022",
-			tags: ["Ingrid", "ecchi"],
+			tags: ["ingrid", "ecchi"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7ogcbnz8wjy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnodkaa4.jpg",
+			title: "Summer Ingrid: Ylisse Edition",
+			artist: "ArcEdo",
+			artist_url: "https://x.com/Arc_Edo11",
+			art_url: "https://x.com/Arc_Edo11/status/1472657380597026825/photo/1",
+			desc: "Ingrid wearing Lucina's outfit from the Cipher card game",
+			date_str: "December 19 2021",
+			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
 		{

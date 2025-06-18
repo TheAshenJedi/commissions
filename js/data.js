@@ -1147,7 +1147,7 @@ var data = {
 			artist: "iubworks",
 			artist_url: "https://bsky.app/profile/iubworks.bsky.social",
 			art_url: null,
-			desc: "Tomgirl and Twink have a little dance",
+			desc: "Tomboy and Twink have a little dance",
 			date_str: "December 29 2021",
 			tags: ["ingrid", "yuri", "sfw"],
 			hidden: false
@@ -1162,6 +1162,18 @@ var data = {
 			desc: "Ingrid appreciating Yuri for more than just his cooking",
 			date_str: "January 16 2022",
 			tags: ["ingrid", "yuri", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yvdcwoqerjy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2olpady.jpg",
+			title: "Linkgrid",
+			artist: "iubworks",
+			artist_url: "https://bsky.app/profile/iubworks.bsky.social",
+			art_url: null,
+			desc: "I love Ocarina of Time, so I requested the Lady Knight in the Hero's outfit",
+			date_str: "May 23 2022",
+			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
 		{

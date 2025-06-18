@@ -257,6 +257,7 @@ function translateWord(word) {
 		alm: "Alm",
 		mythra: "Mythra",
 		pyra: "Pyra",
+		yuri: "Yuri",
 		morgan: "Morgan",
 		neilnail: "Neilnail",
 		lucina: "Lucina",

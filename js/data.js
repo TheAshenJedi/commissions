@@ -1188,6 +1188,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "nsfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4apc5o8ko64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2olpoey.png",
+			title: "Distracted on Duty",
+			artist: "daneicole",
+			artist_url: "https://bsky.app/profile/daneicole.bsky.social",
+			art_url: null,
+			desc: "A lifeguard has difficulty on the job when faced with beautiful women",
+			date_str: "January 8 2022",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -1237,6 +1237,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxn3vrk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5b9dom4.png",
+			title: "War-Phase Summer Ingrid",
+			artist: "Grimmels",
+			artist_url: "https://x.com/GrimmelsDaThird",
+			art_url: "https://x.com/GrimmelsDaThird/status/1417281716499095580",
+			desc: "I always preferred her short hair over the braid",
+			date_str: "July 19 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

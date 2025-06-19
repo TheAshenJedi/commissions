@@ -1213,6 +1213,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvbxwkq4.JPG"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c36k5zk4.jpg",
+			title: "90's styled Ingrid",
+			artist: "Supurin",
+			artist_url: "https://x.com/Supurin_com",
+			art_url: "https://x.com/Supurin_com/status/1434667767576281089",
+			desc: "Old Skool",
+			date_str: "September 5 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

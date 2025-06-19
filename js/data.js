@@ -1224,6 +1224,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yq9c36k5g54.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc95awvm7.png",
+			title: "Sailor Chloe and Merrin",
+			artist: "Supurin",
+			artist_url: "https://x.com/Supurin_com",
+			art_url: "https://x.com/Supurin_com/status/1694156524426269063",
+			desc: "Couldn't help but noticed the resemblance these two had to Neptune and Uranus. Explains why they're my favorite pairing in Engage.",
+			date_str: "August 22 2023",
+			tags: ["chloe", "merrin", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

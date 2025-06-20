@@ -275,6 +275,7 @@ function translateWord(word) {
 		fortnite: "Fortnite",
 		tails: "Tails",
 		ash: "Ash",
+		anna: "Anna",
 		leonie: "Leonie",
 		cavil: "Cavil",
 		dee: "Dee",

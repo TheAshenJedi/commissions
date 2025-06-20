@@ -1273,6 +1273,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yrgcn6r5384.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck62alb7.png",
+			title: "Master Galatea's Lesson",
+			artist: "NaijMizuho",
+			artist_url: "https://x.com/NaijMizuho",
+			art_url: "https://x.com/NaijMizuho/status/1786757680704393643/photo/1",
+			desc: "A May the Fourth commission from the Star Wars x Fire Emblem artist himself",
+			date_str: "May 4 2024",
+			tags: ["ingrid", "ophelia", "morgan", "anna", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

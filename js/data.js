@@ -1285,6 +1285,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvbkwb24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cebqzbo4.png",
+			title: "Jedi Alear",
+			artist: "NaijMizuho",
+			artist_url: "https://x.com/NaijMizuho",
+			art_url: "https://x.com/NaijMizuho/status/1843422206321385855/photo/1",
+			desc: "You've heard of The Chosen One, now get ready for The Divine One",
+			date_str: "October 7 2024",
+			tags: ["alear", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

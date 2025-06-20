@@ -1261,6 +1261,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc5b66d94.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw6aazay.jpg",
+			title: "Majin Walker and Emerald Errant",
+			artist: "Nico_Artooo",
+			artist_url: "https://x.com/nico_artooo",
+			art_url: "https://bsky.app/profile/theashenjedi.bsky.social/post/3lrxhnkxkws2v",
+			desc: "A space Manakete crosses paths with a Yakuza which forges an unstoppable bond",
+			date_str: "June 18 2025",
+			tags: ["dee", "oc", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

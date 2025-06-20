@@ -1297,6 +1297,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec85gbrd4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp6ejoe7.png",
+			title: "Bunny Ingrid",
+			artist: "shioinue",
+			artist_url: "https://x.com/shioinue",
+			art_url: "https://x.com/shioinue/status/1531796483082792960",
+			desc: "A sheet of pin-up poses of Ingrid in a bunny outfit",
+			date_str: "May 31 2022",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -1249,6 +1249,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcw6aw8wy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkcz2bzdb7.png",
+			title: "Summer in space with Delicia",
+			artist: "Andoryu",
+			artist_url: "https://bsky.app/profile/andoryuanzuru.bsky.social",
+			art_url: "https://bsky.app/profile/andoryuanzuru.bsky.social/post/3lrynt2bp2c2z",
+			desc: "Even the Emerald Errant needs a vacation",
+			date_str: "June 19 2025",
+			tags: ["dee", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

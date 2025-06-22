@@ -1356,6 +1356,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4apc5bl3l94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcan8b857.png",
+			title: "Merloe Cuddles",
+			artist: "count galatea",
+			artist_url: "https://www.instagram.com/countgalatea/?hl=en",
+			art_url: null,
+			desc: "Don't lose your cool there Merrin",
+			date_str: "June 18 2023",
+			tags: ["merrin", "chloe", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

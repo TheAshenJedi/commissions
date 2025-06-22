@@ -1380,6 +1380,18 @@ var data = {
 			tags: ["dorothea", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/y8xcnpgkjk4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkcz2xg657.png",
+			title: "Miss Galatea from Count Galatea",
+			artist: "count galatea",
+			artist_url: "https://www.instagram.com/countgalatea/?hl=en",
+			art_url: null,
+			desc: "Another Ingrid backshot? Color me shocked",
+			date_str: "March 15 2023",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

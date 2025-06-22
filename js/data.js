@@ -1428,6 +1428,18 @@ var data = {
 			tags: ["fortnite", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yd5ceb38a54.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2zkq3vy.jpg",
+			title: "Puffy Jacket Merrin",
+			artist: "Mezio",
+			artist_url: "https://x.com/meziosaur",
+			art_url: "https://x.com/meziosaur/status/1708512098794475850",
+			desc: "A three person joint commission with Metalhead and Angie featuring Engage's coolest knight part of Mezio's puffy jacket trend",
+			date_str: "October 1 2023",
+			tags: ["merrin", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

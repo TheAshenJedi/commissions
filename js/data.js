@@ -1393,6 +1393,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxn9mjk4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnpgq5z4.jpg",
+			title: "Jedi Ingrid by alboeire",
+			artist: "alboeire",
+			artist_url: "https://x.com/alboeire",
+			art_url: "https://x.com/alboeire/status/1648370563096748032/photo/1",
+			desc: "Brave but foolish",
+			date_str: "April 18 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

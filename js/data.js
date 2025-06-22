@@ -1416,6 +1416,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yq9c36al664.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn65jz94.png",
+			title: "Fortnite Fam",
+			artist: "rainbowfirebird",
+			artist_url: "https://x.com/rainbowfirebird",
+			art_url: "https://x.com/rainbowfirebird/status/1636177043271368704",
+			desc: "A group shot of the Fortnite skins me and my friends use. The pose is based off a real photo we took when we went out for dinner",
+			date_str: "March 15 2023",
+			tags: ["fortnite", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -1333,6 +1333,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c36anod4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcn65oe54.png",
+			title: "Ingrid cosplaying as Peko from Danganrompa 2",
+			artist: "Seityr",
+			artist_url: "https://x.com/Seityr_Art",
+			art_url: "https://x.com/Seityr_Art/status/1532513936875982849",
+			desc: "Ingrid dressed up as The Ultimate Swordswoman",
+			date_str: "June 2 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

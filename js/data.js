@@ -1344,6 +1344,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yvdcw696ewy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkcz2x2mb7.png",
+			title: "Monochromatic Jedi Ingrid",
+			artist: "count galatea",
+			artist_url: "https://www.instagram.com/countgalatea/?hl=en",
+			art_url: null,
+			desc: "A Blueish Jedi Ingrid",
+			date_str: "July 18 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

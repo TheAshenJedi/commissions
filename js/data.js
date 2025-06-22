@@ -1404,6 +1404,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yxkcz2xwpo7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5blp9n4.png",
+			title: "Sea Lion",
+			artist: "Tommie",
+			artist_url: "https://x.com/thetommietomm",
+			art_url: null,
+			desc: "A Blue Lion in the deep blue sea",
+			date_str: "April 5 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

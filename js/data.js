@@ -1441,6 +1441,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwckbjlvv7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcq6mv897.jpg",
+			title: "Jedi Ingrid and Mythra",
+			artist: "Mezio",
+			artist_url: "https://x.com/meziosaur",
+			art_url: "https://x.com/meziosaur/status/1571171765879021570/photo/1",
+			desc: "You are not immune to Jedi Knight",
+			date_str: "September 17 2022",
+			tags: ["ingrid", "mythra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

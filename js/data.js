@@ -1489,6 +1489,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqz5vvx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw6e99ly.png",
+			title: "Sith Ingrid",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "https://x.com/shan0732/status/1597768721724231681",
+			desc: "An alternate timeline where our Blue Lion falls to the Dark Side",
+			date_str: "November 29 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

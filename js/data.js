@@ -1477,6 +1477,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqz5vqx7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw6e9wly.png",
+			title: "Ingrid and Mythra Swimsuit Swap",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "https://x.com/shan0732/status/1571829637344534530",
+			desc: "Two lovely blondes trying out their swimwear",
+			date_str: "September 19 2022",
+			tags: ["ingrid", "mythra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

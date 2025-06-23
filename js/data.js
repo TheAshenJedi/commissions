@@ -1465,6 +1465,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcw6er2ky.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec85je694.png",
+			title: "Warrior Etie",
+			artist: "shan0732",
+			artist_url: "https://x.com/shan0732",
+			art_url: "https://x.com/shan0732/status/1627166839813074950",
+			desc: "I reclassed Etie as a Warrior in my Engage playthrough. Really like her design and personality.",
+			date_str: "February 18 2023",
+			tags: ["etie", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

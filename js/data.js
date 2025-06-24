@@ -1524,6 +1524,18 @@ var data = {
 			tags: ["ingrid", "hilda", "nsfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7ogcbv5b3vy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pck6zk857.jpg",
+			title: "Losing Your Cool",
+			artist: "Tomorrow's Joker",
+			artist_url: "https://bsky.app/profile/tomorrowsjoker.bsky.social",
+			art_url: null,
+			desc: "The Fairytale Flower knows how to hit just the right spot",
+			date_str: "October 12 2023",
+			tags: ["chloe", "merrin", "nsfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

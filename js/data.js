@@ -1543,9 +1543,21 @@ var data = {
 			artist: "MinaCream",
 			artist_url: "https://bsky.app/profile/minacream.bsky.social",
 			art_url: null,
-			desc: "Three years ago, Eeby would introduce me to a rarepair that lives rent free in my head",
+			desc: "Eeby would introduce me to a rarepair that lives rent free in my head",
 			date_str: "September 23 2022",
 			tags: ["ingrid", "catria", "nsfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/yq9c36gznv4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqzkozn7.png",
+			title: "Doggystyle Dorogrid",
+			artist: "Kaos GX",
+			artist_url: "https://x.com/kaos_artgx",
+			art_url: null,
+			desc: "No description needed",
+			date_str: "January 10 2022",
+			tags: ["ingrid", "dorothea", "nsfw"],
 			hidden: false
 		},
 		{

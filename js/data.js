@@ -1501,6 +1501,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzcan5pgk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2bavar4.png",
+			title: "The Chosen Heroine's Chance with Fate",
+			artist: "Hayato",
+			artist_url: "https://bsky.app/profile/hayatostuff.bsky.social",
+			art_url: null,
+			desc: "Normally I'm against 2nd Gen Marriage, but I'll make an exception",
+			date_str: "Febrary 5 2023",
+			tags: ["ophelia", "corrin", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

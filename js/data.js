@@ -1513,6 +1513,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yd5cebje924.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c36g3pd4.png",
+			title: "Humble Yourself",
+			artist: "Deli",
+			artist_url: "https://bsky.app/profile/deliciousbrain.bsky.social",
+			art_url: null,
+			desc: "Sometimes Hilda gets out of line and Ingrid has to lovingly put her in her place",
+			date_str: "June 5 2024",
+			tags: ["ingrid", "hilda", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

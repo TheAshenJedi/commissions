@@ -1546,7 +1546,7 @@ var data = {
 			desc: "Three years ago, Eeby would introduce me to a rarepair that lives rent free in my head",
 			date_str: "September 23 2022",
 			tags: ["ingrid", "catria", "nsfw"],
-			hidden: true
+			hidden: false
 		},
 		{
 			src: [""],

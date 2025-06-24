@@ -1537,6 +1537,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/739cx39eqr7.jpeg"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2zwmdwy.jpg",
+			title: "Ingrid and her first Bluenette",
+			artist: "MinaCream",
+			artist_url: "https://bsky.app/profile/minacream.bsky.social",
+			art_url: null,
+			desc: "Three years ago, Eeby would introduce me to a rarepair that lives rent free in my head",
+			date_str: "September 23 2022",
+			tags: ["ingrid", "catria", "nsfw"],
+			hidden: true
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

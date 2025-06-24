@@ -271,6 +271,7 @@ function translateWord(word) {
 		catria: "Catria",
 		navarre: "Navarre",
 		ophelia: "Ophelia",
+		hilda: "Hilda",
 		etie: "Etie",
 		dorothea: "Dorothea",
 		fortnite: "Fortnite",

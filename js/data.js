@@ -1572,6 +1572,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "nsfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7bwckbbd5g7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cebbr6r4.png",
+			title: "Thinking about Glenn",
+			artist: "Nova Silver",
+			artist_url: "https://bsky.app/profile/novasvr.bsky.social",
+			art_url: "https://bsky.app/profile/novasvr.bsky.social/post/3lshmayzc5s2f",
+			desc: "A gift commission from Nagi",
+			date_str: "June 25 2025",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

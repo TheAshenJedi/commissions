@@ -259,6 +259,7 @@ function translateWord(word) {
 		pyra: "Pyra",
 		yuri: "Yuri",
 		morgan: "Morgan",
+		kagero: "Kagero",
 		neilnail: "Neilnail",
 		lucina: "Lucina",
 		alear: "Alear",

@@ -1561,6 +1561,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcw6vzwzy.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckbx3kw7.png",
+			title: "Dorogrid Segs Animation",
+			artist: "OppaiHobby",
+			artist_url: "https://x.com/OppaiHobby",
+			art_url: "https://x.com/OppaiHobby/status/1576265676561731584/video/1",
+			desc: "A spicy animation featuring my Three Houses ship. Animation in the art link. Due be warned there is audio.",
+			date_str: "October 1 2022",
+			tags: ["ingrid", "dorothea", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

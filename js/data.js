@@ -1584,6 +1584,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4apc5bbvmd4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvbb6dl4.png",
+			title: "Jedi Ingrid and Kagero",
+			artist: "Lesu",
+			artist_url: "https://x.com/LesuArt",
+			art_url: "https://x.com/LesuArt/status/1699443065453257133/photo/1",
+			desc: "A joint commission with Andy420",
+			date_str: "September 6 2023",
+			tags: ["ingrid", "kagero", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

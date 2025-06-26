@@ -1656,6 +1656,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/y8xcnp5xw94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnp5xw94.png",
+			title: "Jedi Ingrid by Whimsy",
+			artist: "whimsycottt",
+			artist_url: "https://bsky.app/profile/whimsycottt.bsky.social",
+			art_url: null,
+			desc: "Again another obligatory Ingrid comm for an Ingrid artist",
+			date_str: "March 7 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

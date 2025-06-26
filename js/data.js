@@ -1629,7 +1629,7 @@ var data = {
 			art_url: "https://x.com/Ihsnet/status/1689000551978078208",
 			desc: "Merrin keeping those cool abs in shape",
 			date_str: "August 8 2023",
-			tags: ["Merrin", "eechi"],
+			tags: ["merrin", "eechi"],
 			hidden: false
 		},
 		{

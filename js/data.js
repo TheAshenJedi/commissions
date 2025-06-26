@@ -1609,6 +1609,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/ye3c2bbqwq4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcannko97.jpg",
+			title: "School Uniform Ingrid and Kagero",
+			artist: "mzrz",
+			artist_url: "https://x.com/mzrz555",
+			art_url: "https://x.com/mzrz555/status/1797566411919053003",
+			desc: "Another banger joint with Andy420",
+			date_str: "June 3 2024",
+			tags: ["ingrid", "kagero", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

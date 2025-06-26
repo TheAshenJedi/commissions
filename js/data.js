@@ -1620,6 +1620,18 @@ var data = {
 			tags: ["ingrid", "kagero", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7lxcp65aab7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcw6kxwjy.jpg",
+			title: "Weightlifting Day",
+			artist: "Ihsnet",
+			artist_url: "https://x.com/Ihsnet",
+			art_url: "https://x.com/Ihsnet/status/1689000551978078208",
+			desc: "Merrin keeping those cool abs in shape",
+			date_str: "August 8 2023",
+			tags: ["Merrin", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

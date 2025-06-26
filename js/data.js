@@ -1597,6 +1597,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y8xcnpp5a34.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnpp5a34.png",
+			title: "Kimono Ingrid and Kagero",
+			artist: "XKit",
+			artist_url: "https://x.com/Xkit_Art25",
+			art_url: "https://x.com/Xkit_Art25/status/1790433349187846189",
+			desc: "Joint comm with Andy420",
+			date_str: "May 14 2024",
+			tags: ["ingrid", "kagero", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

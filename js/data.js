@@ -1645,6 +1645,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqzpnpx7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcp65eqj7.jpg",
+			title: "Jedi Ingrid by yuuru",
+			artist: "yuurururun",
+			artist_url: "https://bsky.app/profile/yuurururun.bsky.social",
+			art_url: null,
+			desc: "Another obligatory Ingrid commission for an Ingrid artist",
+			date_str: "October 20 2023",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

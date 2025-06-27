@@ -1693,6 +1693,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4z9cvdznmv7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckbpv8o7.png",
+			title: "Smol Brave Tiki YCH",
+			artist: "smkittykat",
+			artist_url: "https://bsky.app/profile/smkittykat.bsky.social",
+			art_url: null,
+			desc: "Smol Divine Dragon",
+			date_str: "December 30 2023",
+			tags: ["tiki", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

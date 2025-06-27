@@ -1669,6 +1669,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/739cx3jnrb7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcbv68z9y.jpg",
+			title: "Romantic Runaways",
+			artist: "Kalycoris",
+			artist_url: "https://x.com/kalycoris",
+			art_url: null,
+			desc: "Me and my girlfriend's DnD OCs having a moment together",
+			date_str: "January 13 2022",
+			tags: ["OC", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

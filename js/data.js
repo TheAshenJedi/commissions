@@ -1717,6 +1717,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/y8xcnp5wbb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqzp5j67.png",
+			title: "Smol Andrioth YCH",
+			artist: "smkittykat",
+			artist_url: "https://bsky.app/profile/smkittykat.bsky.social",
+			art_url: null,
+			desc: "My guy thinks he did something to be proud of even if it wasn't",
+			date_str: "December 30 2023",
+			tags: ["OC", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

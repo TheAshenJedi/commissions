@@ -1705,6 +1705,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec85qjmn4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckbpvdp7.png",
+			title: "Smol Aayla YCH",
+			artist: "smkittykat",
+			artist_url: "https://bsky.app/profile/smkittykat.bsky.social",
+			art_url: null,
+			desc: "A very tired ranger",
+			date_str: "December 30 2023",
+			tags: ["OC", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

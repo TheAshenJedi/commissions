@@ -1567,7 +1567,7 @@ var data = {
 			artist: "OppaiHobby",
 			artist_url: "https://x.com/OppaiHobby",
 			art_url: "https://x.com/OppaiHobby/status/1576265676561731584/video/1",
-			desc: "A spicy animation featuring my Three Houses ship. Animation in the art link. Due be warned there is audio.",
+			desc: "A spicy animation featuring my Three Houses ship. Animation in the art link. Do be warned there is audio.",
 			date_str: "October 1 2022",
 			tags: ["ingrid", "dorothea", "nsfw"],
 			hidden: false
@@ -1678,6 +1678,18 @@ var data = {
 			desc: "Me and my girlfriend's DnD OCs having a moment together",
 			date_str: "January 13 2022",
 			tags: ["OC", "sfw"],
+			hidden: false
+		},
+			{
+			src: ["https://cdn.imgchest.com/files/4z9cvdzj2k7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqzp8mx7.png",
+			title: "Smol Jedi Ingrid YCH",
+			artist: "smkittykat",
+			artist_url: "https://bsky.app/profile/smkittykat.bsky.social",
+			art_url: null,
+			desc: "Size matters not",
+			date_str: "December 30 2022",
+			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
 		{

@@ -1764,6 +1764,18 @@ var data = {
 			tags: ["ingrid", "mythra", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/ye3c2drjjp4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx6eo8p7.jpg",
+			title: "Blue Sea Lion",
+			artist: "akina_646",
+			artist_url: "https://x.com/akina_646",
+			art_url: "https://x.com/akina_646/status/1569550815551168513?t=o6NfpgBQCbmHJEbRYaKwig&s=19",
+			desc: "Solstice Knight's Summer goes Swimmingly",
+			date_str: "September 13 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

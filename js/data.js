@@ -1741,6 +1741,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxpdd6b4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc5366j94.png",
+			title: "Chilling by the poolside",
+			artist: "Xith",
+			artist_url: "https://x.com/x_Xith_x",
+			art_url: "https://x.com/x_Xith_x/status/1606776875640324096",
+			desc: "A blue sea lion taking it easy after a swim",
+			date_str: "December 24 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

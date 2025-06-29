@@ -1729,6 +1729,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwdaw3my.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczgbzel7.png",
+			title: "Smol Jedi Mythra YCH",
+			artist: "smkittykat",
+			artist_url: "https://bsky.app/profile/smkittykat.bsky.social",
+			art_url: null,
+			desc: "smol simpleton",
+			date_str: "December 30 2023",
+			tags: ["mythra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

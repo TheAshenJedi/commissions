@@ -1753,6 +1753,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzcabd8w37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc536lpk4.png",
+			title: "Ingrid in Mythra's outfit with custom color palette",
+			artist: "chocojax",
+			artist_url: "https://x.com/chocojax",
+			art_url: "https://x.com/chocojax/status/1480632285112291334?s=20",
+			desc: "Blonde lady knight dons sassy blonde's outfit",
+			date_str: "January 10 2022",
+			tags: ["ingrid", "mythra", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

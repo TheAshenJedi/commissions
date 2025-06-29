@@ -1677,7 +1677,7 @@ var data = {
 			art_url: null,
 			desc: "Me and my girlfriend's DnD OCs having a moment together",
 			date_str: "January 13 2022",
-			tags: ["OC", "sfw"],
+			tags: ["oc", "sfw"],
 			hidden: false
 		},
 			{
@@ -1713,7 +1713,7 @@ var data = {
 			art_url: null,
 			desc: "A very tired ranger",
 			date_str: "December 30 2023",
-			tags: ["OC", "sfw"],
+			tags: ["oc", "sfw"],
 			hidden: false
 		},
 		{
@@ -1725,7 +1725,7 @@ var data = {
 			art_url: null,
 			desc: "My guy thinks he did something to be proud of even if it wasn't",
 			date_str: "December 30 2023",
-			tags: ["OC", "sfw"],
+			tags: ["oc", "sfw"],
 			hidden: false
 		},
 		{

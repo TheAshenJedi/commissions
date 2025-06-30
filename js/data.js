@@ -1797,7 +1797,7 @@ var data = {
 			art_url: null,
 			desc: "As Cavil explored the galaxy, he recruited people from across the universe into his order of Jedi Knights",
 			date_str: "July 12 2024",
-			tags: ["cavil", "ingrid", "eirika", "ophelia", "nephenee", "merrin", "rosado", "morgan", "mythra", "eunie"],
+			tags: ["cavil", "ingrid", "eirika", "ophelia", "nephenee", "merrin", "rosado", "morgan", "mythra", "eunie", "sfw"],
 			hidden: false
 		},
 		{

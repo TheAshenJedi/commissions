@@ -1777,6 +1777,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4nec8mo2om4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcab8g8j7.jpg",
+			title: "Break Time",
+			artist: "Ihsnet",
+			artist_url: "https://x.com/ihsnet",
+			art_url: "https://x.com/LambdaIhs/status/1842083234944893136",
+			desc: "",
+			date_str: "October 4 2024",
+			tags: ["ingrid", "lucina", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

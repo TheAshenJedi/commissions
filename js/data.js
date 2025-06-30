@@ -1795,9 +1795,21 @@ var data = {
 			artist: "silvercandygum",
 			artist_url: "https://bsky.app/profile/silvercandygum.bsky.social",
 			art_url: null,
-			desc: "As Cavil explored the galaxy, he recruited people from across the universe into his order of Jedi Knights",
+			desc: "As Cavil explored the galaxy, he recruited others into his order of Jedi Knights",
 			date_str: "July 12 2024",
 			tags: ["cavil", "ingrid", "eirika", "ophelia", "nephenee", "merrin", "rosado", "morgan", "mythra", "eunie", "sfw"],
+			hidden: false
+		},
+		{
+			src: ["https://cdn.imgchest.com/files/7bwckdjxxk7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckoazz97.png",
+			title: "Jedi Ingrid gift from Eeby",
+			artist: "kisi0024",
+			artist_url: "https://x.com/kisi0024",
+			art_url: null,
+			desc: "Ready for the call at a moments notice",
+			date_str: "August 5 2024",
+			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
 		{

@@ -1789,15 +1789,15 @@ var data = {
 			hidden: false
 		},
 		{
-			src: [""],
-			thumbnail: "",
-			title: "",
-			artist: "",
-			artist_url: "",
-			art_url: "",
-			desc: "",
-			date_str: "",
-			tags: [""],
+			src: ["https://cdn.imgchest.com/files/4gdcxp98bx4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/49zc2bk656y.png",
+			title: "The Ashen Jedi",
+			artist: "silvercandygum",
+			artist_url: "https://bsky.app/profile/silvercandygum.bsky.social",
+			art_url: null,
+			desc: "As Cavil explored the galaxy, he recruited people from across the universe into his order of Jedi Knights",
+			date_str: "July 12 2024",
+			tags: ["cavil", "ingrid", "eirika", "ophelia", "nephenee", "merrin", "rosado", "morgan", "mythra", "eunie"],
 			hidden: false
 		},
 		{

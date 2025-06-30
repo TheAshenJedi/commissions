@@ -1798,6 +1798,18 @@ var data = {
 			desc: "",
 			date_str: "",
 			tags: [""],
+			hidden: false
+		},
+		{
+			src: [""],
+			thumbnail: "",
+			title: "",
+			artist: "",
+			artist_url: "",
+			art_url: "",
+			desc: "",
+			date_str: "",
+			tags: [""],
 			hidden: true
 		}
 	]

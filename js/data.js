@@ -1831,7 +1831,7 @@ var data = {
 			artist: "mr senor/takumiiscool",
 			artist_url: "https://bsky.app/profile/takumiiscool.bsky.social",
 			art_url: "https://bsky.app/profile/takumiiscool.bsky.social/post/3ldrlyikcck2o",
-			desc: "She is a bold one",
+			desc: "She is a bold one. Gift commission from Senor for my birthday",
 			date_str: "December 20 2024",
 			tags: ["dee", "sfw"],
 			hidden: false

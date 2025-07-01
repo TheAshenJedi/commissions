@@ -1861,6 +1861,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4z9cvw8p3o7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc53d8l34.png",
+			title: "Ophelia in the Sea",
+			artist: "Jax",
+			artist_url: "https://x.com/Jax_Drawz",
+			art_url: "https://x.com/Jax_Drawz/status/1734637581730512941",
+			desc: "No depths were too daunting for The Chosen Heroine",
+			date_str: "December 12 2023",
+			tags: ["ophelia", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

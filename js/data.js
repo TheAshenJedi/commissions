@@ -1825,6 +1825,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqwmwj67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckoaobd7.png",
+			title: "The Pa-Dee-wan",
+			artist: "mr senor/takumiiscool",
+			artist_url: "https://bsky.app/profile/takumiiscool.bsky.social",
+			art_url: "https://bsky.app/profile/takumiiscool.bsky.social/post/3ldrlyikcck2o",
+			desc: "She is a bold one",
+			date_str: "December 20 2024",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

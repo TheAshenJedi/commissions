@@ -1813,6 +1813,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvjz9xz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc53lo5m4.png",
+			title: "When Trends Collide",
+			artist: "voyager",
+			artist_url: "https://x.com/voyager_1126",
+			art_url: null,
+			desc: "A joint commission with Yoostink featuring an outfit swap of our usual niche ideas: Hooters and Star Wars",
+			date_str: "May 6 2023",
+			tags: ["ingrid", "lucina", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

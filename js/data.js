@@ -1837,6 +1837,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yd5cerzv9q4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx6nlbn7.png",
+			title: "Dee in the Sea",
+			artist: "KoiseArt",
+			artist_url: "https://bsky.app/profile/koiseart.bsky.social",
+			art_url: "https://bsky.app/profile/koiseart.bsky.social/post/3lswpuqvjzc25",
+			desc: "Artwork of my OC Dee in the deep blue. Done by the artist who frequently commissions characters in scuba gear. As someone who also dabbles in underwater content, I naturally had to give them some love",
+			date_str: "July 1 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

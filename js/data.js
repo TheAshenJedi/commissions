@@ -1849,6 +1849,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4z9cvw82wb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcaberxo7.png",
+			title: "A New Chosen One",
+			artist: "Patdarux",
+			artist_url: "https://x.com/patdarux",
+			art_url: "https://x.com/patdarux/status/1757154658844287035",
+			desc: "Ophelia joins the ranks of the Ashen Jedi",
+			date_str: "February 12 2024",
+			tags: ["ophelia", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

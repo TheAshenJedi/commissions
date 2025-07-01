@@ -1873,6 +1873,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7w6c2vmw3wy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv9k5rz7.png",
+			title: "Summer Ophelia 3D Model",
+			artist: "Mc-Yayade",
+			artist_url: "https://x.com/Mc_Yayade",
+			art_url: "https://x.com/Mc_Yayade/status/1865156844873830696",
+			desc: "Hayato's Summer Ophelia design comes to life thanks to Mc-Yayade. I sometimes use her in various projects on MMD",
+			date_str: "December 6 2024",
+			tags: ["ophelia", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

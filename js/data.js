@@ -1885,6 +1885,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7kzcabo9ea7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3epb554.png",
+			title: "If you got it, flaunt it",
+			artist: "112NAMU",
+			artist_url: "https://x.com/112namu",
+			art_url: "https://x.com/112Namu/status/1699247976768782769",
+			desc: "A reference sheet of summer Dorothea without her hat or dress. I like to believe she's rock some cheeky bikini bottoms",
+			date_str: "September 5 2023",
+			tags: ["dorothea", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

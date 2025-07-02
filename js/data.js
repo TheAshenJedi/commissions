@@ -1908,6 +1908,18 @@ var data = {
 			tags: ["chloe", "merrin", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7ogcbkqr9oy.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3epbo34.png",
+			title: "Extra Horsepower",
+			artist: "sirknightbot",
+			artist_url: "https://x.com/SirKnightbot",
+			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
+			desc: "These Pegasus Knights have a different means of getting around. A joint commission with Eeby",
+			date_str: "April 18 2023",
+			tags: ["ingrid", "catria", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

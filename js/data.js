@@ -1897,6 +1897,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczgmvgj7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcabo9b37.jpg",
+			title: "Biker Merloe",
+			artist: "SilverCandyGum",
+			artist_url: "https://bsky.app/profile/silvercandygum.bsky.social",
+			art_url: null,
+			desc: "Two lady knights enjoy some much needed time together. I'm sure Chloe got some ideal ingridients for dinner. A joint commission with Eeby.",
+			date_str: "August 7 2023",
+			tags: ["chloe", "merrin", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

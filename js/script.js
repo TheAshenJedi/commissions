@@ -258,6 +258,8 @@ function translateWord(word) {
 		mythra: "Mythra",
 		pyra: "Pyra",
 		yuri: "Yuri",
+		edelgard: "Edelgard",
+		micaiah: "Micaiah",
 		morgan: "Morgan",
 		kagero: "Kagero",
 		neilnail: "Neilnail",

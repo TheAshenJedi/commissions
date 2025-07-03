@@ -1921,6 +1921,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4gdcxpll8g4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqw885x7.png",
+			title: "In the arms of the Bluenette",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "After band practice, Ingrid and Catria find a secluded spot away from the others. A gift commission from Eeby",
+			date_str: "October 3 2024",
+			tags: ["ingrid", "catria", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

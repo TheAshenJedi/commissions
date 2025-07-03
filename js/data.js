@@ -1945,6 +1945,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/45xcv9gnz57.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cerxo3r4.png",
+			title: "Mending Hearts",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "The best way to make it through with hearts and wrists intact, is to realize two out of three ain't bad... A gift commission for Eeby",
+			date_str: "May 2 2025",
+			tags: ["edelgard", "micaiah", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

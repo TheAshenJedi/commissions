@@ -1932,6 +1932,18 @@ var data = {
 			tags: ["ingrid", "catria", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/739cx6oolb7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpdwwbg7.png",
+			title: "Bluenettes in Black",
+			artist: "fusenryo2",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "A rare case of Ingrid and the Bluenettes being photogenic",
+			date_str: "November 7 2024",
+			tags: ["ingrid", "catria", "caeda", "kris", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

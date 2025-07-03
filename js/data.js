@@ -1957,6 +1957,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqb9x5d7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/46acqb9x5d7.png",
+			title: "Pixel Pegasus Knight",
+			artist: "PsychoRiot",
+			artist_url: "https://x.com/psycho_riot",
+			art_url: "https://x.com/psycho_riot/status/1466897444185247748",
+			desc: "The Blue Lion with a retro makeover",
+			date_str: "December 3 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

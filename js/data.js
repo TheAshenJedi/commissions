@@ -2100,6 +2100,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4jdcvj8wdz4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvj8wdz4.png",
+			title: "Cavil Sprite",
+			artist: "Toto",
+			artist_url: "https://bsky.app/profile/godlytoto.bsky.social",
+			art_url: null,
+			desc: "Cavil if he was playable in feh",
+			date_str: "November 24 2024",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

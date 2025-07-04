@@ -2040,6 +2040,18 @@ var data = {
 			tags: ["ingrid", "yuri", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yq9c3ema584.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpdl3jj7.png",
+			title: "Let's Make Waves",
+			artist: "inkanii",
+			artist_url: "https://inkanii.carrd.co/",
+			art_url: null,
+			desc: "A cute chibi of summer Ingrid using her line from Feh",
+			date_str: "June 17 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

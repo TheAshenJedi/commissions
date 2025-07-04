@@ -2112,6 +2112,18 @@ var data = {
 			tags: ["cavil", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7mmc9rjqle7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc53xqnk4.png",
+			title: "Cavil Head Bust",
+			artist: "Griff",
+			artist_url: "https://bsky.app/profile/renaisblade.bsky.social",
+			art_url: null,
+			desc: "A reference for Cavil without his helmet",
+			date_str: "January 13 2025",
+			tags: ["cavil", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

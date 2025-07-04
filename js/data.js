@@ -2137,6 +2137,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/45xcv93g667.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cerpxq84.jpg",
+			title: "Plegian Seduction",
+			artist: "Kalycoris",
+			artist_url: "https://x.com/kalycoris",
+			art_url: "https://x.com/kalycoris/status/1476584865906794503",
+			desc: "The Songstress works her charm on her Knight",
+			date_str: "December 30 2021",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

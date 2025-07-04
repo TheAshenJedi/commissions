@@ -2016,6 +2016,18 @@ var data = {
 			tags: ["yuri", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yrgcnzglmp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnzglmp4.png",
+			title: "Smol Bean Yuri",
+			artist: "inkanii",
+			artist_url: "https://inkanii.carrd.co/",
+			art_url: null,
+			desc: "Smol Twink",
+			date_str: "October 6 2021",
+			tags: ["yuri", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

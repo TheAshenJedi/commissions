@@ -2053,6 +2053,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7pjcqwrml37.png"],
+			thumbnail: "",
+			title: "Ingrid NES edition",
+			artist: "Onua",
+			artist_url: "https://bsky.app/profile/onuatf.bsky.social",
+			art_url: null,
+			desc: "A portrait of Ingrid if she was in FE1",
+			date_str: "September 6 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

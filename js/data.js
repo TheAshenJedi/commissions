@@ -2078,13 +2078,25 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/yd5cerpzo64.png"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/yd5cerpzo64.png",
 			title: "Ingrid in Cordelia's summer outfit",
 			artist: "fuzzyren",
 			artist_url: "https://bsky.app/profile/fuzzyren.bsky.social",
 			art_url: null,
 			desc: "A peg knight in another peg knight's swimsuit",
 			date_str: "August 24 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+			{
+			src: ["https://cdn.imgchest.com/files/yrgcnz3k9r4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczgajqq7.png",
+			title: "Spartan Ingrid",
+			artist: "crim",
+			artist_url: "https://bsky.app/profile/scrimblocrimbo.bsky.social",
+			art_url: null,
+			desc: "She would unironically t-bag you",
+			date_str: "October 1 2021",
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},

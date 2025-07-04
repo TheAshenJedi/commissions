@@ -2054,7 +2054,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7pjcqwrml37.png"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/4jdcvj8z5g4.png",
 			title: "Ingrid NES edition",
 			artist: "Onua",
 			artist_url: "https://bsky.app/profile/onuatf.bsky.social",

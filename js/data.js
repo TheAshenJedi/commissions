@@ -1992,6 +1992,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yxkczgrlme7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczgrlme7.png",
+			title: "No Thoughts, Only Food",
+			artist: "Whimsycottt",
+			artist_url: "https://bsky.app/profile/whimsycottt.bsky.social",
+			art_url: null,
+			desc: "Another commission from a peak Ingrid artist. Here we have her in the spring outfit which is one of my favorites in the DLC",
+			date_str: "May 11 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -2124,6 +2124,18 @@ var data = {
 			tags: ["cavil", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7w6c2v56zoy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwdpzg3y.jpg",
+			title: "Dorogrid Date",
+			artist: "lilo",
+			artist_url: "https://x.com/LittelSpaghet?t=RFKFb4uT_wADGscNmP8jNA&s=09",
+			art_url: null,
+			desc: "A Songstress and her Knight spending quality time together",
+			date_str: "January 7 2022",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

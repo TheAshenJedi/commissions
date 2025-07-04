@@ -2064,6 +2064,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/ye3c2d6o564.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2d6o564.gif",
+			title: "Helltaker Ingrid",
+			artist: "Atelier951",
+			artist_url: "https://x.com/atelier951",
+			art_url: null,
+			desc: "Idk about Helltaker I just like the sassy gif",
+			date_str: "July 22 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

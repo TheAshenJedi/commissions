@@ -2005,6 +2005,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc53gm3m4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnzgl964.jpg",
+			title: "Timeskip Yuri Bust",
+			artist: "Sierra117renner",
+			artist_url: "https://bsky.app/profile/s117renner.bsky.social",
+			art_url: null,
+			desc: "The best twink in Three Houses",
+			date_str: "October 13 2021",
+			tags: ["yuri", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

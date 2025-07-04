@@ -2077,6 +2077,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yd5cerpzo64.png"],
+			thumbnail: "",
+			title: "Ingrid in Cordelia's summer outfit",
+			artist: "fuzzyren",
+			artist_url: "https://bsky.app/profile/fuzzyren.bsky.social",
+			art_url: null,
+			desc: "A peg knight in another peg knight's swimsuit",
+			date_str: "August 24 2021",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

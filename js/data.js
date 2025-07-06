@@ -2208,6 +2208,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7pjcqwwzjq7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4gdcxppdaq4.jpg",
+			title: "Vampire Dorogrid",
+			artist: "Calesia",
+			artist_url: "https://calesia.carrd.co/",
+			art_url: null,
+			desc: "Even the most stalwart knight struggle against a certain rose's charm",
+			date_str: "May 29 2022",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -2148,6 +2148,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4nec8m5wd64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8m5wd64.png",
+			title: "Plegian Dorogrid",
+			artist: "quick",
+			artist_url: "https://bsky.app/profile/quickalas.bsky.social",
+			art_url: "https://bsky.app/profile/quickalas.bsky.social/post/3lnm77m6lr22p",
+			desc: "Beautiful pixel art of Dorogrid based off the Plegian banner from Feh",
+			date_str: "October 3 2021",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

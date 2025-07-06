@@ -2184,6 +2184,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/739cx63qo37.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqw6l5z7.jpg",
+			title: "Submerged in Love",
+			artist: "Natendo",
+			artist_url: "https://bsky.app/profile/natendoart.bsky.social",
+			art_url: null,
+			desc: "A sea nymph pounces on an unsuspecting knight",
+			date_str: "August 2021",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

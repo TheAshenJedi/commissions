@@ -2197,6 +2197,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc53ba5w4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx63vp67.png",
+			title: "Washed Ashore",
+			artist: "IRISLI0224",
+			artist_url: "https://x.com/IRISLI0224",
+			art_url: null,
+			desc: "This time the Knight does the pouncing",
+			date_str: "November 3 2022",
+			tags: ["ingrid", "dorothea", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

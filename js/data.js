@@ -2160,6 +2160,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7ogcbkv65xy.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcabnk3q7.jpg",
+			title: "Food Brings Lovers Together",
+			artist: "ynadoodle",
+			artist_url: "https://ynadoodle.carrd.co/",
+			art_url: null,
+			desc: "An adrorable doodle featuring a Knight and Trickster bonding over a simple thing",
+			date_str: "September 11 2021",
+			tags: ["ingrid", "yuri", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -2244,6 +2244,18 @@ var data = {
 			tags: ["ingrid", "catria", "caeda", "kris", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4z9cvw9dlq7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczgq29m7.png",
+			title: "Hooters Marigrid",
+			artist: "Jarckius",
+			artist_url: "https://bsky.app/profile/jarckius.bsky.social",
+			art_url: "https://bsky.app/profile/jarckius.bsky.social/post/3kyabsvb4l52j",
+			desc: "A joint project and gift for Yoostink: commissioner of Hooter's Lucina",
+			date_str: "July 26 2024",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

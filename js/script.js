@@ -283,6 +283,7 @@ function translateWord(word) {
 		tiki: "Tiki",
 		ash: "Ash",
 		anna: "Anna",
+		kiran: "Kiran",
 		leonie: "Leonie",
 		cavil: "Cavil",
 		dee: "Dee",

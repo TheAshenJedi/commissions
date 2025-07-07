@@ -2232,6 +2232,18 @@ var data = {
 			tags: ["ingrid", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4nec8ml5l64.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv98e8r7.png",
+			title: "A Blue Christmas for Ingrid",
+			artist: "Jarckius",
+			artist_url: "https://bsky.app/profile/jarckius.bsky.social",
+			art_url: "https://bsky.app/profile/jarckius.bsky.social/post/3le5nyvqymc2u",
+			desc: "Ingrid and the Bluenettes has a special get together for the holidays",
+			date_str: "December 25 2025",
+			tags: ["ingrid", "catria", "caeda", "kris", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

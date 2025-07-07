@@ -2281,6 +2281,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4jdcvj66zg4.jpg"],
+			thumbnail: "",
+			title: "Nia steals Rex's Girl",
+			artist: "1340Smile",
+			artist_url: "https://x.com/1340Smile",
+			art_url: "https://x.com/1340Smile/status/1472345463261220864",
+			desc: "I never thought I'd predict the ending of Xenoblade 3 several years ago",
+			date_str: "December 18 2021",
+			tags: ["pyra", "nia", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

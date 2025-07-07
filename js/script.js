@@ -280,6 +280,8 @@ function translateWord(word) {
 		etie: "Etie",
 		dorothea: "Dorothea",
 		fortnite: "Fortnite",
+		kaede: "Kaede",
+		miu: "Miu",
 		tails: "Tails",
 		tiki: "Tiki",
 		ash: "Ash",

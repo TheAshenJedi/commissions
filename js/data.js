@@ -2220,6 +2220,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/46acqbgz5g7.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/yrgcnz96v54.png",
+			title: "Swimming Ingrid gif",
+			artist: "Patdarux",
+			artist_url: "https://x.com/patdarux",
+			art_url: null,
+			desc: "Patdarux wanted to experiment with animations so here's a blue lion in the deep blue",
+			date_str: "July 7 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

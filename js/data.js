@@ -2256,6 +2256,18 @@ var data = {
 			tags: ["ingrid", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yd5cermr934.png"],
+			thumbnail: "https://cdn.imgchest.com/files/y8xcnkqkvp4.png",
+			title: "Swimming Scuba Summoner",
+			artist: "motoi",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "A gift commission for Eeby featuring the Summoner she associates with. Complete with unique features such as the gloves and mole. The idea was inspired by Jose Julio who commissions art with a scuba theme.",
+			date_str: "May 8 2025",
+			tags: ["kiran", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -2282,7 +2282,7 @@ var data = {
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/4jdcvj66zg4.jpg"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9rnnw57.jpg",
 			title: "Nia steals Rex's Girl",
 			artist: "1340Smile",
 			artist_url: "https://x.com/1340Smile",

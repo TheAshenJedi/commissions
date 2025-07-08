@@ -2292,6 +2292,18 @@ var data = {
 			tags: ["pyra", "nia", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/46acqbggbn7.jpg"],
+			thumbnail: "",
+			title: "Kaede x Miu",
+			artist: "thrananaart",
+			artist_url: "https://x.com/thrananaart",
+			art_url: "https://x.com/thrananaart/status/1607865147502252032",
+			desc: "Taking a break from the killing game",
+			date_str: "December 27 2022",
+			tags: ["kaede", "miu", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

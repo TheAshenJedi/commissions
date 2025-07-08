@@ -2353,6 +2353,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/739cx6gdgp7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx6gdgp7.jpg",
+			title: "Wetsuit Ingrid",
+			artist: "Mune",
+			artist_url: "https://bsky.app/profile/munedraws.bsky.social",
+			art_url: null,
+			desc: "Mune is know for their swimsuit commissions, so I went with a surfer's wetsuit",
+			date_str: "September 2 2021",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

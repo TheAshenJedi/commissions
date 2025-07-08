@@ -2376,6 +2376,18 @@ var data = {
 			tags: ["ingrid", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yvdcwdkx88y.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcabkp2q7.png",
+			title: "Hunting for Pearls",
+			artist: "deeKei",
+			artist_url: "https://x.com/_deeKei",
+			art_url: "https://x.com/_deeKei/status/1593983248220114945",
+			desc: "A sea lion searches for gems for her Songstress",
+			date_str: "November 19 2022",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

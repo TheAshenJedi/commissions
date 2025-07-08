@@ -2329,6 +2329,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczgk9b37.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cx6gdp37.png",
+			title: "Swimmin Ingy",
+			artist: "Zet",
+			artist_url: "https://bsky.app/profile/zetsumi.bsky.social",
+			art_url: null,
+			desc: "Taking a dip in the Professor's swimwear",
+			date_str: "January 18 2022",
+			tags: ["ingrid", "sfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

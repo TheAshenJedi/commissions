@@ -2294,7 +2294,7 @@ var data = {
 		},
 			{
 			src: ["https://cdn.imgchest.com/files/46acqbggbn7.jpg"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwdnnn8y.jpg",
 			title: "Kaede x Miu",
 			artist: "thrananaart",
 			artist_url: "https://x.com/thrananaart",

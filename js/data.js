@@ -2304,6 +2304,18 @@ var data = {
 			tags: ["kaede", "miu", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4nec8mll9q4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7w6c2vqq8my.jpg",
+			title: "Alear Enjoying the Pool",
+			artist: "AramyxDraws",
+			artist_url: "https://x.com/aramyxdraws",
+			art_url: "https://x.com/AramyxDraws/status/1811491111963095390",
+			desc: "Will you join her in the pool?",
+			date_str: "July 11 24",
+			tags: ["alear", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

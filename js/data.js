@@ -2317,6 +2317,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yvdcwdngr2y.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yvdcwdngr2y.jpg",
+			title: "Dark Knight Ingrid",
+			artist: "AramyxDraws",
+			artist_url: "https://x.com/aramyxdraws",
+			art_url: "https://x.com/aramyxdraws/status/1603480319973285891?s=61&t=N9pfcazXlT3oKfuoUvTgKg",
+			desc: "Ingrid wearing the armor of the Dark Knight from Fire Emblem Fates. She's making good use of its key asset.",
+			date_str: "December 15 2022",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -2341,6 +2341,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4z9cvwklov7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3e2ogx4.png",
+			title: "Underwater Ingrid",
+			artist: "JackaryDraws",
+			artist_url: "https://x.com/JackaryDraws",
+			art_url: "https://x.com/JackaryDraws/status/1680063166976335873",
+			desc: "My first ever commission for the Blue Lion featuring Jackary's custom swimsuit design",
+			date_str: "December 20 2017",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

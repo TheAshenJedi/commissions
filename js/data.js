@@ -2401,6 +2401,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwckdpkwl7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7kzcabka2r7.png",
+			title: "Sith Ingrid: Agarthan Edition",
+			artist: "Willanator93",
+			artist_url: "https://x.com/Willanator93",
+			art_url: "https://x.com/Willanator93/status/1643320804086779905",
+			desc: "Kronya's fit wouldn't be out of fit for a Sith Lord",
+			date_str: "April 4 2023",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

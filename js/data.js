@@ -2413,6 +2413,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/4apc53p53e4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/y2pckoek5p7.jpg",
+			title: "Ingrid in 2B's outfit",
+			artist: "1340Smile",
+			artist_url: "https://x.com/1340Smile",
+			art_url: null,
+			desc: "Another outfit that helps emphasize Ingrid's assets",
+			date_str: "July 19 2022",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -2425,6 +2425,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/7bwckdlnvr7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8mx6m84.png",
+			title: "Modern Day Knights",
+			artist: "SilverCandyGum",
+			artist_url: "https://x.com/SilverCandyGum",
+			art_url: "https://x.com/SilverCandyGum/status/1943367226582851680",
+			desc: "These Lady Knights choose a different means of transportation",
+			date_str: "July 10 2025",
+			tags: ["ingrid", "catria", "merrin", "palla", "minerva"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

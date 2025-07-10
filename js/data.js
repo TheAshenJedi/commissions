@@ -2448,6 +2448,18 @@ var data = {
 			tags: ["etie", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4nec8m9z3p4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckdm6nl7.png",
+			title: "Zero Suit Blondes",
+			artist: "Hayato",
+			artist_url: "https://x.com/Hayato_Stuff",
+			art_url: "https://x.com/Hayato_Stuff/status/1547662540737458176?s=20&t=9GbJ6p_3bXmJPU8PwoOeCg",
+			desc: "Various blonde waifus rocking the Zero Suit",
+			date_str: "July 14 2022",
+			tags: ["ingrid", "ophelia", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

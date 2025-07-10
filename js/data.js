@@ -2436,6 +2436,18 @@ var data = {
 			tags: ["ingrid", "catria", "merrin", "palla", "minerva", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4z9cvwgqn67.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9rbamr7.png",
+			title: "Bunny Etie",
+			artist: "shioinue",
+			artist_url: "https://x.com/shioinue",
+			art_url: null,
+			desc: "Her abs aren't her only defining feature",
+			date_str: "July 12 2023",
+			tags: ["etie", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -273,6 +273,8 @@ function translateWord(word) {
 		kris: "Kris",
 		caeda: "Caeda",
 		catria: "Catria",
+		palla: "Palla",
+		minerva: "Minerva",
 		navarre: "Navarre",
 		ophelia: "Ophelia",
 		hilda: "Hilda",

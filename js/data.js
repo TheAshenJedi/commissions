@@ -2433,7 +2433,7 @@ var data = {
 			art_url: "https://x.com/SilverCandyGum/status/1943367226582851680",
 			desc: "These Lady Knights choose a different means of transportation",
 			date_str: "July 10 2025",
-			tags: ["ingrid", "catria", "merrin", "palla", "minerva"],
+			tags: ["ingrid", "catria", "merrin", "palla", "minerva", "sfw"],
 			hidden: false
 		},
 		{

@@ -2496,6 +2496,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4jdcvjagkb4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4apc53rznx4.png",
+			title: "Seduction of the Simpleton",
+			artist: "Ihsnet",
+			artist_url: "https://bsky.app/profile/ihsnet.bsky.social",
+			art_url: null,
+			desc: "Ingrid is blessed by the power of the Aegis",
+			date_str: "October 25 2022",
+			tags: ["ingrid", "mythra", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

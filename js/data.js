@@ -2517,7 +2517,7 @@ var data = {
 			art_url: "https://x.com/Bellfonts/status/1609658913489670144",
 			desc: "These blondes are caked up no matter the swimwear. A gift commission from a Secret Santa",
 			date_str: "January 1 2023",
-			tags: ["ingrid" "mythra", "eechi"],
+			tags: ["ingrid", "mythra", "eechi"],
 			hidden: false
 		},
 		{

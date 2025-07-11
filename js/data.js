@@ -2533,6 +2533,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c3e9wqj4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczg85pr7.png",
+			title: "Ready for the Beach",
+			artist: "YaizaBerry",
+			artist_url: "https://bsky.app/profile/yaizaberry.bsky.social",
+			art_url: "https://bsky.app/profile/yaizaberry.bsky.social/post/3ltpf3euogk2j",
+			desc: "A reference sheet styled commission of Dee's summer outfit",
+			date_str: "July 11 2025",
+			tags: ["dee", "eechi"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

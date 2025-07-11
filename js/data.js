@@ -2484,6 +2484,18 @@ var data = {
 			tags: ["ingrid", "dorothea", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7w6c2vkb2ay.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7lxcpdvejr7.png",
+			title: "Drooling Dorogrid",
+			artist: "kdtwifi",
+			artist_url: "https://bsky.app/profile/kdtwifi.bsky.social",
+			art_url: null,
+			desc: "Any and all proper semblance of a kiss gets lost when Ingrid and Dorothea get intimate",
+			date_str: "February 15 2022",
+			tags: ["ingrid", "dorothea", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

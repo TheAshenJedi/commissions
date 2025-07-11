@@ -2521,6 +2521,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yq9c3e9w9j4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4nec8mdp3v4.png",
+			title: "Great Friends",
+			artist: "Motoi",
+			artist_url: "https://skeb.jp/@motoiwork",
+			art_url: null,
+			desc: "Lavai and Delicia have gotten close in such a short timespan. I'm sure they'll make great friends. A gift commission for Iris",
+			date_str: "July 11 2025",
+			tags: ["dee", "oc", "nsfw"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

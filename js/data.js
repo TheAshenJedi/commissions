@@ -409,18 +409,6 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/4gdcxe3grj4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7bwckw6mbk7.png",
-			title: "Selia",
-			artist: "Happy Ice Cream Team",
-			artist_url: "https://x.com/_IceCreamTeam_",
-			art_url: null,
-			desc: "A friend's depiction of the daughter of Seliph and Larcei from FE4.",
-			date_str: "October 18 2024",
-			tags: ["oc", "eechi"],
-			hidden: false
-		},
-		{
 			src: ["https://cdn.imgchest.com/files/4gdcxe22p24.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4apc5xzz3q4.png",
 			title: "Jedi Toto",

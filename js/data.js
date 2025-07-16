@@ -2532,6 +2532,18 @@ var data = {
 			tags: ["dee", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4nec8lwwwr4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7pjcqkxxwr7.png",
+			title: "Gone Swimmin",
+			artist: "OniNuer",
+			artist_url: "https://bsky.app/profile/oninuer.bsky.social",
+			art_url: null,
+			desc: "A birthday gift commission for Froginata featuring Lyn in her summer outfit. For this commission, I had Lyn swimming breastroke because it's similar to how a frog swims. Complete with front and back angles for your viewing pleasure",
+			date_str: "July 16 2025",
+			tags: ["lyn", "eechi"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

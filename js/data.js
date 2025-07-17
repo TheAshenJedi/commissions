@@ -2569,6 +2569,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/yxkczqvkow7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczqvkow7.jpg",
+			title: "Snared Summoner",
+			artist: "DeepSpace",
+			artist_url: "https://bsky.app/profile/deepspacensfw.bsky.social",
+			art_url: null,
+			desc: "Loki under the guise Caeda takes the Summoner to a private place for a special experiment. A gift commission for Eeby",
+			date_str: "",
+			tags: ["kiran", "extreme"],
+			hidden: false
+		},
+		{
 			src: [""],
 			thumbnail: "",
 			title: "",

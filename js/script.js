@@ -56,6 +56,7 @@ $(document).ready(function() {
 		for (var i = 0; i < images.length; i++) {
 			$("#img"+i).show();
 		}
+		extremeTagCheck();
 		$(".hidden-image").hide();
 		updateImageCountLabel();
 	});
@@ -244,6 +245,7 @@ function translateWord(word) {
 		sfw: "SFW",
 		nsfw: "NSFW🥜",
 		eechi: "Eechi🔥",
+		extreme: "Extreme",
 		florina: "Florina",
 		lyn: "Lyn",
 		eunie: "Eunie",
@@ -359,6 +361,17 @@ function createTagsDropdown(tags) {
 			var nsfw_confirmation = ageVerification();
 			// Set the checkbox to unchecked if Cancel was selected instead of OK
 			if (!nsfw_confirmation) {
+				$(this).closest("input").prop("checked", false);
+				return false;
+			}
+		}
+
+		// If the tag is "extreme" and is checked, then ask for extreme confirmation
+		if (tag == "extreme" && $(this).closest("input").prop("checked")) {
+			// The checked property is set to true at this call because clicking on the checkbox causes it to flip checked at this moment
+			var extreme_confirmation = extremeVerification();
+			// Set the checkbox to unchecked if Cancel was selected instead of OK
+			if (!extreme_confirmation) {
 				$(this).closest("input").prop("checked", false);
 				return false;
 			}
@@ -484,6 +497,7 @@ function showImagesThatMatch() {
 		}
 	}
 	
+	extremeTagCheck();
 
 	// Hide hidden images no matter what
 	$(".hidden-image").hide();
@@ -530,6 +544,28 @@ function ageVerification() {
 	else {
 		localStorage.setItem("nsfwVerified", "verified")
 		return true;
+	}
+}
+
+function extremeVerification() {
+	if (localStorage.getItem("extremeVerified") && localStorage.getItem("extremeVerified") == "verified") {
+		return true;
+	}
+	var extreme_confirmation = confirm("WARNING: This section contains commissions that are more intense than most – for example through inhuman characters, allusions to harm, and/or dubiously consensual sexual content. By clicking OK, you are confirming that you are 18 years or older and are okay with this content being displayed on your screen. Click Cancel if you are not.");
+	if (!extreme_confirmation) {
+		localStorage.setItem("extremeVerified", "notVerified")
+		return false;
+	}
+	else {
+		localStorage.setItem("extremeVerified", "verified")
+		return true;
+	}
+}
+
+// Hide extreme tags that should only show when selected
+function extremeTagCheck() {
+	if (!tags_to_show["extreme"]) {
+		$(".extreme").parent().hide();
 	}
 }
 

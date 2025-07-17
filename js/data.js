@@ -2556,6 +2556,18 @@ var data = {
 			tags: ["alear", "extreme"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/4nec8lblnp4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ye3c2gwgeb4.png",
+			title: "Love Yourself",
+			artist: "Jarckius",
+			artist_url: "https://x.com/jarckius_art",
+			art_url: "https://x.com/jarckius_art/status/1806805953196728690",
+			desc: "Self love is important",
+			date_str: "",
+			tags: ["pyra", "mythra", "extreme"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

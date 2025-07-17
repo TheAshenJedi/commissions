@@ -2544,6 +2544,18 @@ var data = {
 			tags: ["lyn", "eechi"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yxkczqvqpe7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yxkczqvqpe7.jpg",
+			title: "Ivy's Test Subject",
+			artist: "1340Smile",
+			artist_url: "https://x.com/1340Smile",
+			art_url: null,
+			desc: "Alear offers herself to Ivy's new form of magic",
+			date_str: "",
+			tags: ["alear", "extreme"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

@@ -2580,6 +2580,18 @@ var data = {
 			tags: ["kiran", "extreme"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yq9c3vboa34.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yd5cem9da84.jpg",
+			title: "Wrath of a Goddess",
+			artist: "Primogenitor34",
+			artist_url: "https://bsky.app/profile/primogenitor34.bsky.social",
+			art_url: null,
+			desc: "I saw you in a bright clear field. Hurricane heat in my head. The kind of pain you feel to get good in the end. Good in the end. Inscribed like stone and faded by the rain. Give up what you love. Give up what you love, before it does you in",
+			date_str: "January 10 2025",
+			tags: ["extreme"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

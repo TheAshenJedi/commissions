@@ -2594,7 +2594,7 @@ var data = {
 		},
 			{
 			src: ["https://cdn.imgchest.com/files/y2pck5gdog7.png"],
-			thumbnail: "",
+			thumbnail: "https://cdn.imgchest.com/files/7mmc9nd33e7.png",
 			title: "A Knight's Duty",
 			artist: "fusenryo",
 			artist_url: "https://skeb.jp/@fusenryo2",

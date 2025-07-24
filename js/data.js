@@ -2592,6 +2592,18 @@ var data = {
 			tags: ["extreme"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/y2pck5gdog7.png"],
+			thumbnail: "",
+			title: "A Knight's Duty",
+			artist: "fusenryo",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Ingrid comforts a merchant who got lost finding her siblings",
+			date_str: "July 24 2025",
+			tags: ["ingrid", "anna", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

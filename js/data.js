@@ -2604,6 +2604,18 @@ var data = {
 			tags: ["ingrid", "anna", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/yq9c32k2j24.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxgzgrz7.png",
+			title: "Triple Trouble",
+			artist: "Asu",
+			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
+			art_url: "https://bsky.app/profile/aegisasu.bsky.social/post/3lv4xfz4afc2p",
+			desc: "A commission featuring my OC Dee along with Eeby's OCs Indra and Macie. Thought it would be cool to feature the three as they are Dragons with unique eye designs. While not as oblivious to the ladies as Ingrid, Dee is unaware of the circumstances she's putting herself in",
+			date_str: "July 29 2025",
+			tags: ["dee", "oc", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

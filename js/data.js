@@ -2616,6 +2616,18 @@ var data = {
 			tags: ["dee", "oc", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/739cxg5g5p7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4jdcv3z3wp4.png",
+			title: "Retro Anime Dee",
+			artist: "icoooos",
+			artist_url: "https://x.com/icoooos",
+			art_url: null,
+			desc: "Dee in a retro anime style that reminds me a bit of Langrisser. Mized things up by showing more of her arsenal besides her Lightsaber",
+			date_str: "August 1 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

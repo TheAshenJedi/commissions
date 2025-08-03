@@ -2628,6 +2628,18 @@ var data = {
 			tags: ["dee", "sfw"],
 			hidden: false
 		},
+			{
+			src: ["https://cdn.imgchest.com/files/7mmc93qjeg7.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/4z9cvkjxqm7.jpg",
+			title: "A New Generation",
+			artist: "Gzei",
+			artist_url: "https://bsky.app/profile/gzeidraws.bsky.social",
+			art_url: "https://bsky.app/profile/gzeidraws.bsky.social/post/3lving3eips2w",
+			desc: "Children from all over the realms cross paths! I'm sure they'll get along just nicely. A commission featuring my OC Dee along with Toto, Griff and Iris' OCs",
+			date_str: "August 3 2025",
+			tags: ["dee", "oc", "sfw"],
+			hidden: false
+		},
 		{
 			src: [""],
 			thumbnail: "",

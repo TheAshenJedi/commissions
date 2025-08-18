@@ -2641,6 +2641,18 @@ var data = {
 			hidden: false
 		},
 		{
+			src: ["https://cdn.imgchest.com/files/46acqp55627.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv2gg5q7.png",
+			title: "Bringing the Thunder",
+			artist: "Deli",
+			artist_url: "https://bsky.app/profile/deliciousbrain.bsky.social",
+			art_url: null,
+			desc: "A gift commission for my friend Griff featuring her summoner Bune and Thorr from Fire Emblem Heroes",
+			date_str: "August 11 2025",
+			tags: ["oc", "nsfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

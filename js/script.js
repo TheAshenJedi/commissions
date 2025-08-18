@@ -280,6 +280,7 @@ function translateWord(word) {
 		navarre: "Navarre",
 		ophelia: "Ophelia",
 		hilda: "Hilda",
+		petra: "Petra",
 		lucina: "Lucina",
 		etie: "Etie",
 		dorothea: "Dorothea",

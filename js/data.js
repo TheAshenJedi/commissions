@@ -2652,6 +2652,18 @@ var data = {
 			tags: ["oc", "nsfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/7mmc96lmq27.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/yq9c3lp8p94.jpg",
+			title: "The Beast Within",
+			artist: "Primogenitor34",
+			artist_url: "https://bsky.app/profile/primogenitor34.bsky.social",
+			art_url: "https://bsky.app/profile/primogenitor34.bsky.social/post/3lw57mvgcl22h",
+			desc: "Carrying the blood of Tiki and Grima, Dee calls upon her dragon form to bring justice in a corrupt galaxy",
+			date_str: "August 11 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

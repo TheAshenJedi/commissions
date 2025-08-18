@@ -2677,6 +2677,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/7mmc96lv5w7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/45xcv2gd2r7.png",
+			title: "A Princess' Paradise",
+			artist: "Tedbob84",
+			artist_url: "https://bsky.app/profile/did:plc:j7dalflyvumpmlirop24fbbq",
+			art_url: null,
+			desc: "Petra is one of those characters I enjoyed in Three Houses, but got overshadowed by my love for Ingrid. Underwater themed commissions are my go-to summer idea. Petra has a summer alt in feh and lists swimming as her hobby so it made perfect sense to do it",
+			date_str: "August 18 2025",
+			tags: ["petra", "eechi"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

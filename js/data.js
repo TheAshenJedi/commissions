@@ -2665,6 +2665,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/yq9c3lp8n94.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7mmc96lmng7.png",
+			title: "Getting Prepared",
+			artist: "DeebyFeeby",
+			artist_url: "https://bsky.app/profile/deebyfeeby.bsky.social",
+			art_url: "https://bsky.app/profile/deebyfeeby.bsky.social/post/3lwedzaln3k2x",
+			desc: "You stumble upon Delicia putting her armor on. She's not so much annoyed but rather concerned if she needs your assistance",
+			date_str: "August 14 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

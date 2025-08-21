@@ -2689,6 +2689,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/7ogcb6vv3ky.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb6vv3ky.png",
+			title: "Delicia Emote",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3lwurej3kvc2o",
+			desc: "What's this? The Dee",
+			date_str: "August 20 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

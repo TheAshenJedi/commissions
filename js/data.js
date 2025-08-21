@@ -2713,6 +2713,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/yd5ceabrmg4.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7bwckpbdlb7.png",
+			title: "Love Is The Victor",
+			artist: "FGsketch",
+			artist_url: "https://bsky.app/profile/fgsketch.bsky.social",
+			art_url: null,
+			desc: "After an intense Lightsaber duel, two Princesses set aside their differences",
+			date_str: "August 21 2025",
+			tags: ["eirika", "camilla", "eechi"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

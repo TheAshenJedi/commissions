@@ -2701,6 +2701,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/4gdcxjnpwn4.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7ogcb6vkr3y.jpg",
+			title: "Fell Emblem Summer Celica",
+			artist: "kimagureilya",
+			artist_url: "https://bsky.app/profile/kimagureilya.bsky.social",
+			art_url: "https://bsky.app/profile/kimagureilya.bsky.social/post/3lwwuomzhoc2d",
+			desc: "My girlfriend suggest summer Celica in the color scheme of her corrupt Emblem form in Engage. It suits her nicely",
+			date_str: "August 21 2025",
+			tags: ["celica", "sfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

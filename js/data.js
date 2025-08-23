@@ -2718,7 +2718,7 @@ var data = {
 			title: "Love Is The Victor",
 			artist: "FGsketch",
 			artist_url: "https://bsky.app/profile/fgsketch.bsky.social",
-			art_url: null,
+			art_url: "https://bsky.app/profile/fgsketch.bsky.social/post/3lwzxp5nu7s2e",
 			desc: "After an intense Lightsaber duel, two Princesses set aside their differences",
 			date_str: "August 21 2025",
 			tags: ["eirika", "camilla", "eechi"],

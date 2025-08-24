@@ -2724,6 +2724,18 @@ var data = {
 			tags: ["eirika", "camilla", "eechi"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/46acqpp2na7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/739cxjj25e7.png",
+			title: "Ash and Ingrid Smooch",
+			artist: "SilentShanin",
+			artist_url: "https://bsky.app/profile/silentshanin.bsky.social",
+			art_url: "https://bsky.app/profile/silentshanin.bsky.social/post/3lx2oe5m2fs2a",
+			desc: "A silly joke comm for Toto featuring our favorite characters being good friends",
+			date_str: "August 23 2025",
+			tags: ["ingrid", "ash", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

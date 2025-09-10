@@ -2737,6 +2737,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/294602d25478.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/7c2aa55f3355.jpg",
+			title: "Taking Aim",
+			artist: "Lynarc",
+			artist_url: "https://bsky.app/profile/lynarc.bsky.social",
+			art_url: "https://bsky.app/profile/lynarc.bsky.social/post/3lyhzy6u4es2t",
+			desc: "Delicia fights with a combination of ancient weapons and a good blaster",
+			date_str: "September 10 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

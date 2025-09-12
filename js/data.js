@@ -451,7 +451,7 @@ var data = {
 			artist: "Veguinsky/Vewuinsky",
 			artist_url: "https://x.com/Vewuinsky",
 			art_url: "https://x.com/Vewuinsky/status/1823148993024807064/photo/1",
-			desc: "This commission is based off a scene from one of Eeby's fanfics where Ingrid gets acquainted with Archanea's unsung heroine. Kris' custom summer design was made by jojotheastand / kiminokioku",
+			desc: "Ingrid gets introduced to Archanea's unsung heroine",
 			date_str: "August 12 2024",
 			tags: ["ingrid", "kris", "eechi"],
 			hidden: false
@@ -1315,7 +1315,7 @@ var data = {
 			artist: "Nico_Artoo",
 			artist_url: "https://x.com/nico_artooo",
 			art_url: null,
-			desc: "Catria finds herself on the wrong side of the law, though her sentence might not be as bad as she thinks. A gift commission for Eeby.",
+			desc: "Catria finds herself on the wrong side of the law, though her sentence might not be as bad as she thinks",
 			date_str: "July 31 2024",
 			tags: ["ingrid", "catria", "sfw"],
 			hidden: false
@@ -1531,7 +1531,7 @@ var data = {
 			artist: "MinaCream",
 			artist_url: "https://bsky.app/profile/minacream.bsky.social",
 			art_url: null,
-			desc: "Eeby would introduce me to a rarepair that lives rent free in my head",
+			desc: "A rarepair that lives rent free in my head",
 			date_str: "September 23 2022",
 			tags: ["ingrid", "catria", "nsfw"],
 			hidden: false
@@ -1891,7 +1891,7 @@ var data = {
 			artist: "SilverCandyGum",
 			artist_url: "https://bsky.app/profile/silvercandygum.bsky.social",
 			art_url: null,
-			desc: "Two lady knights enjoy some much needed time together. I'm sure Chloe got some ideal ingridients for dinner. A joint commission with Eeby.",
+			desc: "Two lady knights enjoy some much needed time together. I'm sure Chloe got some ideal ingridients for dinner",
 			date_str: "August 7 2023",
 			tags: ["chloe", "merrin", "sfw"],
 			hidden: false
@@ -1903,7 +1903,7 @@ var data = {
 			artist: "sirknightbot",
 			artist_url: "https://x.com/SirKnightbot",
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
-			desc: "These Pegasus Knights have a different means of getting around. A joint commission with Eeby",
+			desc: "These Pegasus Knights have a different means of getting around",
 			date_str: "April 18 2023",
 			tags: ["ingrid", "catria", "sfw"],
 			hidden: false
@@ -1930,18 +1930,6 @@ var data = {
 			desc: "A rare case of Ingrid and the Bluenettes being photogenic",
 			date_str: "November 7 2024",
 			tags: ["ingrid", "catria", "caeda", "kris", "sfw"],
-			hidden: false
-		},
-		{
-			src: ["https://cdn.imgchest.com/files/45xcv9gnz57.png"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5cerxo3r4.png",
-			title: "Mending Hearts",
-			artist: "fusenryo2",
-			artist_url: "https://skeb.jp/@fusenryo2",
-			art_url: null,
-			desc: "The best way to make it through with hearts and wrists intact, is to realize two out of three ain't bad... A gift commission for Eeby",
-			date_str: "May 2 2025",
-			tags: ["edelgard", "micaiah", "sfw"],
 			hidden: false
 		},
 		{
@@ -2455,7 +2443,7 @@ var data = {
 			artist: "DeepSpace",
 			artist_url: "https://bsky.app/profile/deepspacensfw.bsky.social",
 			art_url: null,
-			desc: "These waves are a bit more choppier than usual today. A gift commission from Kiminokioku",
+			desc: "These waves are a bit more choppier than usual today",
 			date_str: "July 19 2024",
 			tags: ["ingrid", "eechi"],
 			hidden: false
@@ -2568,30 +2556,6 @@ var data = {
 			tags: ["pyra", "mythra", "extreme"],
 			hidden: false
 		},
-		{
-			src: ["https://cdn.imgchest.com/files/yxkczqvkow7.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/yxkczqvkow7.jpg",
-			title: "Snared Summoner",
-			artist: "DeepSpace",
-			artist_url: "https://bsky.app/profile/deepspacensfw.bsky.social",
-			art_url: null,
-			desc: "Loki under the guise Caeda takes the Summoner to a private place for a special experiment. A gift commission for Eeby",
-			date_str: "",
-			tags: ["kiran", "extreme"],
-			hidden: false
-		},
-			{
-			src: ["https://cdn.imgchest.com/files/yq9c3vboa34.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/yd5cem9da84.jpg",
-			title: "Wrath of a Goddess",
-			artist: "Primogenitor34",
-			artist_url: "https://bsky.app/profile/primogenitor34.bsky.social",
-			art_url: null,
-			desc: "I saw you in a bright clear field. Hurricane heat in my head. The kind of pain you feel to get good in the end. Good in the end. Inscribed like stone and faded by the rain. Give up what you love. Give up what you love, before it does you in",
-			date_str: "January 10 2025",
-			tags: ["extreme"],
-			hidden: false
-		},
 			{
 			src: ["https://cdn.imgchest.com/files/y2pck5gdog7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7mmc9nd33e7.png",
@@ -2602,18 +2566,6 @@ var data = {
 			desc: "Ingrid comforts a merchant who got lost finding her siblings",
 			date_str: "July 24 2025",
 			tags: ["ingrid", "anna", "sfw"],
-			hidden: false
-		},
-			{
-			src: ["https://cdn.imgchest.com/files/yq9c32k2j24.png"],
-			thumbnail: "https://cdn.imgchest.com/files/739cxgzgrz7.png",
-			title: "Triple Trouble",
-			artist: "Asu",
-			artist_url: "https://bsky.app/profile/aegisasu.bsky.social",
-			art_url: "https://bsky.app/profile/aegisasu.bsky.social/post/3lv4xfz4afc2p",
-			desc: "A commission featuring my OC Dee along with Eeby's OCs Indra and Macie. Thought it would be cool to feature the three as they are Dragons with unique eye designs. While not as oblivious to the ladies as Ingrid, Dee is unaware of the circumstances she's putting herself in",
-			date_str: "July 29 2025",
-			tags: ["dee", "oc", "sfw"],
 			hidden: false
 		},
 			{

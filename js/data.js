@@ -2749,6 +2749,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/cb900ec95e1e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/b2c86457c83b.png",
+			title: "Ingrid Dakimakura",
+			artist: "Hakuramen",
+			artist_url: "https://bsky.app/profile/hakuramen.bsky.social",
+			art_url: null,
+			desc: "Miss Galatea showing off her flexibility",
+			date_str: "September 12 2025",
+			tags: ["ingrid", "eechi"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

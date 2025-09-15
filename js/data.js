@@ -2713,6 +2713,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/1a945d91f3e2.png", "https://cdn.imgchest.com/files/5bd71329794c.png"],
+			thumbnail: "https://cdn.imgchest.com/files/995a3f459253.png",
+			title: "The 7th Platoon Captain in the 7 seas",
+			artist: "motoi",
+			artist_url: "https://x.com/motoiwork",
+			art_url: null,
+			desc: "Kris enjoys one final dive before the end of the summer",
+			date_str: "September 15 2025",
+			tags: ["kris", "sfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -2724,6 +2724,18 @@ var data = {
 			tags: ["kris", "sfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/da95935a8f58.png"],
+			thumbnail: "https://cdn.imgchest.com/files/939ae20182da.png",
+			title: "Critical Strike",
+			artist: "wish_fuu",
+			artist_url: "https://x.com/wish_fuu",
+			art_url: "https://x.com/wish_fuu/status/1969040295250518059",
+			desc: "The last thing you see after you threaten Marth",
+			date_str: "September 19 2025",
+			tags: ["kris", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

@@ -2724,6 +2724,18 @@ var data = {
 			tags: ["kris", "sfw"],
 			hidden: false
 		},
+					{
+			src: ["https://cdn.imgchest.com/files/3ebc23ba047e.png", "https://cdn.imgchest.com/files/f43388de7c2a.png", "https://cdn.imgchest.com/files/2c970fe9b05c.png", "https://cdn.imgchest.com/files/370e7973c021.png", "https://cdn.imgchest.com/files/2303fd90ad0d.png", "https://cdn.imgchest.com/files/b0d10c3b7815.png", "https://cdn.imgchest.com/files/ec42aa2cedae.png"],
+			thumbnail: "https://cdn.imgchest.com/files/93ec6231303f.png",
+			title: "The Many Faces of Delicia",
+			artist: "seaistea",
+			artist_url: "https://bsky.app/profile/seaistea.bsky.social",
+			art_url: "https://vgen.co/seaistea/portfolio/showcase/fe16-style-oc-portrait-for-cavilthewayseeker/6a19897c-84a9-4fc8-9291-9187afcb0408",
+			desc: "Dee can be rather expressive once you get under the helmet",
+			date_str: "September 27 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

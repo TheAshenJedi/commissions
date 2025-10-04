@@ -2737,6 +2737,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/9fbbbd7791a7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/2d31b22402ba.png",
+			title: "A Sacred Embrace",
+			artist: "fusenryo",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: "https://bsky.app/profile/cavilthewayseeker.bsky.social/post/3m2fpcqag2s2l",
+			desc: "A gift commission for my friend Griff featuring her Summoner and Eirika",
+			date_str: "September 5 2025",
+			tags: ["oc", "eirika", "sfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

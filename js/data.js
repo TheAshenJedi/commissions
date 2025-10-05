@@ -211,7 +211,7 @@ var data = {
 			artist: "Motoi",
 			artist_url: "https://skeb.jp/@motoiwork",
 			art_url: null,
-			desc: "Aura Farming? A bad migrane? Missing Ingrid? Any are applicable tbh. A May the Fourth gift from Eeby",
+			desc: "Aura Farming? A bad migrane? Missing Ingrid? Any are applicable tbh.",
 			date_str: "May 4 2025",
 			tags: ["cavil", "sfw"],
 			hidden: false
@@ -1045,18 +1045,6 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/7pjcqog3d57.jpg"],
-			thumbnail: "https://cdn.imgchest.com/files/7ogcbnomwdy.jpg",
-			title: "A Bold Florina",
-			artist: "Ihsnet",
-			artist_url: "https://bsky.app/profile/ihsnet.bsky.social",
-			art_url: "https://bsky.app/profile/ihsnet.bsky.social/post/3lkwioe6p2226",
-			desc: "A gift commission for Froginata. I was intrigued at the idea of the shy Florina getting a bit more comfortable with Lyn while they're alone.",
-			date_str: "March 21 2025",
-			tags: ["lyn", "florina", "nsfw"],
-			hidden: false
-		},
-		{
 			src: ["https://cdn.imgchest.com/files/7bwcko5ld27.png"],
 			thumbnail: "https://cdn.imgchest.com/files/7pjcqogvwd7.png",
 			title: "Take My Breath: Archanea Edition",
@@ -1791,7 +1779,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/7bwckdjxxk7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/y2pckoazz97.png",
-			title: "Jedi Ingrid gift from Eeby",
+			title: "Jedi Ingrid gift",
 			artist: "kisi0024",
 			artist_url: "https://x.com/kisi0024",
 			art_url: null,
@@ -1903,7 +1891,7 @@ var data = {
 			artist: "fusenryo2",
 			artist_url: "https://skeb.jp/@fusenryo2",
 			art_url: null,
-			desc: "After band practice, Ingrid and Catria find a secluded spot away from the others. A gift commission from Eeby",
+			desc: "After band practice, Ingrid and Catria find a secluded spot away from the others",
 			date_str: "October 3 2024",
 			tags: ["ingrid", "catria", "sfw"],
 			hidden: false
@@ -2220,18 +2208,6 @@ var data = {
 			tags: ["ingrid", "eechi"],
 			hidden: false
 		},
-			{
-			src: ["https://cdn.imgchest.com/files/yd5cermr934.png"],
-			thumbnail: "https://cdn.imgchest.com/files/y8xcnkqkvp4.png",
-			title: "Swimming Scuba Summoner",
-			artist: "motoi",
-			artist_url: "https://skeb.jp/@motoiwork",
-			art_url: null,
-			desc: "A gift commission for Eeby featuring the Summoner she associates with. Complete with unique features such as the gloves and mole. The idea was inspired by Jose Julio who commissions art with a scuba theme.",
-			date_str: "May 8 2025",
-			tags: ["kiran", "sfw"],
-			hidden: false
-		},
 		{
 			src: ["https://cdn.imgchest.com/files/4jdcvj6jal4.jpg"],
 			thumbnail: "https://cdn.imgchest.com/files/yxkczgqg8d7.jpg",
@@ -2506,18 +2482,6 @@ var data = {
 			desc: "A reference sheet styled commission of Dee's summer outfit",
 			date_str: "July 11 2025",
 			tags: ["dee", "eechi"],
-			hidden: false
-		},
-			{
-			src: ["https://cdn.imgchest.com/files/4nec8lwwwr4.png"],
-			thumbnail: "https://cdn.imgchest.com/files/7pjcqkxxwr7.png",
-			title: "Gone Swimmin",
-			artist: "OniNuer",
-			artist_url: "https://bsky.app/profile/oninuer.bsky.social",
-			art_url: null,
-			desc: "A birthday gift commission for Froginata featuring Lyn in her summer outfit. For this commission, I had Lyn swimming breastroke because it's similar to how a frog swims. Complete with front and back angles for your viewing pleasure",
-			date_str: "July 16 2025",
-			tags: ["lyn", "eechi"],
 			hidden: false
 		},
 			{

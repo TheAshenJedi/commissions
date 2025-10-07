@@ -287,7 +287,7 @@ function translateWord(word) {
 		fortnite: "Fortnite",
 		kaede: "Kaede",
 		miu: "Miu",
-		tails: "Tails",
+		tails: "Millie 'Tails' Prower",
 		tiki: "Tiki",
 		ash: "Ash",
 		anna: "Anna",

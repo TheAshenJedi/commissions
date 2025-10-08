@@ -2712,6 +2712,18 @@ var data = {
 			tags: ["oc", "eirika", "sfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/17e9a2f1ff9f.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/5134a0c2c66e.jpg",
+			title: "Millie 'Tails' Prower",
+			artist: "Nico_Artooo",
+			artist_url: "https://x.com/nico_artooo",
+			art_url: null,
+			desc: "A full body of my Fem Tails Gijinka",
+			date_str: "October 7 2025",
+			tags: ["tails", "oc"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

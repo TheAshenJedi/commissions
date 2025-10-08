@@ -2725,6 +2725,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/e8d60353b91e.png"],
+			thumbnail: "https://cdn.imgchest.com/files/8ed57c9c1405.png",
+			title: "Old meets new",
+			artist: "Jarckius",
+			artist_url: "https://bsky.app/profile/jarckius.bsky.social",
+			art_url: null,
+			desc: "A collab with a friend featuring Ryza and Yumia from the Atelier series",
+			date_str: "October 8 2025",
+			tags: ["atelier", "nsfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

@@ -288,6 +288,7 @@ function translateWord(word) {
 		kaede: "Kaede",
 		miu: "Miu",
 		tails: "Tails",
+		atelier: "Atelier",
 		tiki: "Tiki",
 		ash: "Ash",
 		anna: "Anna",

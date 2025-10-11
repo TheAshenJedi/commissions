@@ -283,7 +283,7 @@ var data = {
 			artist: "DamoBelmont",
 			artist_url: "https://x.com/DamoBelmont",
 			art_url: "https://x.com/damobelmont/status/1604248195634274310",
-			desc: "Nothing like a little wrestling to let out some frustration. A joint commission with InsaiyanVal.",
+			desc: "Nothing like a little wrestling to let out some frustration",
 			date_str: "December 17 2022",
 			tags: ["ingrid", "leonie", "eechi"],
 			hidden: false
@@ -535,7 +535,7 @@ var data = {
 			artist: "Seityr",
 			artist_url: "https://x.com/Seityr_Art",
 			art_url: "https://x.com/incognigoat/status/1826736384096555150",
-			desc: "Freaky Furry Lady Knight Ass Blasts Virgin Foodie Lady Knight (NOT CLICK BAIT! COPS CALLED!) A joint commission with Metalhead",
+			desc: "Freaky Furry Lady Knight Ass Blasts Virgin Foodie Lady Knight (NOT CLICK BAIT! COPS CALLED!)",
 			date_str: "August 22 2024",
 			tags: ["ingrid", "merrin", "nsfw"],
 			hidden: false
@@ -1411,7 +1411,7 @@ var data = {
 			artist: "Mezio",
 			artist_url: "https://x.com/meziosaur",
 			art_url: "https://x.com/meziosaur/status/1708512098794475850",
-			desc: "A three person joint commission with Metalhead and Angie featuring Engage's coolest knight part of Mezio's puffy jacket trend",
+			desc: "Engage's coolest knight part of Mezio's puffy jacket trend",
 			date_str: "October 1 2023",
 			tags: ["merrin", "eechi"],
 			hidden: false

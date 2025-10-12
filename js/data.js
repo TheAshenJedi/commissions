@@ -439,7 +439,7 @@ var data = {
 			artist: "Motoi",
 			artist_url: "https://x.com/motoiwork",
 			art_url: null,
-			desc: "A blue haired waifu in another blue haired waifu's outfit. Motoi did a good job capturing the key assets of the outfit. A gift commission for Mifi for his birthday.",
+			desc: "A blue haired waifu in another blue haired waifu's outfit",
 			date_str: "May 10 2025",
 			tags: ["lucina", "eechi"],
 			hidden: false

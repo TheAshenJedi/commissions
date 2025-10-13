@@ -21,7 +21,7 @@ var data = {
 			art_url: "https://bsky.app/profile/xander-wolk.bsky.social/post/3ll5speu2fc2x",
 			desc: "Jedi Knight Ingrid Brandl Galatea reporting for duty",
 			date_str: "March 24 2025",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -33,7 +33,7 @@ var data = {
 			art_url: null,
 			desc: "Jedi Ingrid is out of this world",
 			date_str: "December 21 2024",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -57,7 +57,7 @@ var data = {
 			art_url: "https://bsky.app/profile/s117renner.bsky.social/post/3lbxevxeijs2z",
 			desc: "On this day, the Mandalorian Jedi Cavil would cross paths with Ingrid Brandl Galatea and a new Jedi Order was born...",
 			date_str: "November 27 2024",
-			tags: ["ingrid", "cavil", "sfw"],
+			tags: ["jedi_ingrid", "cavil", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -105,7 +105,7 @@ var data = {
 			art_url: "https://x.com/adricarraart/status/1495403990200291331",
 			desc: "My second commission from Adricarra",
 			date_str: "February 20 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -117,7 +117,7 @@ var data = {
 			art_url: "https://x.com/Kshatriya_666_/status/1530915995698593792",
 			desc: "Jedi Ingrid in a retro anime style. Tried to mix things up with a Three Hopes variant with a different Lightsaber.",
 			date_str: "May 29 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -165,7 +165,7 @@ var data = {
 			art_url: null,
 			desc: "Morgan from Awakening as a Jedi. Felt pretty self explanatory as a sword/magic user. Married Tiki in my playthrough as you can see from the green hair and pointy ears.",
 			date_str: "January 19 2024",
-			tags: ["morgan", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -177,7 +177,7 @@ var data = {
 			art_url: null,
 			desc: "The Bus as a Jedi! Quite fitting considering she learns a class with a double-bladed weapon and her High Entia origins. Her design is based off of Bastilla from Knights of the Old Republic.",
 			date_str: "date unknown",
-			tags: ["eunie", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -237,7 +237,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1759584111470207301",
 			desc: "That's one cool Jedi. Merrin from Fire Emblem Engage wearing Merrin's outfit from Jedi Survivor in a custom color scheme with assets of FE!Merrin thrown in.",
 			date_str: "February 19 2024",
-			tags: ["merrin", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -249,7 +249,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/106198597",
 			desc: "Jedi Ingrid if she was a unit in Fire Emblem Heroes with attack, special and damage art",
 			date_str: "March 13 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -261,7 +261,7 @@ var data = {
 			art_url: null,
 			desc: "Jedi Ingrid if she was a sprite in Fire Emblem Heroes. Changed it up from her usual design with her longer hair and crossguard Lightsaber.",
 			date_str: "September 2 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -273,7 +273,7 @@ var data = {
 			art_url: "https://x.com/patdarux/status/1448346168782725128",
 			desc: "The Blue Shell is for Sylvain",
 			date_str: "October 13 2021",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -285,7 +285,7 @@ var data = {
 			art_url: "https://x.com/damobelmont/status/1604248195634274310",
 			desc: "Nothing like a little wrestling to let out some frustration",
 			date_str: "December 17 2022",
-			tags: ["ingrid", "leonie", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -297,7 +297,7 @@ var data = {
 			art_url: "https://x.com/SirKnightbot/status/1535083237214539776",
 			desc: "I noticed that Ingrid and Sophitia share a similar hair style, so here's the Blue Lion rocking Sophitia's Soulcalibur 4 outfit in a custom color scheme. Really love the retro style with this artist.",
 			date_str: "June 9 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -309,7 +309,7 @@ var data = {
 			art_url: "https://x.com/twt_zet/status/1579193724386807808",
 			desc: "Interesting trends come and go while some never truly go away.",
 			date_str: "October 9 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -357,7 +357,7 @@ var data = {
 			art_url: "https://www.pixiv.net/en/artworks/115282496",
 			desc: "Rosado looking cute as always wearing an outfit based off of Padme.",
 			date_str: "January 18 2024",
-			tags: ["rosado", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -369,7 +369,7 @@ var data = {
 			art_url: "https://bsky.app/profile/ceroccb.bsky.social/post/3lax566nji22s",
 			desc: "The elder sister of Nohr wearing an outfit based off of Mara Jade Skywalker from Star Wars Legends with some of Camilla's outfit thrown in.",
 			date_str: "November 14 2024",
-			tags: ["camilla", "eechi"],
+			tags: ["star_wars_crossover", "eechi"],
 			hidden: false
 		},
 		{
@@ -381,7 +381,7 @@ var data = {
 			art_url: "https://x.com/Jax_Drawz/status/1737570610337776024",
 			desc: "The princess of Renais was always one to resolve conflict peacefully so she seemed like a natural fit for a Jedi Knight",
 			date_str: "December 20 2023",
-			tags: ["eirika", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -393,7 +393,7 @@ var data = {
 			art_url: "https://www.instagram.com/p/DEvcXSfTBPR/?igsh=aHphYjF4M25idDhm",
 			desc: "A princess of light and darkness cross blades and tug heartstrings. The pose is a homage to Ralph McQuarrie's concept art which really captures Eirika and Camilla's good side.",
 			date_str: "January 12 2025",
-			tags: ["eirika", "camilla", "eechi"],
+			tags: ["star_wars_crossover", "eechi"],
 			hidden: false
 		},
 		{
@@ -417,7 +417,7 @@ var data = {
 			art_url: null,
 			desc: "A gift commission for Toto of his Summoner as a Jedi since myself and several others have got him into Star Wars.",
 			date_str: "May 17 2025",
-			tags: ["oc", "sfw"],
+			tags: ["oc", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -429,7 +429,7 @@ var data = {
 			art_url: "https://x.com/_IceCreamTeam_/status/1702087257916858618",
 			desc: "An animation featuring Byleth going for a swim.",
 			date_str: "September 13 2023",
-			tags: ["byleth", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -441,7 +441,7 @@ var data = {
 			art_url: null,
 			desc: "A blue haired waifu in another blue haired waifu's outfit",
 			date_str: "May 10 2025",
-			tags: ["lucina", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -453,7 +453,7 @@ var data = {
 			art_url: "https://x.com/Vewuinsky/status/1823148993024807064/photo/1",
 			desc: "Ingrid gets introduced to Archanea's unsung heroine",
 			date_str: "August 12 2024",
-			tags: ["ingrid", "kris", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -465,7 +465,7 @@ var data = {
 			art_url: "https://x.com/rein_creamsoda/status/1833292149158514764",
 			desc: "The lady Avatars taking a much needed vacation.",
 			date_str: "September 9 2024",
-			tags: ["kris", "robin", "corrin", "byleth", "shez", "alear", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -477,7 +477,7 @@ var data = {
 			art_url: "https://x.com/dashsdoodles/status/1754981725023670460",
 			desc: "I loved dash's RWBY artwork back in the day, so when she opened comms I had to request Dorogrid.",
 			date_str: "January 21 2024",
-			tags: ["ingrid", "dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -489,7 +489,7 @@ var data = {
 			art_url: null,
 			desc: "Even in the most passionate of moments Merrin knows the coolest of pickup lines. Much to the pleasure of Chloe.",
 			date_str: "July 6 2023",
-			tags: ["merrin", "chloe", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -513,7 +513,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1724174461375811588/photo/1",
 			desc: "Cavil trains with a humble farm gal much like Luke Skywalker",
 			date_str: "November 13 2023",
-			tags: ["cavil", "nephenee", "sfw"],
+			tags: ["cavil", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -525,7 +525,7 @@ var data = {
 			art_url: null,
 			desc: "There's a first time for everything. Including myself as this was my first ever NSFW commission. I remember having a pit in my stomach because it felt so taboo at the time.",
 			date_str: "August 31 2021",
-			tags: ["ingrid", "dorothea", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 				{
@@ -537,7 +537,7 @@ var data = {
 			art_url: "https://x.com/incognigoat/status/1826736384096555150",
 			desc: "Freaky Furry Lady Knight Ass Blasts Virgin Foodie Lady Knight (NOT CLICK BAIT! COPS CALLED!)",
 			date_str: "August 22 2024",
-			tags: ["ingrid", "merrin", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -549,7 +549,7 @@ var data = {
 			art_url: "https://bsky.app/profile/zetsumi.bsky.social/post/3lqfrhx3rkc2j",
 			desc: "Perhaps one day she will get a proper alt along with the rest of the Avatars. Zet really nailed all the finer details like the tan lines, abs, pose and expression",
 			date_str: "May 30 2025",
-			tags: ["kris", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -561,7 +561,7 @@ var data = {
 			art_url: "https://x.com/El_Pan_Frances/status/1841940727372165374/photo/1",
 			desc: "A gift commission for Ash's VA Lily Emil Lammers. Ezra is their favorite character so as a Star Wars and Fire Emblem fan, it felt obligatory to do this crossover",
 			date_str: "October 3 2024",
-			tags: ["ash", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -597,7 +597,7 @@ var data = {
 			art_url: null,
 			desc: "Black panties just hit different",
 			date_str: "September 8 2023",
-			tags: ["eirika", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -609,7 +609,7 @@ var data = {
 			art_url: null,
 			desc: "When Dorothea is in the mood, she does not relent",
 			date_str: "September 2 2022",
-			tags: ["ingrid", "dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -621,7 +621,7 @@ var data = {
 			art_url: "https://x.com/Vewuinsky/status/1661492579857252352",
 			desc: "Two lovely knights having a moment with Merrin getting a handful",
 			date_str: "May 24 2023",
-			tags: ["merrin", "chloe", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -633,7 +633,7 @@ var data = {
 			art_url: "https://x.com/Cynbiote/status/1496569211514232839",
 			desc: "This'll put the Force in Foresight! My second Star Wars x Fandom crossover featuring the sassy half of the Aegis. Her design is based off the Jedi tunic from Kotor with parts of her outfit thrown in",
 			date_str: "February 23 2022",
-			tags: ["mythra", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -645,7 +645,7 @@ var data = {
 			art_url: null,
 			desc: "Usually Dorothea is the dominant one, however there are times where Ingrid likes to be in control",
 			date_str: "February 12 2022",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -657,7 +657,7 @@ var data = {
 			art_url: "https://bsky.app/profile/deepspacensfw.bsky.social/post/3lrsjkg7dds2m",
 			desc: "Protecting Prince Dimitri and Marth is a lot of work. Our fellow lady knights let out some steam whenever they get the free time",
 			date_str: "May 7 2025",
-			tags: ["ingrid", "kris", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 			{
@@ -669,7 +669,7 @@ var data = {
 			art_url: "https://x.com/patdarux/status/1904299578750333201",
 			desc: "A gif of Ingrid vibing",
 			date_str: "March 24 2025",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -681,7 +681,7 @@ var data = {
 			art_url: "https://x.com/noras05/status/1863793040277798988/photo/1",
 			desc: "Resplendent Catria's lack of panties makes for easy access should she desire pleasure from Ingrid. The Blue Lion will have sweet dreams tonight",
 			date_str: "December 2 2024",
-			tags: ["ingrid", "catria", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -717,7 +717,7 @@ var data = {
 			art_url: "https://x.com/DaymanDraws/status/1560293917354086400",
 			desc: "Because even the powerful Aegis needs a vacation every now and then",
 			date_str: "August 18 2022",
-			tags: ["mythra", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -729,7 +729,7 @@ var data = {
 			art_url: "https://x.com/_shohei/status/1586688039925207041",
 			desc: "Rex was blessed with the sight of two water nymphs",
 			date_str: "October 30 2022",
-			tags: ["pyra", "mythra", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -741,7 +741,7 @@ var data = {
 			art_url: null,
 			desc: "Pyra and Mythra enjoying a nice swim. Really like the wet details on this comm",
 			date_str: "date unknown",
-			tags: ["pyra", "mythra", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -753,7 +753,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1932023669401993317",
 			desc: "More of the Archanean rarepair. The two deserve a much needed rest for all the hard work protecting Marth",
 			date_str: "June 9 2025",
-			tags: ["kris", "navarre", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 			{
@@ -765,7 +765,7 @@ var data = {
 			art_url: "https://x.com/Hayato_Stuff/status/1531070384610496512?s=20&t=Y6OzzVfEwO77ByKP_Id-UA",
 			desc: "There's something magical about an underwater kiss",
 			date_str: "May 29 2022",
-			tags: ["ingrid", "dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -777,7 +777,7 @@ var data = {
 			art_url: "https://x.com/Hayato_Stuff/status/1469814201405349897?s=20",
 			desc: "Ingrid wearing a custom version of Pyra's swimsuit",
 			date_str: "December 11 2021",
-			tags: ["ingrid", "pyra", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -789,7 +789,7 @@ var data = {
 			art_url: "https://x.com/Jax_Drawz/status/1909667391623012488",
 			desc: "Ingrid wearing a custom version of Alear's swimsuit and hairstyle",
 			date_str: "April 8 2025",
-			tags: ["ingrid", "alear", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -801,7 +801,7 @@ var data = {
 			art_url: "https://x.com/zuko_yoshi/status/1566446189377388544",
 			desc: "PegKnight Presents Plump Posterior",
 			date_str: "September 4 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -813,7 +813,7 @@ var data = {
 			art_url: "https://x.com/Mnejing30/status/1932925887256932414",
 			desc: "Ingrid wearing Patrick Stump's outfit from Fall Out Boy's music video of the song Hold Me Like a Grudge. Gift commission from Yoostink.",
 			date_str: "June 11 2025",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -825,7 +825,7 @@ var data = {
 			art_url: "https://x.com/Nsfw_oA/status/1539621731874136064",
 			desc: "Someone's getting a nice eyefull of a Sea Lion",
 			date_str: "June 22 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -849,7 +849,7 @@ var data = {
 			art_url: "https://x.com/minaqueenu/status/1540504913456906240",
 			desc: "The Three Houses blonde waifu dons the outfit of my OG blonde waifu. Mina nailed the pose on this one.",
 			date_str: "May 16 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -861,7 +861,7 @@ var data = {
 			art_url: "https://x.com/1340Smile/status/1494703259562487818",
 			desc: "Ingrid always seemed to be the type to rock athletic style underwear",
 			date_str: "February 18 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -873,7 +873,7 @@ var data = {
 			art_url: "https://x.com/DamoBelmont/status/1488214652144209923/photo/1",
 			desc: "Ingrid wearing a custom bikini based off of JackaryDraws design",
 			date_str: "January 31 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -885,7 +885,7 @@ var data = {
 			art_url: "https://x.com/kalycoris/status/1486630749629517825",
 			desc: "Dorothea is usually the Dom, but sometimes Ingrid likes to have fun too",
 			date_str: "January 27 2022",
-			tags: ["ingrid", "dorothea", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -897,7 +897,7 @@ var data = {
 			art_url: null,
 			desc: "One swim and her trauma gets swept away",
 			date_str: "November 24 2021",
-			tags: ["mythra", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -909,7 +909,7 @@ var data = {
 			art_url: "https://x.com/adricarraART/status/1457743708904992773",
 			desc: "Xenoblade 2 artwork based off of Nirvana's Nevermind album art",
 			date_str: "November 8 2021",
-			tags: ["pyra", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -921,7 +921,7 @@ var data = {
 			art_url: "https://x.com/Wanilmith/status/1457695692084944897",
 			desc: "Ingrid wearing a modified version of Brave Celica's outfit with custom colors",
 			date_str: "November 8 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -933,7 +933,7 @@ var data = {
 			art_url: "https://x.com/DamoBelmont/status/1453755343373312010",
 			desc: "Fun little fact about this comm: Damo had no clue about Fire Emblem or Dorogrid. Despite that, they nailed the expressions perfectly.",
 			date_str: "October 28 2021",
-			tags: ["ingrid", "dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -945,7 +945,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid and Dorothea make history behind closed doors",
 			date_str: "October 2 2021",
-			tags: ["ingrid", "dorothea", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -957,7 +957,7 @@ var data = {
 			art_url: "https://x.com/sakuuremi/status/1443955889111646212?s=21",
 			desc: "Ingrid dons the armor of another Pegasus Knight",
 			date_str: "October 1 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -981,7 +981,7 @@ var data = {
 			art_url: null,
 			desc: "Another XenoChibi thanks to DeebyFeeby",
 			date_str: "June 20 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -993,7 +993,7 @@ var data = {
 			art_url: "https://x.com/doktormalefic/status/1667962465827659776?s=61&t=vPtiVB0qdQ5i3j5NVgqb5A",
 			desc: "The Bus from behind. Funny enough this comm wasn't suppose to be a Golden Boy reference.",
 			date_str: "June 11 2023",
-			tags: ["eunie", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1005,7 +1005,7 @@ var data = {
 			art_url: "https://bsky.app/profile/renaisblade.bsky.social/post/3ln27rfelzk25",
 			desc: "Finally got around to playing Xenoblade X and Neilnail is one of my favorites",
 			date_str: "April 17 2025",
-			tags: ["neilnail", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1017,7 +1017,7 @@ var data = {
 			art_url: "https://x.com/RenaisBlade/status/1805677146116948188",
 			desc: "Someone tried to sneak up on the princess. The trickster will get an appropriate thrashing",
 			date_str: "June 25 2024",
-			tags: ["eirika", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1053,7 +1053,7 @@ var data = {
 			art_url: "https://x.com/VodkaDrawings/status/1816969343277892039",
 			desc: "Ingrid feels the warm embrace of fellow knight in the deep blue sea",
 			date_str: "July 26 2024",
-			tags: ["ingrid", "kris", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1065,7 +1065,7 @@ var data = {
 			art_url: null,
 			desc: "Artwork for a charm of Ingrid as a Jedi. En was kind enough to give me two. One for my wall and one for my car keys.",
 			date_str: "February 21 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1077,7 +1077,7 @@ var data = {
 			art_url: "https://x.com/LiaLiar1/status/1602779894878015488",
 			desc: "Ingrid's summer outfit is snug in the right places",
 			date_str: "December 13 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1089,7 +1089,7 @@ var data = {
 			art_url: "https://x.com/Arc_Edo11/status/1472657380597026825/photo/1",
 			desc: "Ingrid wearing Lucina's outfit from the Cipher card game",
 			date_str: "December 19 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1101,7 +1101,7 @@ var data = {
 			art_url: null,
 			desc: "Our Knight rocking the attire of the Songstress. Much to her surprise.",
 			date_str: "August 10 2021",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1113,7 +1113,7 @@ var data = {
 			art_url: null,
 			desc: "After the conflict of Valentia has ended, Alm and Celica take some much needed time for themselves",
 			date_str: "August 29 2021",
-			tags: ["alm", "celica", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1125,7 +1125,7 @@ var data = {
 			art_url: null,
 			desc: "Tomboy and Twink have a little dance",
 			date_str: "December 29 2021",
-			tags: ["ingrid", "yuri", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1137,7 +1137,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid appreciating Yuri for more than just his cooking",
 			date_str: "January 16 2022",
-			tags: ["ingrid", "yuri", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1149,7 +1149,7 @@ var data = {
 			art_url: null,
 			desc: "I love Ocarina of Time, so I requested the Lady Knight in the Hero's outfit",
 			date_str: "May 23 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1161,7 +1161,7 @@ var data = {
 			art_url: null,
 			desc: "While Dorothea Doms most of the time, when Ingrid takes control she's on cloud nine",
 			date_str: "July 1 2022",
-			tags: ["ingrid", "dorothea", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 			{
@@ -1173,7 +1173,7 @@ var data = {
 			art_url: null,
 			desc: "A lifeguard has difficulty on the job when faced with beautiful women",
 			date_str: "January 8 2022",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1185,7 +1185,7 @@ var data = {
 			art_url: null,
 			desc: "Looks like Sylvain got caught peeking again",
 			date_str: "March 16 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1197,7 +1197,7 @@ var data = {
 			art_url: "https://x.com/Supurin_com/status/1434667767576281089",
 			desc: "Old Skool",
 			date_str: "September 5 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1209,7 +1209,7 @@ var data = {
 			art_url: "https://x.com/Supurin_com/status/1694156524426269063",
 			desc: "Couldn't help but noticed the resemblance these two had to Neptune and Uranus. Explains why they're my favorite pairing in Engage.",
 			date_str: "August 22 2023",
-			tags: ["chloe", "merrin", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1221,7 +1221,7 @@ var data = {
 			art_url: "https://x.com/GrimmelsDaThird/status/1417281716499095580",
 			desc: "I always preferred her short hair over the braid",
 			date_str: "July 19 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1257,7 +1257,7 @@ var data = {
 			art_url: "https://x.com/NaijMizuho/status/1786757680704393643/photo/1",
 			desc: "A May the Fourth commission from the Star Wars x Fire Emblem artist himself",
 			date_str: "May 4 2024",
-			tags: ["ingrid", "ophelia", "morgan", "anna", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -1269,7 +1269,7 @@ var data = {
 			art_url: "https://x.com/NaijMizuho/status/1843422206321385855/photo/1",
 			desc: "You've heard of The Chosen One, now get ready for The Divine One",
 			date_str: "October 7 2024",
-			tags: ["alear", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -1281,7 +1281,7 @@ var data = {
 			art_url: "https://x.com/shioinue/status/1531796483082792960",
 			desc: "A sheet of pin-up poses of Ingrid in a bunny outfit",
 			date_str: "May 31 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1293,7 +1293,7 @@ var data = {
 			art_url: null,
 			desc: "Some emotes of Rosado and Sommie from Fire Emblem Engage",
 			date_str: "January 27 2025",
-			tags: ["rosado", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1305,7 +1305,7 @@ var data = {
 			art_url: null,
 			desc: "Catria finds herself on the wrong side of the law, though her sentence might not be as bad as she thinks",
 			date_str: "July 31 2024",
-			tags: ["ingrid", "catria", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1317,7 +1317,7 @@ var data = {
 			art_url: "https://x.com/Seityr_Art/status/1532513936875982849",
 			desc: "Ingrid dressed up as The Ultimate Swordswoman",
 			date_str: "June 2 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1329,7 +1329,7 @@ var data = {
 			art_url: null,
 			desc: "A Blueish Jedi Ingrid",
 			date_str: "July 18 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1341,7 +1341,7 @@ var data = {
 			art_url: null,
 			desc: "Don't lose your cool there Merrin",
 			date_str: "June 18 2023",
-			tags: ["merrin", "chloe", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1353,7 +1353,7 @@ var data = {
 			art_url: null,
 			desc: "Well, like what you see?",
 			date_str: "May 18 2023",
-			tags: ["dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -1365,7 +1365,7 @@ var data = {
 			art_url: null,
 			desc: "Another Ingrid backshot? Color me shocked",
 			date_str: "March 15 2023",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1377,7 +1377,7 @@ var data = {
 			art_url: "https://x.com/alboeire/status/1648370563096748032/photo/1",
 			desc: "Brave but foolish",
 			date_str: "April 18 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1389,7 +1389,7 @@ var data = {
 			art_url: null,
 			desc: "A Blue Lion in the deep blue sea",
 			date_str: "April 5 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1413,7 +1413,7 @@ var data = {
 			art_url: "https://x.com/meziosaur/status/1708512098794475850",
 			desc: "Engage's coolest knight part of Mezio's puffy jacket trend",
 			date_str: "October 1 2023",
-			tags: ["merrin", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1425,7 +1425,7 @@ var data = {
 			art_url: "https://x.com/meziosaur/status/1571171765879021570/photo/1",
 			desc: "You are not immune to Jedi Knight",
 			date_str: "September 17 2022",
-			tags: ["ingrid", "mythra", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 			{
@@ -1437,7 +1437,7 @@ var data = {
 			art_url: null,
 			desc: "Eunie's outfits are very pleasing to her figure",
 			date_str: "May 31 2023",
-			tags: ["eunie", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1449,7 +1449,7 @@ var data = {
 			art_url: "https://x.com/shan0732/status/1627166839813074950",
 			desc: "I reclassed Etie as a Warrior in my Engage playthrough. Really like her design and personality.",
 			date_str: "February 18 2023",
-			tags: ["etie", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1461,7 +1461,7 @@ var data = {
 			art_url: "https://x.com/shan0732/status/1571829637344534530",
 			desc: "Two lovely blondes trying out their swimwear",
 			date_str: "September 19 2022",
-			tags: ["ingrid", "mythra", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1473,7 +1473,7 @@ var data = {
 			art_url: "https://x.com/shan0732/status/1597768721724231681",
 			desc: "An alternate timeline where our Blue Lion falls to the Dark Side",
 			date_str: "November 29 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -1485,7 +1485,7 @@ var data = {
 			art_url: null,
 			desc: "Normally I'm against 2nd Gen Marriage, but I'll make an exception",
 			date_str: "Febrary 5 2023",
-			tags: ["ophelia", "corrin", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -1497,7 +1497,7 @@ var data = {
 			art_url: null,
 			desc: "Sometimes Hilda gets out of line and Ingrid has to lovingly put her in her place",
 			date_str: "June 5 2024",
-			tags: ["ingrid", "hilda", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 			{
@@ -1509,7 +1509,7 @@ var data = {
 			art_url: null,
 			desc: "The Fairytale Flower knows how to hit just the right spot",
 			date_str: "October 12 2023",
-			tags: ["chloe", "merrin", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -1521,7 +1521,7 @@ var data = {
 			art_url: null,
 			desc: "A rarepair that lives rent free in my head",
 			date_str: "September 23 2022",
-			tags: ["ingrid", "catria", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -1533,7 +1533,7 @@ var data = {
 			art_url: null,
 			desc: "No description needed",
 			date_str: "January 10 2022",
-			tags: ["ingrid", "dorothea", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -1545,7 +1545,7 @@ var data = {
 			art_url: "https://x.com/OppaiHobby/status/1576265676561731584/video/1",
 			desc: "A spicy animation featuring my Three Houses ship. Animation in the art link. Do be warned there is audio.",
 			date_str: "October 1 2022",
-			tags: ["ingrid", "dorothea", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 			{
@@ -1555,9 +1555,9 @@ var data = {
 			artist: "Nova Silver",
 			artist_url: "https://bsky.app/profile/novasvr.bsky.social",
 			art_url: "https://bsky.app/profile/novasvr.bsky.social/post/3lshmayzc5s2f",
-			desc: "A gift commission from Nagi",
+			desc: "A gift commission from a friend",
 			date_str: "June 25 2025",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1569,7 +1569,7 @@ var data = {
 			art_url: "https://x.com/LesuArt/status/1699443065453257133/photo/1",
 			desc: "A joint commission with Andy420",
 			date_str: "September 6 2023",
-			tags: ["ingrid", "kagero", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1581,7 +1581,7 @@ var data = {
 			art_url: "https://x.com/Xkit_Art25/status/1790433349187846189",
 			desc: "Joint comm with Andy420",
 			date_str: "May 14 2024",
-			tags: ["ingrid", "kagero", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1593,7 +1593,7 @@ var data = {
 			art_url: "https://x.com/mzrz555/status/1797566411919053003",
 			desc: "Another banger joint with Andy420",
 			date_str: "June 3 2024",
-			tags: ["ingrid", "kagero", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1605,7 +1605,7 @@ var data = {
 			art_url: "https://x.com/Ihsnet/status/1689000551978078208",
 			desc: "Merrin keeping those cool abs in shape",
 			date_str: "August 8 2023",
-			tags: ["merrin", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1617,7 +1617,7 @@ var data = {
 			art_url: "https://x.com/t_ippers/status/1605275218561454081/photo/1",
 			desc: "Wherever she goes, people can't lay their eyes off the Galatea Glutes",
 			date_str: "December 20 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1629,7 +1629,7 @@ var data = {
 			art_url: null,
 			desc: "Another obligatory Ingrid commission for an Ingrid artist",
 			date_str: "October 20 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "sfw"],
 			hidden: false
 		},
 			{
@@ -1641,7 +1641,7 @@ var data = {
 			art_url: null,
 			desc: "Again another obligatory Ingrid comm for an Ingrid artist",
 			date_str: "March 7 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "sfw"],
 			hidden: false
 		},
 		{
@@ -1665,7 +1665,7 @@ var data = {
 			art_url: null,
 			desc: "Size matters not",
 			date_str: "December 30 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "sfw"],
 			hidden: false
 		},
 		{
@@ -1677,7 +1677,7 @@ var data = {
 			art_url: null,
 			desc: "Smol Divine Dragon",
 			date_str: "December 30 2023",
-			tags: ["tiki", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1689,7 +1689,7 @@ var data = {
 			art_url: null,
 			desc: "A very tired ranger",
 			date_str: "December 30 2023",
-			tags: ["oc", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1701,7 +1701,7 @@ var data = {
 			art_url: null,
 			desc: "My guy thinks he did something to be proud of even if it wasn't",
 			date_str: "December 30 2023",
-			tags: ["oc", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1713,7 +1713,7 @@ var data = {
 			art_url: null,
 			desc: "smol simpleton",
 			date_str: "December 30 2023",
-			tags: ["mythra", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -1725,7 +1725,7 @@ var data = {
 			art_url: "https://x.com/x_Xith_x/status/1606776875640324096",
 			desc: "A blue sea lion taking it easy after a swim",
 			date_str: "December 24 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1737,7 +1737,7 @@ var data = {
 			art_url: "https://x.com/chocojax/status/1480632285112291334?s=20",
 			desc: "Blonde lady knight dons sassy blonde's outfit",
 			date_str: "January 10 2022",
-			tags: ["ingrid", "mythra", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1749,7 +1749,7 @@ var data = {
 			art_url: "https://x.com/akina_646/status/1569550815551168513?t=o6NfpgBQCbmHJEbRYaKwig&s=19",
 			desc: "Solstice Knight's Summer goes Swimmingly",
 			date_str: "September 13 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1761,7 +1761,7 @@ var data = {
 			art_url: "https://x.com/LambdaIhs/status/1842083234944893136",
 			desc: "",
 			date_str: "October 4 2024",
-			tags: ["ingrid", "lucina", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -1773,7 +1773,7 @@ var data = {
 			art_url: null,
 			desc: "As Cavil explored the galaxy, he recruited others into his order of Jedi Knights",
 			date_str: "July 12 2024",
-			tags: ["cavil", "ingrid", "eirika", "ophelia", "nephenee", "merrin", "rosado", "morgan", "mythra", "eunie", "sfw"],
+			tags: ["cavil", "jedi_ingrid", "star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -1785,7 +1785,7 @@ var data = {
 			art_url: null,
 			desc: "Ready for the call at a moments notice",
 			date_str: "August 5 2024",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "sfw"],
 			hidden: false
 		},
 		{
@@ -1797,7 +1797,7 @@ var data = {
 			art_url: null,
 			desc: "A joint commission with Yoostink featuring an outfit swap of our usual niche ideas: Hooters and Star Wars",
 			date_str: "May 6 2023",
-			tags: ["ingrid", "lucina", "sfw"],
+			tags: ["jedi_ingrid", "sfw"],
 			hidden: false
 		},
 		{
@@ -1821,7 +1821,7 @@ var data = {
 			art_url: "https://x.com/patdarux/status/1757154658844287035",
 			desc: "Ophelia joins the ranks of the Ashen Jedi",
 			date_str: "February 12 2024",
-			tags: ["ophelia", "sfw"],
+			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
 		{
@@ -1833,7 +1833,7 @@ var data = {
 			art_url: "https://x.com/Jax_Drawz/status/1734637581730512941",
 			desc: "No depths were too daunting for The Chosen Heroine",
 			date_str: "December 12 2023",
-			tags: ["ophelia", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1845,19 +1845,19 @@ var data = {
 			art_url: "https://x.com/Mc_Yayade/status/1865156844873830696",
 			desc: "Hayato's Summer Ophelia design comes to life thanks to Mc-Yayade. I sometimes use her in various projects on MMD",
 			date_str: "December 6 2024",
-			tags: ["ophelia", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
 			src: ["https://cdn.imgchest.com/files/7kzcabo9ea7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/yq9c3epb554.png",
-			title: "If you got it, flaunt it",
+			title: "Do you like my swimsuit?",
 			artist: "112NAMU",
 			artist_url: "https://x.com/112namu",
 			art_url: "https://x.com/112Namu/status/1699247976768782769",
 			desc: "A reference sheet of summer Dorothea without her hat or dress. I like to believe she'd rock some cheeky bikini bottoms",
 			date_str: "September 5 2023",
-			tags: ["dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -1869,7 +1869,7 @@ var data = {
 			art_url: null,
 			desc: "Two lady knights enjoy some much needed time together. I'm sure Chloe got some ideal ingridients for dinner",
 			date_str: "August 7 2023",
-			tags: ["chloe", "merrin", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1881,7 +1881,7 @@ var data = {
 			art_url: "https://x.com/SirKnightbot/status/1648410007283662848",
 			desc: "These Pegasus Knights have a different means of getting around",
 			date_str: "April 18 2023",
-			tags: ["ingrid", "catria", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1917,7 +1917,7 @@ var data = {
 			art_url: "https://x.com/psycho_riot/status/1466897444185247748",
 			desc: "The Blue Lion with a retro makeover",
 			date_str: "December 3 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1929,7 +1929,7 @@ var data = {
 			art_url: null,
 			desc: "She certainly knows how to make them thicc and rich. A gift commission from Yoostink",
 			date_str: "May 10 2024",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1941,7 +1941,7 @@ var data = {
 			art_url: null,
 			desc: "Summa Ingy Sketch with Tree Hopes Hair",
 			date_str: "May 16 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1953,7 +1953,7 @@ var data = {
 			art_url: null,
 			desc: "Another commission from a peak Ingrid artist. Here we have her in the spring outfit which is one of my favorites in the DLC",
 			date_str: "May 11 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -1965,7 +1965,7 @@ var data = {
 			art_url: null,
 			desc: "The best twink in Three Houses",
 			date_str: "October 13 2021",
-			tags: ["yuri", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1977,7 +1977,7 @@ var data = {
 			art_url: null,
 			desc: "Smol Twink",
 			date_str: "October 6 2021",
-			tags: ["yuri", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -1989,7 +1989,7 @@ var data = {
 			art_url: null,
 			desc: "A Star Wars themed commission by the artist known for Yurigrid content",
 			date_str: "October 30 2022",
-			tags: ["ingrid", "yuri", "sfw"],
+			tags: ["jedi_ingrid", "sfw"],
 			hidden: false
 		},
 			{

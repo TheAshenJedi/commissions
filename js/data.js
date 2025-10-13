@@ -45,7 +45,7 @@ var data = {
 			art_url: null,
 			desc: "A smol Jedi Ingy",
 			date_str: "October 6 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["jedi_ingrid", "sfw"],
 			hidden: false
 		},
 		{
@@ -69,7 +69,7 @@ var data = {
 			art_url: null,
 			desc: "FE12 is easily my top 3 favorite Fire Emblem game and Kris is my new favorite Avatar. Upon going through the supports, my girlfriend and I found a new Rarepair",
 			date_str: "May 6 2025",
-			tags: ["kris", "navarre", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -129,7 +129,7 @@ var data = {
 			art_url: null,
 			desc: "Some wholesome summer Dorogrid. I ship these two to this very day regardless of the supports. They deserved better.",
 			date_str: "April 15 2022",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -189,7 +189,7 @@ var data = {
 			art_url: null,
 			desc: "Two blonde waifus forged into one! Gzei did an amazing job combining both of their designs.",
 			date_str: "December 5 2022",
-			tags: ["ingrid", "mythra", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -225,7 +225,7 @@ var data = {
 			art_url: "https://x.com/kalycoris/status/1613519543179137024",
 			desc: "Ingrid's underwater treasure hunt is going swimmingly",
 			date_str: "January 12 2023",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -405,7 +405,7 @@ var data = {
 			art_url: "https://x.com/RedKite333/status/1835173783067607495/photo/1",
 			desc: "A new AU that cropped up recently where Ingrid, Catria, Caeda and Kris form a band. Heavily inspired by my love for Fall Out Boy as well as a running gag that Ingrid has a thing for blue-haired Archaneans since I ship her with Catria.",
 			date_str: "September 15 2024",
-			tags: ["ingrid", "caeda", "catria", "kris", "sfw"],
+			tags: ["ingrid_and_the_bluenettes", "sfw"],
 			hidden: false
 		},
 		{
@@ -573,7 +573,7 @@ var data = {
 			art_url: null,
 			desc: "If you told me several years ago that I would commission a genderswap of Tails, I'd slap you. Times have changed and I'm happy for her transition",
 			date_str: "June 2 2025",
-			tags: ["tails", "sfw"],
+			tags: ["r63_tails", "sfw"],
 			hidden: false
 		},
 		{
@@ -1029,7 +1029,7 @@ var data = {
 			art_url: "https://bsky.app/profile/sethkiel.bsky.social/post/3lrosbvorrs2s",
 			desc: "Where is your boy tonight? I hope he is a gentleman. And maybe he won't find out what I know. You were the last good thing about this part of town",
 			date_str: "June 15 2025",
-			tags: ["ingrid", "catria", "caeda", "kris", "sfw"],
+			tags: ["ingrid_and_the_bluenettes", "sfw"],
 			hidden: false
 		},
 		{
@@ -1893,7 +1893,7 @@ var data = {
 			art_url: null,
 			desc: "After band practice, Ingrid and Catria find a secluded spot away from the others",
 			date_str: "October 3 2024",
-			tags: ["ingrid", "catria", "sfw"],
+			tags: ["ingrid_and_the_bluenettes", "sfw"],
 			hidden: false
 		},
 			{
@@ -1905,7 +1905,7 @@ var data = {
 			art_url: null,
 			desc: "A rare case of Ingrid and the Bluenettes being photogenic",
 			date_str: "November 7 2024",
-			tags: ["ingrid", "catria", "caeda", "kris", "sfw"],
+			tags: ["ingrid_and_the_bluenettes", "sfw"],
 			hidden: false
 		},
 		{
@@ -2001,7 +2001,7 @@ var data = {
 			art_url: null,
 			desc: "A cute chibi of summer Ingrid using her line from Feh",
 			date_str: "June 17 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -2013,7 +2013,7 @@ var data = {
 			art_url: null,
 			desc: "A portrait of Ingrid if she was in FE1",
 			date_str: "September 6 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2025,7 +2025,7 @@ var data = {
 			art_url: null,
 			desc: "Idk about Helltaker I just like the sassy gif",
 			date_str: "July 22 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -2037,7 +2037,7 @@ var data = {
 			art_url: null,
 			desc: "A peg knight in another peg knight's swimsuit",
 			date_str: "August 24 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2049,7 +2049,7 @@ var data = {
 			art_url: null,
 			desc: "She would unironically t-bag you",
 			date_str: "October 1 2021",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2085,7 +2085,7 @@ var data = {
 			art_url: null,
 			desc: "A Songstress and her Knight spending quality time together",
 			date_str: "January 7 2022",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -2097,7 +2097,7 @@ var data = {
 			art_url: "https://x.com/kalycoris/status/1476584865906794503",
 			desc: "The Songstress works her charm on her Knight",
 			date_str: "December 30 2021",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2109,7 +2109,7 @@ var data = {
 			art_url: "https://bsky.app/profile/quickalas.bsky.social/post/3lnm77m6lr22p",
 			desc: "Beautiful pixel art of Dorogrid based off the Plegian banner from Feh",
 			date_str: "October 3 2021",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2121,7 +2121,7 @@ var data = {
 			art_url: null,
 			desc: "An adrorable doodle featuring a Knight and Trickster bonding over a simple thing",
 			date_str: "September 11 2021",
-			tags: ["ingrid", "yuri", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -2133,7 +2133,7 @@ var data = {
 			art_url: null,
 			desc: "Shall we dance?",
 			date_str: "August 2 2021",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2145,7 +2145,7 @@ var data = {
 			art_url: null,
 			desc: "A sea nymph pounces on an unsuspecting knight",
 			date_str: "August 2021",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 		{
@@ -2157,7 +2157,7 @@ var data = {
 			art_url: null,
 			desc: "This time the Knight does the pouncing",
 			date_str: "November 3 2022",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2169,7 +2169,7 @@ var data = {
 			art_url: null,
 			desc: "Even the most stalwart knight struggle against a certain rose's charm",
 			date_str: "May 29 2022",
-			tags: ["ingrid", "dorothea", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2181,7 +2181,7 @@ var data = {
 			art_url: null,
 			desc: "Patdarux wanted to experiment with animations so here's a blue lion in the deep blue",
 			date_str: "July 7 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2193,7 +2193,7 @@ var data = {
 			art_url: "https://bsky.app/profile/jarckius.bsky.social/post/3le5nyvqymc2u",
 			desc: "Ingrid and the Bluenettes has a special get together for the holidays",
 			date_str: "December 25 2025",
-			tags: ["ingrid", "catria", "caeda", "kris", "eechi"],
+			tags: ["ingrid_and_the_bluenettes", "eechi"],
 			hidden: false
 		},
 			{
@@ -2205,7 +2205,7 @@ var data = {
 			art_url: "https://bsky.app/profile/jarckius.bsky.social/post/3kyabsvb4l52j",
 			desc: "A joint project and gift for Yoostink: commissioner of Hooter's Lucina",
 			date_str: "July 26 2024",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2217,7 +2217,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid is hesitant when tasked to apply sunscreen to Dorothea",
 			date_str: "August 27 2023",
-			tags: ["ingrid", "dorothea"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2229,7 +2229,7 @@ var data = {
 			art_url: "https://x.com/1340Smile/status/1472345463261220864",
 			desc: "I never thought I'd predict the ending of Xenoblade 3 several years ago",
 			date_str: "December 18 2021",
-			tags: ["pyra", "nia", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2241,7 +2241,7 @@ var data = {
 			art_url: "https://x.com/thrananaart/status/1607865147502252032",
 			desc: "Taking a break from the killing game",
 			date_str: "December 27 2022",
-			tags: ["kaede", "miu", "sfw"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2253,7 +2253,7 @@ var data = {
 			art_url: "https://x.com/AramyxDraws/status/1811491111963095390",
 			desc: "Will you join her in the pool?",
 			date_str: "July 11 24",
-			tags: ["alear", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2265,7 +2265,7 @@ var data = {
 			art_url: "https://x.com/aramyxdraws/status/1603480319973285891?s=61&t=N9pfcazXlT3oKfuoUvTgKg",
 			desc: "Ingrid wearing the armor of the Dark Knight from Fire Emblem Fates. She's making good use of its key asset.",
 			date_str: "December 15 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2277,7 +2277,7 @@ var data = {
 			art_url: null,
 			desc: "Taking a dip in the Professor's swimwear",
 			date_str: "January 18 2022",
-			tags: ["ingrid", "sfw"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2289,7 +2289,7 @@ var data = {
 			art_url: "https://x.com/JackaryDraws/status/1680063166976335873",
 			desc: "My first ever commission for the Blue Lion featuring Jackary's custom swimsuit design",
 			date_str: "December 20 2017",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2301,7 +2301,7 @@ var data = {
 			art_url: null,
 			desc: "Mune is know for their swimsuit commissions, so I went with a surfer's wetsuit",
 			date_str: "September 2 2021",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2313,7 +2313,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid feeling cheeky in her athletic underwear",
 			date_str: "August 30 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2325,7 +2325,7 @@ var data = {
 			art_url: "https://x.com/_deeKei/status/1593983248220114945",
 			desc: "A sea lion searches for gems for her Songstress",
 			date_str: "November 19 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2337,7 +2337,7 @@ var data = {
 			art_url: null,
 			desc: "From lion to bunny",
 			date_str: "December 24 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2347,9 +2347,9 @@ var data = {
 			artist: "Willanator93",
 			artist_url: "https://x.com/Willanator93",
 			art_url: "https://x.com/Willanator93/status/1643320804086779905",
-			desc: "Kronya's fit wouldn't be out of fit for a Sith Lord",
+			desc: "Kronya's fit wouldn't be out of place for a Sith Lord",
 			date_str: "April 4 2023",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2361,7 +2361,7 @@ var data = {
 			art_url: null,
 			desc: "Another outfit that helps emphasize Ingrid's assets",
 			date_str: "July 19 2022",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2373,7 +2373,7 @@ var data = {
 			art_url: "https://x.com/SilverCandyGum/status/1943367226582851680",
 			desc: "These Lady Knights choose a different means of transportation",
 			date_str: "July 10 2025",
-			tags: ["ingrid", "catria", "merrin", "palla", "minerva", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2385,7 +2385,7 @@ var data = {
 			art_url: null,
 			desc: "Her abs aren't her only defining feature",
 			date_str: "July 12 2023",
-			tags: ["etie", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2397,7 +2397,7 @@ var data = {
 			art_url: "https://x.com/Hayato_Stuff/status/1547662540737458176?s=20&t=9GbJ6p_3bXmJPU8PwoOeCg",
 			desc: "Various blonde waifus rocking the Zero Suit",
 			date_str: "July 14 2022",
-			tags: ["ingrid", "ophelia", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2409,7 +2409,7 @@ var data = {
 			art_url: null,
 			desc: "These waves are a bit more choppier than usual today",
 			date_str: "July 19 2024",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2421,7 +2421,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid and Dorothea's bodies show a history of intimacy",
 			date_str: "October 14 2021",
-			tags: ["ingrid", "dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2433,7 +2433,7 @@ var data = {
 			art_url: null,
 			desc: "Any and all proper semblance of a kiss gets lost when Ingrid and Dorothea get intimate",
 			date_str: "February 15 2022",
-			tags: ["ingrid", "dorothea", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2445,7 +2445,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid is blessed by the power of the Aegis",
 			date_str: "October 25 2022",
-			tags: ["ingrid", "mythra", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2457,7 +2457,7 @@ var data = {
 			art_url: "https://x.com/Bellfonts/status/1609658913489670144",
 			desc: "These blondes are caked up no matter the swimwear. A gift commission from a Secret Santa",
 			date_str: "January 1 2023",
-			tags: ["ingrid", "mythra", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 		{
@@ -2469,7 +2469,7 @@ var data = {
 			art_url: null,
 			desc: "Lavai and Delicia have gotten close in such a short timespan. I'm sure they'll make great friends. A gift commission for Iris",
 			date_str: "July 11 2025",
-			tags: ["dee", "oc", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 		{
@@ -2493,7 +2493,7 @@ var data = {
 			art_url: null,
 			desc: "Alear offers herself to Ivy's new form of magic",
 			date_str: "",
-			tags: ["alear", "extreme"],
+			tags: ["extreme"],
 			hidden: false
 		},
 			{
@@ -2505,7 +2505,7 @@ var data = {
 			art_url: "https://x.com/jarckius_art/status/1806805953196728690",
 			desc: "Self love is important",
 			date_str: "",
-			tags: ["pyra", "mythra", "extreme"],
+			tags: ["extreme"],
 			hidden: false
 		},
 			{
@@ -2517,7 +2517,7 @@ var data = {
 			art_url: null,
 			desc: "Ingrid comforts a merchant who got lost finding her siblings",
 			date_str: "July 24 2025",
-			tags: ["ingrid", "anna", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2553,7 +2553,7 @@ var data = {
 			art_url: null,
 			desc: "A gift commission for my friend Griff featuring her summoner Bune and Thorr from Fire Emblem Heroes",
 			date_str: "August 11 2025",
-			tags: ["oc", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 				{
@@ -2589,7 +2589,7 @@ var data = {
 			art_url: null,
 			desc: "Petra is one of those characters I enjoyed in Three Houses, but got overshadowed by my love for Ingrid. Underwater themed commissions are my go-to summer idea. Petra has a summer alt in feh and lists swimming as her hobby so it made perfect sense to do it",
 			date_str: "August 18 2025",
-			tags: ["petra", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2613,7 +2613,7 @@ var data = {
 			art_url: "https://bsky.app/profile/kimagureilya.bsky.social/post/3lwwuomzhoc2d",
 			desc: "My girlfriend suggest summer Celica in the color scheme of her corrupt Emblem form in Engage. It suits her nicely",
 			date_str: "August 21 2025",
-			tags: ["celica", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2625,7 +2625,7 @@ var data = {
 			art_url: "https://bsky.app/profile/fgsketch.bsky.social/post/3lwzxp5nu7s2e",
 			desc: "After an intense Lightsaber duel, two Princesses set aside their differences",
 			date_str: "August 21 2025",
-			tags: ["eirika", "camilla", "eechi"],
+			tags: ["star_wars_crossover", "eechi"],
 			hidden: false
 		},
 				{
@@ -2637,7 +2637,7 @@ var data = {
 			art_url: "https://bsky.app/profile/silentshanin.bsky.social/post/3lx2oe5m2fs2a",
 			desc: "A silly joke comm for Toto featuring our favorite characters being good friends",
 			date_str: "August 23 2025",
-			tags: ["ingrid", "ash", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 			{
@@ -2661,7 +2661,7 @@ var data = {
 			art_url: null,
 			desc: "Miss Galatea showing off her flexibility",
 			date_str: "September 12 2025",
-			tags: ["ingrid", "eechi"],
+			tags: ["eechi"],
 			hidden: false
 		},
 			{
@@ -2673,7 +2673,7 @@ var data = {
 			art_url: null,
 			desc: "Kris enjoys one final dive before the end of the summer",
 			date_str: "September 15 2025",
-			tags: ["kris", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 				{
@@ -2685,7 +2685,7 @@ var data = {
 			art_url: "https://x.com/wish_fuu/status/1969040295250518059",
 			desc: "The last thing you see after you threaten Marth",
 			date_str: "September 19 2025",
-			tags: ["kris", "sfw"],
+			tags: ["sfw"],
 			hidden: false
 		},
 					{
@@ -2709,7 +2709,7 @@ var data = {
 			art_url: "https://bsky.app/profile/cavilthewayseeker.bsky.social/post/3m2fpcqag2s2l",
 			desc: "A gift commission for my friend Griff featuring her Summoner and Eirika",
 			date_str: "September 5 2025",
-			tags: ["oc", "eirika", "sfw"],
+			tags: ["oc", "sfw"],
 			hidden: false
 		},
 				{
@@ -2721,7 +2721,7 @@ var data = {
 			art_url: null,
 			desc: "A full body of my Fem Tails Gijinka",
 			date_str: "October 7 2025",
-			tags: ["tails", "oc"],
+			tags: ["r63_tails", "eechi"],
 			hidden: false
 		},
 			{
@@ -2733,7 +2733,7 @@ var data = {
 			art_url: null,
 			desc: "A collab with a friend featuring Ryza and Yumia from the Atelier series",
 			date_str: "October 8 2025",
-			tags: ["atelier", "nsfw"],
+			tags: ["nsfw"],
 			hidden: false
 		},
 			{

@@ -297,6 +297,8 @@ function translateWord(word) {
 		cavil: "Cavil",
 		dee: "Dee",
 		oc: "OC",
+		star_wars_crossover: "Star Wars Crossover",
+		jedi_ingrid: "Jedi Ingrid",
 		ingrid: "Ingrid"
 	};
 	if (word in translations) {

@@ -287,7 +287,7 @@ function translateWord(word) {
 		fortnite: "Fortnite",
 		kaede: "Kaede",
 		miu: "Miu",
-		tails: "Tails",
+		r63_tails: "R63 Tails",
 		atelier: "Atelier",
 		tiki: "Tiki",
 		ash: "Ash",
@@ -297,6 +297,7 @@ function translateWord(word) {
 		cavil: "Cavil",
 		dee: "Dee",
 		oc: "OC",
+		ingrid_and_the_bluenettes: "Ingrid and the Bluenettes",
 		star_wars_crossover: "Star Wars Crossover",
 		jedi_ingrid: "Jedi Ingrid",
 		ingrid: "Ingrid"

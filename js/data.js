@@ -2736,6 +2736,18 @@ var data = {
 			tags: ["nsfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/6bd6977a9342.gif"],
+			thumbnail: "https://cdn.imgchest.com/files/6bd6977a9342.gif",
+			title: "Smol Kris",
+			artist: "Patdarux",
+			artist_url: "https://x.com/patdarux",
+			art_url: "https://x.com/patdarux/status/1977804393618542626",
+			desc: "Despite her haters, Lady Kris presses on",
+			date_str: "October 13 2025",
+			tags: ["sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

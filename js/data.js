@@ -567,7 +567,7 @@ var data = {
 		{
 			src: ["https://cdn.imgchest.com/files/y2pckl5nwe7.png"],
 			thumbnail: "https://cdn.imgchest.com/files/4jdcv86mdo4.png",
-			title: "Female Tails Gijinka",
+			title: "Millie Tails Prower Gijinka Beta",
 			artist: "Motoi",
 			artist_url: "https://skeb.jp/@motoiwork",
 			art_url: null,
@@ -2746,6 +2746,18 @@ var data = {
 			desc: "Despite her haters, Lady Kris presses on",
 			date_str: "October 13 2025",
 			tags: ["sfw"],
+			hidden: false
+		},
+					{
+			src: ["https://cdn.imgchest.com/files/9ef8b61fe037.png"],
+			thumbnail: "https://cdn.imgchest.com/files/35e0a5320d56.png",
+			title: "Millie 'Tails' Prower Reference Sheet",
+			artist: "OniNuer",
+			artist_url: "https://x.com/OniNuer_Art",
+			art_url: null,
+			desc: "My take on a genderswapped Gijinka of Sonic's sidekick",
+			date_str: "October 22 2025",
+			tags: ["r63_tails", "eechi"],
 			hidden: false
 		},
 			{

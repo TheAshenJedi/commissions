@@ -2760,6 +2760,18 @@ var data = {
 			tags: ["r63_tails", "eechi"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/55d8147db4b6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/74e4ed46163c.png",
+			title: "Believe in Myself",
+			artist: "SMGold",
+			artist_url: "https://x.com/SMGold_",
+			art_url: null,
+			desc: "As the years passed, Tails learned that you don't always need Sonic by your side to be a hero",
+			date_str: "October 26 2025",
+			tags: ["r63_tails", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

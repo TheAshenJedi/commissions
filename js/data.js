@@ -2754,7 +2754,7 @@ var data = {
 			title: "Millie 'Tails' Prower Reference Sheet",
 			artist: "OniNuer",
 			artist_url: "https://x.com/OniNuer_Art",
-			art_url: null,
+			art_url: "https://x.com/OniNuer_Art/status/1981871723361550536",
 			desc: "My take on a genderswapped Gijinka of Sonic's sidekick",
 			date_str: "October 22 2025",
 			tags: ["r63_tails", "eechi"],

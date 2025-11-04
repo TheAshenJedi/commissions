@@ -2772,6 +2772,18 @@ var data = {
 			tags: ["r63_tails", "sfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/2e329a3329b3.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5c6eeecdc68f.png",
+			title: "Biker Backsides",
+			artist: "Jax",
+			artist_url: "https://x.com/Jax_Drawz",
+			art_url: null,
+			desc: "Mixing things up from my usual content with the Princesses and Pauline rocking their Aero outfits in Mario Kart World",
+			date_str: "November 4 2025",
+			tags: ["eechi"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

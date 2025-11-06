@@ -2778,7 +2778,7 @@ var data = {
 			title: "Biker Backsides",
 			artist: "Jax",
 			artist_url: "https://x.com/Jax_Drawz",
-			art_url: null,
+			art_url: "https://x.com/Jax_Drawz/status/1986534029621887081",
 			desc: "Mixing things up from my usual content with the Princesses and Pauline rocking their Aero outfits in Mario Kart World",
 			date_str: "November 4 2025",
 			tags: ["eechi"],

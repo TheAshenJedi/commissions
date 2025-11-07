@@ -2790,7 +2790,7 @@ var data = {
 			title: "Sweet Dreams",
 			artist: "DeepSpace",
 			artist_url: "https://x.com/DeepSpaceSFW",
-			art_url: null,
+			art_url: "https://x.com/DeepSpaceSFW/status/1986813986893963351",
 			desc: "It's Camilla's turn for the Lightsaber Hallway Murder Scene",
 			date_str: "November 7 2025",
 			tags: ["star_wars_crossover", "sfw"],

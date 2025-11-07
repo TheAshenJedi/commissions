@@ -2785,6 +2785,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/e43fa0f3daef.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/5a574fe92767.jpg",
+			title: "Sweet Dreams",
+			artist: "DeepSpace",
+			artist_url: "https://x.com/DeepSpaceSFW",
+			art_url: null,
+			desc: "It's Camilla's turn for the Lightsaber Hallway Murder Scene",
+			date_str: "November 7 2025",
+			tags: ["star_wars_crossover", "sfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

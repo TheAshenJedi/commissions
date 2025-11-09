@@ -2796,6 +2796,18 @@ var data = {
 			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/3eb8fdf82ae6.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3eb8fdf82ae6.png",
+			title: "Tails takes flight",
+			artist: "LiaLiar",
+			artist_url: "https://x.com/LiaLiar1",
+			art_url: null,
+			desc: "Where are we droppin?",
+			date_str: "November 8 2025",
+			tags: ["r63_tails", "eechi"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

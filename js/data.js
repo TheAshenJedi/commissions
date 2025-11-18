@@ -2808,6 +2808,18 @@ var data = {
 			tags: ["r63_tails", "eechi"],
 			hidden: false
 		},
+				{
+			src: ["https://imgchest.com/p/md7oanmgayp"],
+			thumbnail: "https://cdn.imgchest.com/files/72006b457639.png",
+			title: "Yapping Away",
+			artist: "fusenryo",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Unlike sand, Delicia has a silvery way with words when she's around Xochitl. A birthday gift for Toto",
+			date_str: "November 15 2025",
+			tags: ["dee", "oc", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

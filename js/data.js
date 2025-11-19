@@ -2820,6 +2820,18 @@ var data = {
 			tags: ["dee", "oc", "sfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/b08aa6818163.png", "https://cdn.imgchest.com/files/397429eaf543.png"],
+			thumbnail: "https://cdn.imgchest.com/files/c579471e5734.png",
+			title: "See You Next Mission",
+			artist: "Redkite",
+			artist_url: "https://x.com/RedKite333",
+			art_url: "https://x.com/RedKite333/status/1991285525056197094?s=20",
+			desc: "Delicia takes it easy after a finishing her latest job",
+			date_str: "November 19 2025",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

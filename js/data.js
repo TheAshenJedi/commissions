@@ -2827,9 +2827,21 @@ var data = {
 			artist: "Redkite",
 			artist_url: "https://x.com/RedKite333",
 			art_url: "https://x.com/RedKite333/status/1991285525056197094?s=20",
-			desc: "Delicia takes it easy after a finishing her latest job",
+			desc: "Delicia takes it easy after finishing her latest job",
 			date_str: "November 19 2025",
 			tags: ["dee", "sfw"],
+			hidden: false
+		},
+				{
+			src: ["https://cdn.imgchest.com/files/362f6e330053.png"],
+			thumbnail: "https://cdn.imgchest.com/files/ad985b90b651.png",
+			title: "Feisty Fox",
+			artist: "FGsketch",
+			artist_url: "https://x.com/FGsketch",
+			art_url: null,
+			desc: "Millie Tails Prower inherited some of Sonic's attitude",
+			date_str: "November 19 2025",
+			tags: ["r63_tails", "eechi"],
 			hidden: false
 		},
 			{

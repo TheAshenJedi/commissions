@@ -2844,6 +2844,18 @@ var data = {
 			tags: ["r63_tails", "eechi"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/5ff707d94761.png"],
+			thumbnail: "https://cdn.imgchest.com/files/0b16b42e52fc.png",
+			title: "Mother and Daughter",
+			artist: "Griff",
+			artist_url: "https://bsky.app/profile/renaisblade.bsky.social",
+			art_url: null,
+			desc: "They grow up so fast...",
+			date_str: "November 20 2025",
+			tags: ["dee", "jedi_ingrid", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

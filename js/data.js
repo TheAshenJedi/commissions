@@ -2856,6 +2856,18 @@ var data = {
 			tags: ["dee", "jedi_ingrid", "sfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/909a6020a3dd.png"],
+			thumbnail: "https://cdn.imgchest.com/files/909a6020a3dd.png",
+			title: "Old Skool",
+			artist: "quick",
+			artist_url: "https://bsky.app/profile/quickalas.bsky.social",
+			art_url: null,
+			desc: "Millie gets a classic look",
+			date_str: "November 24 2025",
+			tags: ["r63_tails", "sfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

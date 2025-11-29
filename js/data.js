@@ -2869,6 +2869,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/06cae6b38a21.png"],
+			thumbnail: "https://cdn.imgchest.com/files/40111d64ce4f.png",
+			title: "Lord have Mercie",
+			artist: "wish_fuu",
+			artist_url: "https://x.com/wish_fuu",
+			art_url: "https://x.com/wish_fuu/status/1994416457229426779?s=20",
+			desc: "Even when she is not baking, Mercedes is always packing cake. A gift for Yoostink.",
+			date_str: "November 28 2025",
+			tags: ["eechi"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

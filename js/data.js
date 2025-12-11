@@ -2893,6 +2893,18 @@ var data = {
 			hidden: false
 		},
 			{
+			src: ["https://cdn.imgchest.com/files/0f5ac13fe2ab.png"],
+			thumbnail: "https://cdn.imgchest.com/files/6b9bbc8a617d.png",
+			title: "A Canon Event",
+			artist: "Abyss162",
+			artist_url: "https://x.com/Abyss162",
+			art_url: null,
+			desc: "Delicia shares a tender moment with Lavai. Her first of many lovers",
+			date_str: "December 12 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
+			{
 			src: [""],
 			thumbnail: "",
 			title: "",

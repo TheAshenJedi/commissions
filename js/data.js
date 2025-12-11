@@ -2880,6 +2880,18 @@ var data = {
 			tags: ["eechi"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/d6dd599cd8ce.png"],
+			thumbnail: "https://cdn.imgchest.com/files/67bdfd8da69c.png",
+			title: "Tied in Physical Competence",
+			artist: "ebinku",
+			artist_url: "https://x.com/ebinkuu",
+			art_url: "https://x.com/ebinkuu18/status/1998950254255940022?s=20",
+			desc: "Navarre and Kris let out some excess energy after a sword sparring session",
+			date_str: "December 10 2025",
+			tags: ["nsfw"],
+			hidden: false
+		},
 			{
 			src: [""],
 			thumbnail: "",

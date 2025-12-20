@@ -2914,7 +2914,7 @@ var data = {
 			desc: "A gift from Toto for my birthday",
 			date_str: "December 20 2025",
 			tags: ["dee", "sfw"],
-			hidden: true
+			hidden: false
 		}
 	]
 };

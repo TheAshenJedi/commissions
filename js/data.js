@@ -2905,15 +2905,15 @@ var data = {
 			hidden: false
 		},
 			{
-			src: [""],
-			thumbnail: "",
-			title: "",
-			artist: "",
-			artist_url: "",
-			art_url: "",
-			desc: "",
-			date_str: "",
-			tags: [""],
+			src: ["https://cdn.imgchest.com/files/3e7ec2bbf529.png"],
+			thumbnail: "https://cdn.imgchest.com/files/3e7ec2bbf529.png",
+			title: "The Dee as a Feh sprite",
+			artist: "Toto",
+			artist_url: "https://x.com/FehGodly",
+			art_url: "https://x.com/FehGodly/status/2002423784545087988",
+			desc: "A gift from Toto for my birthday",
+			date_str: "December 20 2025",
+			tags: ["dee", "sfw"],
 			hidden: true
 		}
 	]

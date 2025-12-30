@@ -2915,6 +2915,18 @@ var data = {
 			date_str: "December 20 2025",
 			tags: ["dee", "sfw"],
 			hidden: false
+		},
+			{
+			src: ["https://cdn.imgchest.com/files/24d710ff6924.png"],
+			thumbnail: "https://cdn.imgchest.com/files/28b62731fdb7.png",
+			title: "Cavil's younger years",
+			artist: "mr senor/takumiiscool",
+			artist_url: "https://bsky.app/profile/takumiiscool.bsky.social",
+			art_url: null,
+			desc: "A gift from Mr Senor for my birthday",
+			date_str: "December 29 2025",
+			tags: ["cavil", "sfw"],
+			hidden: false
 		}
 	]
 };

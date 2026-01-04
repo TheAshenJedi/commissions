@@ -2927,6 +2927,18 @@ var data = {
 			date_str: "December 29 2025",
 			tags: ["cavil", "sfw"],
 			hidden: false
+		},
+				{
+			src: ["https://cdn.imgchest.com/files/f3fa58674d8d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7fcc8d923575.png",
+			title: "Blade and Blaster",
+			artist: "harunn2288",
+			artist_url: "https://x.com/harunn2288",
+			art_url: null,
+			desc: "Probably just a coincidence but it's nice Harunn completed this commission in time for her mother's birthday",
+			date_str: "January 4 2026",
+			tags: ["dee", "sfw"],
+			hidden: false
 		}
 	]
 };

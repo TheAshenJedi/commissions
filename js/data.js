@@ -2951,6 +2951,18 @@ var data = {
 			date_str: "January 5 2026",
 			tags: ["dee", "sfw"],
 			hidden: false
+		},
+							{
+			src: ["https://cdn.imgchest.com/files/693b53210696.png"],
+			thumbnail: "https://cdn.imgchest.com/files/f5f7ec8b57dc.png",
+			title: "A Knight's duty is never done",
+			artist: "Saber7",
+			artist_url: "https://x.com/_Saber7",
+			art_url: null,
+			desc: "There's no such thing as a break for Dee. Easily my favorite commission of her",
+			date_str: "January 6 2026",
+			tags: ["dee", "sfw"],
+			hidden: false
 		}
 	]
 };

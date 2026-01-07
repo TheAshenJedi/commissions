@@ -2939,6 +2939,18 @@ var data = {
 			date_str: "January 4 2026",
 			tags: ["dee", "sfw"],
 			hidden: false
+		},
+					{
+			src: ["https://cdn.imgchest.com/files/039885fae5d5.GIF"],
+			thumbnail: "https://cdn.imgchest.com/files/039885fae5d5.GIF",
+			title: "Dee as a 3DS Sprite",
+			artist: "ceph",
+			artist_url: "https://ko-fi.com/cephunmaskedknight",
+			art_url: null,
+			desc: "I'd imagine she would be a sword, magic and dragonstone unit similar to Nohr Noble Corrin",
+			date_str: "January 5 2026",
+			tags: ["dee", "sfw"],
+			hidden: false
 		}
 	]
 };

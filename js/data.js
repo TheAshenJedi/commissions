@@ -2958,7 +2958,7 @@ var data = {
 			title: "A Knight's duty is never done",
 			artist: "Saber7",
 			artist_url: "https://x.com/_Saber7",
-			art_url: null,
+			art_url: "https://x.com/_Saber7/status/2008806252693123517?s=20",
 			desc: "There's no such thing as a break for Dee. Easily my favorite commission of her",
 			date_str: "January 6 2026",
 			tags: ["dee", "sfw"],

@@ -2963,6 +2963,18 @@ var data = {
 			date_str: "January 6 2026",
 			tags: ["dee", "sfw"],
 			hidden: false
+		},
+			{
+			src: ["https://cdn.imgchest.com/files/06c0787cffa2.png"],
+			thumbnail: "https://cdn.imgchest.com/files/7de8d35a9daf.png",
+			title: "Swimming Lessons",
+			artist: "DeebyFeeby",
+			artist_url: "https://x.com/DeebyFeeby",
+			art_url: "https://x.com/DeebyFeeby/status/2010872230742282331",
+			desc: "A commission featuring Dee and Griff's OC Thrud. I got the idea because Thrud can't swim meanwhile Dee enjoys freedivng and throught it would make for a silly headcanon",
+			date_str: "January 12 2026",
+			tags: ["dee", "oc", "sfw"],
+			hidden: false
 		}
 	]
 };

@@ -2761,7 +2761,7 @@ var data = {
 			hidden: false
 		},
 				{
-			src: ["https://cdn.imgchest.com/files/55d8147db4b6.png"],
+			src: ["https://cdn.imgchest.com/files/d21d08a1ca8d.png"],
 			thumbnail: "https://cdn.imgchest.com/files/74e4ed46163c.png",
 			title: "Believe in Myself",
 			artist: "SMGold",

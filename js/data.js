@@ -2975,6 +2975,18 @@ var data = {
 			date_str: "January 12 2026",
 			tags: ["dee", "oc", "sfw"],
 			hidden: false
-		}
+		},
+					{
+			src: ["https://cdn.imgchest.com/files/d81523f790b7.png"],
+			thumbnail: "https://cdn.imgchest.com/files/79ec2fa3790f.png",
+			title: "Exploring the Mystic Ruins jungle",
+			artist: "fusenryo",
+			artist_url: "https://skeb.jp/@fusenryo2",
+			art_url: null,
+			desc: "Millie reflects upon her growth as well as fond memories with Sonic",
+			date_str: "January 14 2026",
+			tags: ["r63_tails", "sfw"],
+			hidden: false
+		},
 	]
 };

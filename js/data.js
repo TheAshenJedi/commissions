@@ -2797,8 +2797,8 @@ var data = {
 			hidden: false
 		},
 		{
-			src: ["https://cdn.imgchest.com/files/c181da94c2e0.png"],
-			thumbnail: "https://cdn.imgchest.com/files/c181da94c2e0.png",
+			src: ["https://cdn.imgchest.com/files/fa2b812dd010.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/fa2b812dd010.jpg",
 			title: "Tails takes flight",
 			artist: "LiaLiar",
 			artist_url: "https://x.com/LiaLiar1",

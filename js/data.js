@@ -2988,5 +2988,17 @@ var data = {
 			tags: ["r63_tails", "sfw"],
 			hidden: false
 		},
+						{
+			src: ["https://cdn.imgchest.com/files/d423cace6632.png"],
+			thumbnail: "https://cdn.imgchest.com/files/d423cace6632.png",
+			title: "I miss my wife. Tails.",
+			artist: "Jebbee",
+			artist_url: "https://bsky.app/profile/jebbee.bsky.social",
+			art_url: "https://bsky.app/profile/jebbee.bsky.social/post/3mcmhfnz5cs2g",
+			desc: "Wait my wife isn't Tails what does that even mean?",
+			date_str: "January 17 2026",
+			tags: ["r63_tails", "sfw"],
+			hidden: false
+		},
 	]
 };

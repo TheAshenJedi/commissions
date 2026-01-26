@@ -3012,5 +3012,17 @@ var data = {
 			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
+							{
+			src: ["https://cdn.imgchest.com/files/f1ff4b850a5d.png"],
+			thumbnail: "https://cdn.imgchest.com/files/4a0d06ef6b3e.png",
+			title: "A much needed rest",
+			artist: "Mzrz",
+			artist_url: "https://x.com/mzrz555",
+			art_url: "https://x.com/mzrz555/status/2015398383733928178?s=20",
+			desc: "Millie takes a rest after a long adventure",
+			date_str: "January 26 2026",
+			tags: ["r63_tails", "sfw"],
+			hidden: false
+		},
 	]
 };

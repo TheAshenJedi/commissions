@@ -3000,5 +3000,17 @@ var data = {
 			tags: ["r63_tails", "sfw"],
 			hidden: false
 		},
+				{
+			src: ["https://cdn.imgchest.com/files/94400781155f.jpg"],
+			thumbnail: "https://cdn.imgchest.com/files/94400781155f.jpg",
+			title: "Catria as Satele Shan",
+			artist: "sumustard",
+			artist_url: "https://x.com/sumustard",
+			art_url: "https://x.com/sumustard/status/2015859081282453571?s=20",
+			desc: "Catria wearing the attire of an Old Republic Jedi",
+			date_str: "January 26 2026",
+			tags: ["star_wars_crossover", "sfw"],
+			hidden: false
+		},
 	]
 };

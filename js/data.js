@@ -3036,5 +3036,17 @@ var data = {
 			tags: ["star_wars_crossover", "sfw"],
 			hidden: false
 		},
+		{
+			src: ["https://cdn.imgchest.com/files/aba66b49df51.png"],
+			thumbnail: "https://cdn.imgchest.com/files/aba66b49df51.png",
+			title: "Divinity and Despair",
+			artist: "Sethkiel",
+			artist_url: "https://x.com/sethkiell",
+			art_url: null,
+			desc: "Hey Dee, could you lock the fuck in?",
+			date_str: "January 27 2026",
+			tags: ["dee", "sfw"],
+			hidden: false
+		},
 	]
 };

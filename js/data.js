@@ -3024,5 +3024,17 @@ var data = {
 			tags: ["r63_tails", "sfw"],
 			hidden: false
 		},
+						{
+			src: ["https://cdn.imgchest.com/files/5d7274860dc0.png"],
+			thumbnail: "https://cdn.imgchest.com/files/5d7274860dc0.png",
+			title: "Perfect Harmony",
+			artist: "Griff",
+			artist_url: "https://x.com/RenaisBlade",
+			art_url: "https://x.com/RenaisBlade/status/2016556879892173261?s=20",
+			desc: "A princess of light and shadow train together",
+			date_str: "January 28 2026",
+			tags: ["star_wars_crossover", "sfw"],
+			hidden: false
+		},
 	]
 };
